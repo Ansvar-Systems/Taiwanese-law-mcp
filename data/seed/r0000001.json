@@ -1,0 +1,62 @@
+{
+  "id": "tw-r0000001",
+  "type": "statute",
+  "title": "考選部組織法",
+  "title_en": "Organic Act of the Ministry of Examination",
+  "short_name": "Organic Act of the Ministry of Examination",
+  "status": "in_force",
+  "issued_date": "2023-05-17",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=R0000001",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 考試＞考選部＞組織目. Articles extracted: 8.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "考試院為辦理全國公務人員與專門職業及技術人員考選行政事宜，特設考選部（以下簡稱本部）。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本部對於承辦考選行政事務之機關有指示監督之權。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本部掌理下列事項：\n一、考選政策、制度、法規之資料蒐集、規劃、擬訂、研究發展及公務人才招募。\n二、公務人員考試之典試、試務及業務法令之擬議、解釋。\n三、專門職業及技術人員考試之典試、試務及業務法令之擬議、解釋。\n四、國家考試試題之編製、管理、分析及測驗技術之研究發展。\n五、國家考試數位發展及資通安全防護之規劃及管理。\n六、其他有關考選行政事宜之政策規劃、執行及發展。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本部置部長一人，特任；政務次長一人，職務比照簡任第十四職等；常務次長一人，職務列簡任第十四職等。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本部置主任秘書，職務列簡任第十二職等。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "本部為強化國家考試測驗評量研究功能，提升測驗技術及試題品質，得依聘用人員聘用條例之規定，聘用具測驗評量專長之專業研究人員三人至七人。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "本部各職稱之官等職等及員額，另以編制表定之。"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "第 8 條",
+      "content": "本法施行日期，由考試院定之。"
+    }
+  ],
+  "definitions": []
+}

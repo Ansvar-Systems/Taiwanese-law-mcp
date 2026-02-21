@@ -1,0 +1,50 @@
+{
+  "id": "tw-b0010007",
+  "type": "statute",
+  "title": "破產法施行法",
+  "title_en": "破產法施行法",
+  "short_name": "破產法施行法",
+  "status": "in_force",
+  "issued_date": "2018-06-13",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=B0010007",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 司法＞院本部＞民事目. Articles extracted: 6.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "破產法施行前不能清償債務之事件，已由法院或商會開始處理者，視其進行程度依破產法所定之程序終結之，其已進行之部分，不失其效力。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "依破產法修正前所為之羈押，與該法修正後所為之管收，其期間應合併計算，總計不得逾一年。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "破產法第一百四十九條之規定，於不能清償債務之事件，在破產法施行前已處理完結者，不適用之。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "破產法施行前受破產宣告者，得依破產法第三章第七節之規定，為復權之聲請。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "商人債務清理暫行條例，自破產法施行之日，失其效力。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "本法自破產法施行之日施行。\n中華民國一百零七年五月二十二日修正之破產法，自公布日施行。"
+    }
+  ],
+  "definitions": []
+}

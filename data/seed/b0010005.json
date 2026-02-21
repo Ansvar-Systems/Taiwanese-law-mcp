@@ -1,0 +1,110 @@
+{
+  "id": "tw-b0010005",
+  "type": "statute",
+  "title": "管收條例",
+  "title_en": "管收條例",
+  "short_name": "管收條例",
+  "status": "in_force",
+  "issued_date": "1980-07-23",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=B0010005",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 司法＞院本部＞民事目. Articles extracted: 16.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本條例依強制執行法第二十六條制定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "對於債務人、擔保人或其他依法得拘提、管收之人之拘提、管收，除強制執行法及本條例有規定外，準用刑事訴訟法關於拘提、羈押之規定。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "拘提，應用拘票。\n拘票，應記載左列事項，由推事及書記官簽名：\n一、應拘提人之姓名、性別、及住居所。\n二、拘提之理由。\n三、應到之日時及處所。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "拘提由執達員執行。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "管收應用管收票。\n管收票，應記載左列事項，由推事及書記官簽名：\n一、應管收人之姓名、性別、及住居所。\n二、管收之理由。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "執行管收，由執達員將應管收人送交管收所。\n管收所所長驗收後，應於管收票附記送到之年、月、日、時並簽名。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "債務人、擔保人或其他依法得管收之人有左列情形之一者，不得管收；其情形發生於管收後者，應停止管收：\n一、因管收而其一家生計有難以維持之虞者。\n二、懷胎六月以上或生產後二月未滿者。\n三、現罹疾病，恐因管收而不能治療者。"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "第 8 條",
+      "content": "管收所應單獨設置；未單獨設置者，得委託看守所附設之。但應與刑事被告之羈押處所隔離。"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "第 9 條",
+      "content": "被管收人之管束，以維持管收所秩序所必要者為限。\n被管收人得自備飲食及日用必需物品，並與外人接見、通訊、受授書籍及其他物件，但管收所得監視或檢閱之。"
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "第 10 條",
+      "content": "管收所規則，由各高等法院擬訂，報請司法院核定發布。"
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "第 11 條",
+      "content": "法院應隨時提詢被管收人，每月至少不得在二次以下。"
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "第 12 條",
+      "content": "管收情形是否適當，法院應隨時考察或糾正之。"
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "第 13 條",
+      "content": "被管收人已就債務提出相當擔保，或管收期限屆滿，或執行完結時，應即釋放。"
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "第 14 條",
+      "content": "因管收而支出之飲食及其他必要費用，由債務人負擔。"
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "第 15 條",
+      "content": "各法院每屆月終，應造具管收報告書，陳報司法院，至遲不得逾翌月十日。"
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "第 16 條",
+      "content": "本條例自公布日施行。"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "tw-h0000181",
+  "type": "statute",
+  "title": "國立臺灣文學館組織法",
+  "title_en": "The Organization Act of the National Museum of Taiwan Literature",
+  "short_name": "The Organization Act of the National Museum of Taiwan Literature",
+  "status": "in_force",
+  "issued_date": "2021-05-26",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0000181",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞文化部＞組織目. Articles extracted: 5.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "文化部為辦理臺灣文學之研究、典藏、展示及推廣等業務，特設國立臺灣文學館（以下簡稱本館）。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本館掌理下列事項：\n一、臺灣文學之資料蒐集、調查、研究、譯述及編印。\n二、臺灣文學文物之典藏、整理、登錄、修護、保存及數位應用。\n三、臺灣文學之展示規劃、製作、導覽及維護管理。\n四、臺灣文學之品牌行銷、文學獎辦理、創作環境優化及公共服務。\n五、臺灣文學之人才培育、學習推廣及國內外館際交流合作。\n六、其他有關臺灣文學業務之推動事項。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本館置館長一人，職務列簡任第十二職等至第十三職等，必要時得比照專科以上學校校長或教授之資格聘任；副館長一人，職務列簡任第十一職等，必要時得比照副教授之資格聘任。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本館各職稱之官等職等及員額，另以編制表定之。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本法施行日期，由行政院以命令定之。"
+    }
+  ],
+  "definitions": []
+}

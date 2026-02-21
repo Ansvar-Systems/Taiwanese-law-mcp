@@ -1,0 +1,20 @@
+{
+  "id": "tw-a0000015",
+  "type": "statute",
+  "title": "全國戒嚴令",
+  "title_en": "全國戒嚴令",
+  "short_name": "全國戒嚴令",
+  "status": "in_force",
+  "issued_date": "1949-07-07",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0000015",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 憲法. Articles extracted: 1.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1",
+      "content": "查全國各省除新疆、西康、青海、臺灣四省及西藏外，均予實施戒嚴，並劃長江以南各省為警戒地域，前經於三十七年十二月十日，依據動員戡亂時期臨時條款之規定，明令公布在案。復經行政院會議議決，將蘇南、皖南、鄂南各縣及湘、贛、浙、閩、粵、桂六省全部，一併劃作接戰地域，特公布之。此令。"
+    }
+  ],
+  "definitions": []
+}

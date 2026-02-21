@@ -1,0 +1,50 @@
+{
+  "id": "tw-j0080017",
+  "type": "statute",
+  "title": "在臺公司大陸地區股東股權行使條例",
+  "title_en": "The Act regarding the Exercise of Shareholders’ Rights for Shareholders in Mainland China of a Company in Taiwan",
+  "short_name": "The Act regarding the Exercise of Shareholders’ Rights for Shareholders in Mainl",
+  "status": "in_force",
+  "issued_date": "1992-07-27",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0080017",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞經濟部＞商業目. Articles extracted: 6.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本條例所稱在臺公司，係指左列公司：\n一、政府遷臺前，在臺設立本公司之股份有限公司。\n二、原在大陸地區設立本公司並在臺設分支機構，經政府核准改為獨立機構之股份有限公司。\n三、原在大陸地區設立本公司，於政府遷臺後，在臺復業之股份有限公司。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本條例所稱大陸地區股東，係指政府遷臺時，留居大陸地區而持有在臺公司股份之股東。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "大陸地區股東之股份，在國家統一前，均為各該在臺公司之保留股；其有繼承或轉讓者，亦同。\n在臺公司對於大陸地區股東所為繼承、轉讓或其他股東名簿記載變更之請求，在國家統一前，暫緩受理。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "在臺公司之股東會，保留股無表決權，其股份數不算入已發行之股份總數。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "保留股之股利或其他收益，在國家統一前，以保留股專戶存儲於各該公司。\n國家統一前，在臺公司以現金增資發行新股，大陸地區股東無新股認購權利。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "本條例自公布日施行。"
+    }
+  ],
+  "definitions": []
+}

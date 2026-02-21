@@ -1,0 +1,32 @@
+{
+  "id": "tw-g0380048",
+  "type": "statute",
+  "title": "現行法規所定貨幣單位折算新臺幣條例",
+  "title_en": "Act Governing the Conversion of Currency Units Used in Existing Laws and Regulations into New Taiwan Dollars",
+  "short_name": "Act Governing the Conversion of Currency Units Used in Existing Laws and Regulat",
+  "status": "in_force",
+  "issued_date": "1992-07-17",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0380048",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞金融監督管理委員會＞銀行目. Articles extracted: 3.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "為現行法規所定貨幣單位折算為新臺幣，以維持現行法規之適用，特制定本條例。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "現行法規所定金額之貨幣單位為圓、銀元或元者，以新臺幣元之三倍折算之。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本條例自公布日施行。"
+    }
+  ],
+  "definitions": []
+}

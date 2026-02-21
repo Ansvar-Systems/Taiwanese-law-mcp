@@ -1,0 +1,20 @@
+{
+  "id": "tw-a0000016",
+  "type": "statute",
+  "title": "臺灣地區解嚴令",
+  "title_en": "臺灣地區解嚴令",
+  "short_name": "臺灣地區解嚴令",
+  "status": "in_force",
+  "issued_date": "1987-07-14",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0000016",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 憲法. Articles extracted: 1.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1",
+      "content": "准立法院中華民國七十六年七月八日（76）台院議字第 1641 號咨，宣告臺灣地區自七十六年七月十五日零時起解嚴。"
+    }
+  ],
+  "definitions": []
+}

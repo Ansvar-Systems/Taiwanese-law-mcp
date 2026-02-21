@@ -1,0 +1,104 @@
+{
+  "id": "tw-k0050010",
+  "type": "statute",
+  "title": "郵政國內匯兌法",
+  "title_en": "郵政國內匯兌法",
+  "short_name": "郵政國內匯兌法",
+  "status": "repealed",
+  "issued_date": "2003-05-07",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0050010",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 廢止法規＞交通部. Articles extracted: 15.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "郵政匯兌事務，由交通部設置郵政儲金匯業總局辦理之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "郵政匯兌之匯款及費用，均以國幣或當地之通用銀幣為限。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "郵政匯兌，得分為普通匯兌，電報匯兌，及小款匯兌三種。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "郵政匯兌金額之限制，由交通部定之。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "郵政匯兌，應以郵政匯票為憑。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "匯票不得私自添註塗改。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "郵局為調查取款人之真偽，得令其出具必要之證明。"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "第 8 條",
+      "content": "匯票之有效期間，由交通部分別種類，依地方之遠近定之，但不得少於三\n個月。"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "第 9 條",
+      "content": "匯票逾有效期間，未經取款者，應由郵局送還原局，通知匯款人領還。\n前項情形，匯款人不得要求退還匯費。"
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "第 10 條",
+      "content": "匯票如有遺失污毀，匯款人或受款人得請求郵局發給副匯票。副匯票一經\n發出，原匯票即作無效。"
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "第 11 條",
+      "content": "遇第九條第一項情形，匯款人不領還匯款時，應自匯票開出之日起算，滿\n三年後，即將匯票作廢，其匯款收作公款。"
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "第 12 條",
+      "content": "郵政匯兌應免一切稅捐。"
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "第 13 條",
+      "content": "無行為能力人及限制行為能力人關於郵政匯兌事務，於郵政匯兌機關所為\n之行為，視為有行為能力人之行為。"
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "第 14 條",
+      "content": "本法施行細則及各種匯兌章程，由交通部定之。"
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "第 15 條",
+      "content": "本法自公布日施行。"
+    }
+  ],
+  "definitions": []
+}

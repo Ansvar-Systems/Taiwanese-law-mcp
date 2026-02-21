@@ -1,0 +1,62 @@
+{
+  "id": "tw-e0000005",
+  "type": "statute",
+  "title": "僑務委員會組織法",
+  "title_en": "Organization Act of the Overseas Community Affairs Council, R.O.C. (TAIWAN)",
+  "short_name": "Organization Act of the Overseas Community Affairs Council, R.O.C. (TAIWAN)",
+  "status": "in_force",
+  "issued_date": "2011-11-14",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=E0000005",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞僑務委員會＞組織目. Articles extracted: 8.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "行政院為辦理僑務行政及輔導華僑事業事務，特設僑務委員會（以下簡稱本會）。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本會掌理下列事項：\n一、僑民教育與經濟事務之規劃、辦理、輔導及聯繫。\n二、僑團、僑社、僑生與海外華裔青年事務之規劃、辦理、輔導及聯繫。\n三、僑民權益之維護及身分證明之核發。\n四、僑務資訊之蒐集及僑情之報導。\n五、其他有關僑務工作事項。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本會置委員長一人，特任；副委員長二人，其中一人職務比照簡任第十四職等，另一人職務列簡任第十四職等。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本會置僑務委員九十人至一百八十人，任期三年，為無給職。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本會置主任秘書，職務列簡任第十二職等。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "本會為應業務需要，得報請行政院核准，派員駐境外辦事，並依駐外機構組織通則規定辦理。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "本會各職稱之官等職等及員額，另以編制表定之。"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "第 8 條",
+      "content": "本法施行日期，由行政院以命令定之。"
+    }
+  ],
+  "definitions": []
+}

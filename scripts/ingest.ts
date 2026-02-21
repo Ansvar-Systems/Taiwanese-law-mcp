@@ -14,9 +14,9 @@ import * as path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { fetchBinaryWithRateLimit } from './lib/fetcher.js';
 import {
-  indexLawsByPcode,
   parseLawToSeed,
   parseOpenApiLawDataset,
+  pcodeFromLawUrl,
   type TargetLawConfig,
 } from './lib/parser.js';
 
@@ -30,7 +30,7 @@ const CH_LAW_JSON_ZIP_URL = 'https://law.moj.gov.tw/api/ch/law/json';
 const CH_LAW_ZIP_PATH = path.join(SOURCE_DIR, 'ch-law-json.zip');
 const CH_LAW_JSON_PATH = path.join(SOURCE_DIR, 'ChLaw.json');
 
-const TARGET_LAWS: TargetLawConfig[] = [
+const KEY_TARGET_LAWS: TargetLawConfig[] = [
   { id: 'tw-pdpa', pcode: 'I0050021', shortName: 'PDPA', fileName: '01-personal-data-protection.json' },
   { id: 'tw-csma', pcode: 'A0030297', shortName: 'CSMA', fileName: '02-cybersecurity-management.json' },
   { id: 'tw-tma', pcode: 'K0060111', shortName: 'TMA', fileName: '03-telecommunications-management.json' },
@@ -45,12 +45,14 @@ const TARGET_LAWS: TargetLawConfig[] = [
 
 interface IngestArgs {
   skipFetch: boolean;
+  fullCorpus: boolean;
 }
 
 function parseArgs(): IngestArgs {
   const args = process.argv.slice(2);
   return {
     skipFetch: args.includes('--skip-fetch'),
+    fullCorpus: !args.includes('--targeted'),
   };
 }
 
@@ -98,18 +100,56 @@ async function loadOpenApiDataset(skipFetch: boolean): Promise<string> {
   return jsonText;
 }
 
+function buildTargets(datasetText: string, fullCorpus: boolean): TargetLawConfig[] {
+  if (!fullCorpus) {
+    return KEY_TARGET_LAWS;
+  }
+
+  const dataset = parseOpenApiLawDataset(datasetText);
+  const keyOverrides = new Map(KEY_TARGET_LAWS.map(target => [target.pcode, target]));
+  const targets: TargetLawConfig[] = [];
+
+  for (const law of dataset.Laws) {
+    const pcode = pcodeFromLawUrl(law.LawURL ?? '');
+    if (!pcode) continue;
+
+    const override = keyOverrides.get(pcode);
+    if (override) {
+      targets.push(override);
+      continue;
+    }
+
+    const fallbackShortName = (law.EngLawName?.trim() || law.LawName || pcode).slice(0, 80);
+    targets.push({
+      id: `tw-${pcode.toLowerCase()}`,
+      pcode,
+      shortName: fallbackShortName,
+      fileName: `${pcode.toLowerCase()}.json`,
+    });
+  }
+
+  targets.sort((a, b) => a.pcode.localeCompare(b.pcode, 'en', { sensitivity: 'base' }));
+  return targets;
+}
+
 async function main(): Promise<void> {
-  const { skipFetch } = parseArgs();
+  const { skipFetch, fullCorpus } = parseArgs();
 
   console.log('Taiwanese Law MCP — Real Data Ingestion');
   console.log('=======================================\n');
   console.log(`Source: ${CH_LAW_JSON_ZIP_URL}`);
   if (skipFetch) console.log('Mode: --skip-fetch');
+  console.log(`Scope: ${fullCorpus ? 'full-corpus' : 'targeted (10 key laws)'}`);
   console.log('');
 
   const jsonText = await loadOpenApiDataset(skipFetch);
   const dataset = parseOpenApiLawDataset(jsonText);
-  const lawsByPcode = indexLawsByPcode(dataset);
+  const targets = buildTargets(jsonText, fullCorpus);
+  const lawsByPcode = new Map<string, (typeof dataset.Laws)[number]>();
+  for (const law of dataset.Laws) {
+    const pcode = pcodeFromLawUrl(law.LawURL ?? '');
+    if (pcode) lawsByPcode.set(pcode, law);
+  }
 
   clearSeedDirectory();
 
@@ -118,12 +158,12 @@ async function main(): Promise<void> {
   let totalDefinitions = 0;
   const missing: TargetLawConfig[] = [];
 
-  for (let i = 0; i < TARGET_LAWS.length; i++) {
-    const target = TARGET_LAWS[i];
+  for (let i = 0; i < targets.length; i++) {
+    const target = targets[i];
     const lawRecord = lawsByPcode.get(target.pcode);
     if (!lawRecord) {
       missing.push(target);
-      console.log(`  [${i + 1}/${TARGET_LAWS.length}] MISSING ${target.pcode} -> ${target.fileName}`);
+      console.log(`  [${i + 1}/${targets.length}] MISSING ${target.pcode} -> ${target.fileName}`);
       continue;
     }
 
@@ -135,16 +175,18 @@ async function main(): Promise<void> {
     totalDefinitions += seed.definitions.length;
     written++;
 
-    console.log(
-      `  [${i + 1}/${TARGET_LAWS.length}] ${lawRecord.LawName} (${target.pcode}) -> ${target.fileName} ` +
-      `(${seed.provisions.length} provisions, ${seed.definitions.length} definitions)`
-    );
+    if (!fullCorpus || i < 20 || (i + 1) % 100 === 0 || i === targets.length - 1) {
+      console.log(
+        `  [${i + 1}/${targets.length}] ${lawRecord.LawName} (${target.pcode}) -> ${target.fileName} ` +
+        `(${seed.provisions.length} provisions, ${seed.definitions.length} definitions)`
+      );
+    }
   }
 
   console.log('\nIngestion summary');
   console.log('-----------------');
   console.log(`Dataset update date: ${dataset.UpdateDate}`);
-  console.log(`Seed files written: ${written}/${TARGET_LAWS.length}`);
+  console.log(`Seed files written: ${written}/${targets.length}`);
   console.log(`Total provisions:   ${totalProvisions}`);
   console.log(`Total definitions:  ${totalDefinitions}`);
   console.log(`Seed output dir:    ${SEED_DIR}`);

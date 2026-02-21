@@ -1,0 +1,44 @@
+{
+  "id": "tw-h0000123",
+  "type": "statute",
+  "title": "國立教育廣播電臺組織法",
+  "title_en": "Organization Act of National Education Radio Station",
+  "short_name": "Organization Act of National Education Radio Station",
+  "status": "in_force",
+  "issued_date": "2012-02-03",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0000123",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞教育部＞組織目. Articles extracted: 5.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "教育部為辦理全國教育廣播業務，特設國立教育廣播電臺（以下簡稱本臺）。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本臺掌理下列事項：\n一、教育政策、政令宣導之規劃及執行。\n二、教育廣播節目、教育新聞節目之規劃、製作、數位化管理及推廣。\n三、學校廣播教育之協助及推廣。\n四、社會教育及公共服務之推廣。\n五、其他有關教育廣播事項。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本臺置臺長一人，職務列簡任第十二職等，必要時得比照專科學校校長以上資格聘任；副臺長一人，職務列簡任第十一職等。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本臺各職稱之官等職等及員額，另以編制表定之。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本法施行日期，由行政院以命令定之。"
+    }
+  ],
+  "definitions": []
+}

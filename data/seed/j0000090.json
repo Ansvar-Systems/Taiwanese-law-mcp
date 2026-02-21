@@ -1,0 +1,50 @@
+{
+  "id": "tw-j0000090",
+  "type": "statute",
+  "title": "經濟部商業發展署組織法",
+  "title_en": "Organization Act of the Administration of Commerce, Ministry of Economic Affairs",
+  "short_name": "Organization Act of the Administration of Commerce, Ministry of Economic Affairs",
+  "status": "in_force",
+  "issued_date": "2023-06-07",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0000090",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞經濟部＞組織目. Articles extracted: 6.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "經濟部為辦理商業發展業務，特設商業發展署（以下簡稱本署）。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本署掌理下列事項：\n一、商業發展政策規劃及法規研擬。\n二、商業管理、輔導、監督、協調及統籌配合。\n三、商業服務業創新、研發、減碳調適、行銷與推廣之獎勵、補助及輔導。\n四、商業服務業國際合作交流之研擬、規劃及執行。\n五、公司、有限合夥名稱與所營事業預查、登記及管理。\n六、零售市場之規劃、推動、輔導及管理。\n七、商工行政資料管理及服務。\n八、其他有關商業服務業發展及行政事項。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本署置署長一人，職務列簡任第十三職等；副署長二人，職務列簡任第十二職等。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本署置主任秘書，職務列簡任第十一職等。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本署各職稱之官等職等及員額，另以編制表定之。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "本法施行日期，由行政院以命令定之。"
+    }
+  ],
+  "definitions": []
+}

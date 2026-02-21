@@ -1,0 +1,50 @@
+{
+  "id": "tw-g0340041",
+  "type": "statute",
+  "title": "中華民國八十年度所得稅稅率條例",
+  "title_en": "中華民國八十年度所得稅稅率條例",
+  "short_name": "中華民國八十年度所得稅稅率條例",
+  "status": "repealed",
+  "issued_date": "1991-12-31",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0340041",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 廢止法規＞財政部. Articles extracted: 6.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本條例依所得稅法第五條規定制定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本條例規定之各種金額，均以新臺幣計算。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "所得稅法第十七條規定之免稅額，每人全年五萬元。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "綜合所得稅課稅級距及累進稅率如左：\n　一　全年綜合所得淨額在三十萬元以下者，課徵百分之六。\n　二　超過三十萬元至八十萬元者，課徵一萬八千元，加超過三十萬元以\n　　　上部分之百分之十三。\n　三　超過八十萬元至一百六十萬元者，課徵八萬三千元，加超過八十萬\n　　　元以上部分之百分之二十一。\n　四　超過一百六十萬元至三百萬元者，課徵二十五萬一千元，加超過一\n　　　百六十萬元以上部分之百分之三十。\n　五　超過三百萬元者，課徵六十七萬一千元，加超過三百萬元以上部分\n　　　之百分之四十。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "營利事業所得稅起徵額、課稅級距及累進稅率如左：\n　一　營利事業全年課稅所在額在五萬元以下者，免徵營利事業所得稅。\n　二　營利事業全年課稅所得額在十萬元以下者，就其全部課稅所得額課\n　　　徵百分之十五。但其應納稅額不得超過營利事業課稅所得額超過五\n　　　萬元以上部分之半數。\n　三　超過十萬元以上者，就其超過額課徵百分之二十五。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "本條例施行期間，自中華民國八十年一月一日起，至同年十二月三十一日\n止。"
+    }
+  ],
+  "definitions": []
+}

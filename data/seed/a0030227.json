@@ -1,0 +1,50 @@
+{
+  "id": "tw-a0030227",
+  "type": "statute",
+  "title": "總統副總統待遇支給條例",
+  "title_en": "Pay Act on President and Vice President",
+  "short_name": "Pay Act on President and Vice President",
+  "status": "in_force",
+  "issued_date": "2008-05-28",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030227",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞行政院人事行政總處＞給與福利目. Articles extracted: 6.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "總統、副總統之待遇，依本條例規定行之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本條例所用名詞意義如下：\n一、月俸：指本條例規定依法應領取之基本給與。\n二、政務加給：指月俸以外，因所任職務之職責程度，另加之給與。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "總統、副總統之待遇，分為月俸、政務加給，均以月計之。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "總統、副總統之月俸，按下列標準支給：\n一、總統之月俸，按二、七○○點計給。\n二、副總統之月俸，按二、○○○點計給。\n前項各款月俸點數折算俸額，由行政院定之。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "總統、副總統之政務加給數額，由行政院定之。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "本條例施行日期，由行政院以命令定之。"
+    }
+  ],
+  "definitions": []
+}

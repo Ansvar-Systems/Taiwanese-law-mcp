@@ -1,0 +1,38 @@
+{
+  "id": "tw-f0030001",
+  "type": "statute",
+  "title": "特級上將授任條例",
+  "title_en": "特級上將授任條例",
+  "short_name": "特級上將授任條例",
+  "status": "repealed",
+  "issued_date": "2000-11-01",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0030001",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 廢止法規＞國防部. Articles extracted: 4.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "中華民國陸、海、空軍最高軍事長官任為特級上將。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "特級上將，由國民政府特任之。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "特級上將之待遇、儀制另定之。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本條例自公布日施行。"
+    }
+  ],
+  "definitions": []
+}

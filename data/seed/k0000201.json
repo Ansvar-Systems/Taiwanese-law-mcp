@@ -1,0 +1,56 @@
+{
+  "id": "tw-k0000201",
+  "type": "statute",
+  "title": "數位發展部資通安全署組織法",
+  "title_en": "Organization Act of the Administration for Cyber Security, Ministry of Digital Affairs",
+  "short_name": "Organization Act of the Administration for Cyber Security, Ministry of Digital A",
+  "status": "in_force",
+  "issued_date": "2022-01-19",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0000201",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞數位發展部＞組織目. Articles extracted: 7.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "數位發展部（以下簡稱本部）為辦理國家資通安全政策規劃、計畫核議及督導考核，執行國家資通安全防護、演練與稽核業務及通訊傳播基礎設施防護，特設資通安全署（以下簡稱本署）。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本署掌理下列事項：\n一、國家資通安全政策與法規之規劃及執行。\n二、國家資通安全重大計畫與資源分配之規劃、協調、推動及督導考核。\n三、國家關鍵基礎設施資通安全管理與防護機制之規劃、推動及執行。\n四、國家資通安全事件偵測與通報應變機制之推動及執行。\n五、資通安全相關演練與稽核之推動及執行。\n六、資通安全教育、訓練與宣導之規劃、推動及執行。\n七、資通安全國際交流及合作之推動及執行。\n八、政府機關（構）與公營事業機構資通安全業務之評鑑及考核。\n九、統籌政府機關（構）與公營事業機構資安人員之教育訓練及業務評鑑。\n十、其他有關資通安全業務事項。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本署置署長一人，職務比照簡任第十三職等或列簡任第十三職等；副署長二人，職務列簡任第十二職等，其中一人必要時得比照專科以上學校副教授或教授之資格聘任，其退休、撫卹比照教師相關規定辦理，並由本部核定之。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本署置主任秘書，職務列簡任第十一職等。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本署為業務需要，得依聘用人員聘用條例之規定，聘用資通安全科技與應用及管理等相關領域專業人員，其聘用員額不得超過一百人。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "本署各職稱之官等職等及員額，另以編制表定之。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "本法施行日期，由行政院以命令定之。"
+    }
+  ],
+  "definitions": []
+}

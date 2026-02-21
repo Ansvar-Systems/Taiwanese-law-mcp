@@ -49,9 +49,8 @@ export async function listSources(
           url: 'https://law.moj.gov.tw/api/swagger',
           license: 'Government Website Open Data License v1 (attribution required)',
           coverage:
-            'Official central legislation from Taiwan Laws & Regulations Database; ' +
-            'this MCP currently indexes 10 statutes focused on data protection, ' +
-            'cybersecurity, telecommunications, criminal cyber provisions, and fintech/e-pay law',
+            'Official central legislation corpus from Taiwan Laws & Regulations Database OpenAPI ' +
+            '(/api/ch/law/json), including all available laws and article-level text',
           languages: ['zh', 'en'],
         },
       ],

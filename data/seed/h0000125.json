@@ -1,0 +1,50 @@
+{
+  "id": "tw-h0000125",
+  "type": "statute",
+  "title": "國立臺灣圖書館組織法",
+  "title_en": "Organization Act of the National Taiwan Library",
+  "short_name": "Organization Act of the National Taiwan Library",
+  "status": "in_force",
+  "issued_date": "2012-02-03",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0000125",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞教育部＞組織目. Articles extracted: 6.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "教育部為辦理圖書資訊之蒐集、整理、保存、利用、推廣與臺灣學資料之研究及推廣，特設國立臺灣圖書館（以下簡稱本館）。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本館掌理下列事項：\n一、圖書資訊之選擇採訪、分類編目及交換贈送。\n二、圖書資訊之閱覽流通、視聽教育、親子共學及視障服務。\n三、圖書資訊之參考諮詢、特藏閱覽、典藏維護及微縮服務。\n四、社教、藝文活動之辦理與臺灣學資料之研究、推廣及系統規劃建置。\n五、陽明山中山樓之規劃、維護及營運管理。\n六、其他有關圖書資訊及臺灣學資料事項。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本館置館長一人，職務列簡任第十二職等，必要時得比照專科學校校長以上資格聘任。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本館置主任秘書，職務列簡任第十職等。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本館各職稱之官等職等及員額，另以編制表定之。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "本法施行日期，由行政院以命令定之。"
+    }
+  ],
+  "definitions": []
+}
