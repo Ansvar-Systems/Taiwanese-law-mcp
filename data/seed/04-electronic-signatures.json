@@ -5,121 +5,182 @@
   "title_en": "Electronic Signatures Act",
   "short_name": "ESA",
   "status": "in_force",
-  "issued_date": "2001-11-14",
-  "in_force_date": "2002-04-01",
-  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=J0080037",
-  "description": "The Electronic Signatures Act establishes the legal framework for the recognition and use of electronic signatures and electronic documents in Taiwan. The Act gives electronic signatures the same legal standing as handwritten signatures where parties agree to use electronic means, and sets out the requirements for the validity of qualified electronic signatures and the certification services that support them. The Act also provides for the licensing and oversight of certification service providers.",
+  "issued_date": "2024-05-15",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0080037",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞數位發展部＞數位產業目. Articles extracted: 22.",
   "provisions": [
     {
       "provision_ref": "art1",
       "section": "1",
-      "title": "Article 1. Legislative Purpose",
-      "content": "This Act is enacted for the purpose of promoting the use of electronic transactions, facilitating the authentication of electronic documents and signatures, and ensuring the legal certainty of electronic commerce and electronic communications. The Act establishes a framework for the legal recognition of electronic signatures and electronic documents, consistent with internationally accepted standards for electronic authentication. This Act shall apply to all electronic transactions and electronic documents created, transmitted, received, or stored within the territory of the Republic of China (Taiwan), except where expressly excluded by other legislation. Nothing in this Act shall require any person to use electronic signatures or electronic documents, or prevent any person from agreeing to different standards for authentication in private transactions."
+      "title": "第 1 條",
+      "content": "為推動電子簽章之普及運用，確保電子簽章之安全，促進數位經濟、智慧政府及數位服務之發展，特制定本法。\n司法程序不適用本法之規定者，由司法院或法務部公告之。"
     },
     {
       "provision_ref": "art2",
       "section": "2",
-      "title": "Article 2. Definitions",
-      "content": "The terms used in this Act are defined as follows: (1) 'Electronic document' means information created, transmitted, received, or stored by electronic means, including electromagnetic, optical, or any other technology, in a retrievable form. (2) 'Electronic signature' means information in electronic form that is attached to, or logically associated with, other information in electronic form and that is used by the signatory to sign. (3) 'Digital signature' means an electronic signature created by applying a cryptographic transformation to an electronic document using the signatory's private key, such that the signature can be verified by reference to the corresponding public key certificate. (4) 'Certificate' means a data message or other record confirming the link between a public key and the identity of the certificate holder. (5) 'Certification service provider' means an entity that issues certificates and provides related authentication services. (6) 'Qualified certificate' means a certificate that meets the technical standards prescribed by the competent authority and is issued by an accredited certification service provider. (7) 'Time stamp' means an attestation by a trusted third party of the date and time at which an electronic document existed."
+      "title": "第 2 條",
+      "content": "本法用詞定義如下：\n一、電子文件：指文字、聲音、圖片、影像、符號或其他資料，以電子或其他以人之知覺無法直接認識之方式，所製成足以表示其用意之紀錄，而供電子處理之用者。\n二、電子簽章：指依附於電子文件並與其相關連，用以辨識及確認電子文件簽署人身分、資格及電子文件真偽者。\n三、數位簽章：屬於電子簽章之一種，指將電子文件以數學演算法或其他方式運算為一定長度之數位資料，以簽署人之私密金鑰對其加密，形成電子簽章，得以公開金鑰加以驗證，並具憑證機構簽發之憑證者。\n四、加密：指利用數學演算法或其他方法，將電子文件以亂碼方式處理。\n五、憑證機構：指簽發憑證之機關、法人。\n六、憑證：指載有簽章驗證資料，用以確認簽署人身分、資格之電子形式證明。\n七、憑證實務作業基準：指由憑證機構對外公告，用以陳述憑證機構據以簽發憑證及處理其他認證業務之作業準則。\n八、資訊系統：指產生、送出、收受、儲存或其他處理電子形式訊息資料之系統。\n主管機關得公告具電子簽章效力之電子簽章技術，並適時檢討。"
     },
     {
       "provision_ref": "art3",
       "section": "3",
-      "title": "Article 3. Legal Effect of Electronic Documents",
-      "content": "Where parties to a transaction agree to use electronic means, electronic documents shall have the same legal effect as paper documents, provided that the electronic document is accessible and capable of being retained in a manner that is accurate and complete. An electronic document shall be considered to satisfy any legal requirement for a document to be in writing, if the information contained therein is accessible so as to be usable for subsequent reference. An electronic document shall be considered to satisfy any legal requirement for an original document, if there exists a reliable assurance as to the integrity of the information from the time when it was first generated in its final form, and where the information is required to be presented, the document is capable of being displayed to the person to whom it is to be presented. The foregoing provisions shall not apply where legislation expressly requires that a document be in paper form or that a signature be handwritten."
+      "title": "第 3 條",
+      "content": "本法主管機關為數位發展部。"
     },
     {
       "provision_ref": "art4",
       "section": "4",
-      "title": "Article 4. Legal Effect of Electronic Signatures",
-      "content": "Where parties to a transaction agree to use electronic signatures, an electronic signature shall have the same legal effect as a handwritten signature, provided that: (1) The electronic signature is uniquely linked to the signatory; (2) The electronic signature is capable of identifying the signatory; (3) The electronic signature was created using means that are under the sole control of the signatory; and (4) The electronic signature is linked to the data to which it relates in such a manner that any subsequent change in the data is detectable. A digital signature created using a qualified certificate issued by an accredited certification service provider shall be presumed to satisfy the conditions set out in the preceding paragraph. Electronic signatures shall not be denied legal effect solely on the grounds that they are in electronic form."
+      "title": "第 4 條",
+      "content": "電子文件及電子簽章，符合本法規定者，在功能上等同於實體文件及簽章，不得僅因其電子形式而否認其法律效力。"
     },
     {
       "provision_ref": "art5",
       "section": "5",
-      "title": "Article 5. Certification Service Providers",
-      "content": "Any person or entity that issues qualified certificates to the public shall apply for accreditation from the competent authority. To obtain accreditation, a certification service provider shall demonstrate: (1) Technical capability to issue and manage certificates in accordance with the technical standards prescribed by the competent authority; (2) Financial capability and organizational reliability to operate a certification service; (3) Compliance with the operational and security requirements prescribed by the competent authority; (4) Arrangements for maintaining the continuity of certification services or for the orderly cessation of services; and (5) Arrangements for liability insurance or other financial guarantees to compensate users for damages resulting from failures of the certification service. The competent authority shall maintain a list of accredited certification service providers and shall publish this list on its website. Accreditation shall be renewed at intervals not exceeding five years."
+      "title": "第 5 條",
+      "content": "文件及簽章之使用，得以電子文件及電子簽章為之。\n依法令規定應以書面為之者，其內容可完整呈現，並可於日後取出供查驗者，得以電子文件為之。\n依法令規定應簽名或蓋章者，得以電子簽章為之。\n前三項文件或簽章之使用有相對人者，除相對人已同意採用電子形式外，應於採用電子形式之前，以合理期間及方式給予相對人反對之機會，並告知相對人未反對者，推定同意採用電子形式。\n前項之相對人得隨時表示停止採用電子形式。但其表示停止前已依電子形式所為之法律行為，其效力不受影響。"
     },
     {
       "provision_ref": "art6",
       "section": "6",
-      "title": "Article 6. Obligations of Certification Service Providers",
-      "content": "Accredited certification service providers shall: (1) Verify the identity of applicants for certificates using reliable means before issuing certificates; (2) Issue certificates that accurately reflect the identity of the certificate holder and are technically valid; (3) Maintain accurate and complete records of all certificates issued, suspended, and revoked; (4) Maintain an online certificate status service enabling relying parties to verify the current status of certificates in real time; (5) Revoke certificates promptly upon request of the certificate holder or where the provider becomes aware of circumstances that compromise the reliability of a certificate; (6) Protect the private keys used to sign certificates and to operate the certification service using appropriate security measures; (7) Publish their certification practice statement, setting out the policies and practices governing their certification services; and (8) Notify the competent authority of significant security incidents and of planned changes to their certification services."
+      "title": "第 6 條",
+      "content": "以數位簽章簽署電子文件，符合下列各款規定者，推定為本人親自簽名或蓋章：\n一、使用經主管機關依第十二條或第十五條許可之憑證機構簽發之憑證。\n二、憑證未逾有效期間及其使用範圍。"
     },
     {
       "provision_ref": "art7",
       "section": "7",
-      "title": "Article 7. Liability of Certification Service Providers",
-      "content": "An accredited certification service provider shall be liable to any person who reasonably relies on a qualified certificate issued by the provider for damages resulting from: (1) Inaccurate information contained in the certificate at the time of issuance; (2) Failure of the certificate to satisfy the applicable technical requirements at the time of issuance; (3) Failure to revoke a certificate in a timely manner after the provider became aware of grounds for revocation; or (4) Failure to maintain the security of the certification service in a manner that compromises the integrity of certificates issued by the provider. The liability of a certification service provider under this article shall be limited to the amount specified in the certificate as the maximum liability, provided that such limitation was clearly disclosed to users. Certification service providers shall not limit their liability for damages resulting from willful misconduct or gross negligence."
+      "title": "第 7 條",
+      "content": "依法令規定應提出文書原本或正本者，其內容可完整呈現，並可於日後取出供查驗者，得以電子文件為之。但應核對筆跡、印跡或其他為辨識文書真偽之必要或法令另有規定者，不在此限。\n前項所稱內容可完整呈現，不含以電子方式發送、收受、儲存及顯示作業附加之資料訊息。"
     },
     {
       "provision_ref": "art8",
       "section": "8",
-      "title": "Article 8. Exclusions from Application",
-      "content": "Notwithstanding the provisions of Articles 3 and 4, this Act shall not apply to the following transactions, which shall continue to be governed by existing legislation requiring specific forms: (1) Transactions for the transfer or creation of real property rights, including contracts for the purchase and sale of land and buildings; (2) Wills and other testamentary documents; (3) Documents that must be notarized or attested by a court; (4) Negotiable instruments, including bills of exchange, promissory notes, and cheques; (5) Letters of credit issued in paper form; and (6) Any other documents that legislation expressly requires to be in writing or in paper form. The competent authority may, by order, expand or restrict the scope of exclusions under this article, taking into account the development of electronic commerce and the protection of the rights of parties to transactions."
+      "title": "第 8 條",
+      "content": "文書依法令規定應以書面保存者，如其內容可完整呈現，並可於日後取出供查驗者，得以電子文件為之。\n前項電子文件，得併同保存其發文地、收文地、網路協定位址、簽署歷程、日期、時間及其他足以驗證、鑑別電子文件內容真偽之資料訊息。"
     },
     {
       "provision_ref": "art9",
       "section": "9",
-      "title": "Article 9. Technical Standards",
-      "content": "The competent authority shall issue technical standards governing: (1) The requirements for qualified certificates; (2) The technical algorithms and key lengths acceptable for digital signatures; (3) The requirements for the operation and security of certification service providers; (4) The requirements for time stamp services; and (5) The requirements for electronic seals used by legal entities. Technical standards shall be compatible with internationally recognized standards for electronic authentication, including those developed by the International Telecommunication Union (ITU), the Internet Engineering Task Force (IETF), and other relevant international standards bodies. The competent authority shall review technical standards at regular intervals and update them as necessary to reflect advances in technology and evolving security requirements."
+      "title": "第 9 條",
+      "content": "電子文件以其進入發文者無法控制資訊系統之時間為發文時間。但當事人另有約定或行政機關另有公告者，從其約定或公告。\n電子文件以下列時間為其收文時間。但當事人另有約定或行政機關另有公告者，從其約定或公告：\n一、如收文者已指定收受電子文件之資訊系統者，以電子文件進入該資訊系統之時間為收文時間；電子文件如送至非收文者指定之資訊系統者，以收文者取出電子文件之時間為收文時間。\n二、收文者未指定收受電子文件之資訊系統者，以電子文件進入收文者資訊系統之時間為收文時間。"
     },
     {
       "provision_ref": "art10",
       "section": "10",
-      "title": "Article 10. Cross-Border Recognition",
-      "content": "Electronic signatures and certificates created or issued in a foreign jurisdiction shall be given the same legal effect as domestic electronic signatures and certificates where: (1) The foreign jurisdiction has entered into an agreement with Taiwan providing for mutual recognition of electronic signatures and certificates; or (2) The foreign certification service provider is accredited in accordance with standards equivalent to those applicable in Taiwan, as determined by the competent authority. The competent authority may, by order, designate foreign certification service providers whose certificates shall be recognized in Taiwan, subject to the conditions set out in the preceding paragraph. Relying parties who reasonably rely on foreign certificates that have been recognized under this article shall be entitled to the same protections as if the certificates were domestic qualified certificates."
+      "title": "第 10 條",
+      "content": "電子文件以發文者執行業務之地為發文地；收文者執行業務之地為收文地。但當事人另有約定或行政機關另有公告者，從其約定或公告。\n發文者或收文者有二個以上執行業務之地，以與主要交易或通信行為最密切相關之業務地為發文地或收文地；主要交易或通信行為不明者，以執行業務之主要地為發文地或收文地。\n發文者或收文者未有執行業務地者，以其住所為發文地或收文地。"
     },
     {
       "provision_ref": "art11",
       "section": "11",
-      "title": "Article 11. Government Use of Electronic Signatures",
-      "content": "Government agencies shall accept electronic documents and electronic signatures in place of paper documents and handwritten signatures in transactions with citizens and businesses, except where: (1) The law expressly requires a paper document or handwritten signature; (2) The nature of the transaction makes the use of electronic means impractical; or (3) The electronic means available do not provide a sufficient level of assurance for the type of transaction. The Executive Yuan shall issue an action plan for the adoption of electronic documents and signatures in government transactions, setting out a timetable for implementation across government agencies. Government agencies that provide electronic services shall ensure that the electronic authentication methods they accept are accessible to persons with disabilities and to persons without access to advanced technology."
+      "title": "第 11 條",
+      "content": "第五條第一項至第三項及第八條第一項規定，得依法律排除其適用。\n行政機關得就第五條與第八條之應用技術及程序另為公告，其公告應公平、合理，並不得為無正當理由之差別待遇。"
     },
     {
       "provision_ref": "art12",
       "section": "12",
-      "title": "Article 12. Penalties",
-      "content": "Any person or entity that provides certification services to the public by issuing certificates purporting to be qualified certificates without accreditation from the competent authority shall be liable to a fine of between NT$200,000 and NT$2,000,000 and shall be ordered to cease providing certification services. An accredited certification service provider that fails to comply with its obligations under this Act or that violates the conditions of its accreditation shall be liable to a fine of between NT$100,000 and NT$1,000,000 and may have its accreditation suspended or revoked. Any person who fraudulently issues or uses electronic signatures or certificates for the purpose of deceiving others shall be subject to criminal prosecution under applicable criminal law. Decisions of the competent authority under this article shall be subject to administrative appeal."
+      "title": "第 12 條",
+      "content": "憑證機構應檢具憑證實務作業基準，載明憑證機構經營或提供認證服務之相關作業程序，送經主管機關許可後，始得提供簽發憑證服務；其憑證實務作業基準變更時，亦同。\n憑證機構應將經許可之憑證實務作業基準公布在其機構之網站供公眾查詢；其憑證實務作業基準變更時，亦同。\n主管機關應公告憑證實務作業基準經許可之憑證機構名單與其憑證實務作業基準版次及許可文號。\n第一項憑證實務作業基準應載明下列事項，其各款具體內容由主管機關公告之：\n一、足以影響憑證機構所簽發憑證之可靠性或其業務執行之重要資訊。\n二、憑證機構逕行廢止憑證之事由。\n三、驗證憑證內容相關資料之留存。\n四、保護當事人個人資料之方法及程序。\n五、其他重要事項。"
     },
     {
       "provision_ref": "art13",
       "section": "13",
-      "title": "Article 13. Competent Authority",
-      "content": "The competent authority under this Act shall be the Ministry of Economic Affairs. The Ministry of Economic Affairs may delegate its functions and powers under this Act to subordinate agencies or to other government agencies as appropriate. The competent authority shall: (1) Accredit certification service providers; (2) Maintain and publish the list of accredited certification service providers; (3) Issue and update technical standards for electronic signatures and certificates; (4) Conduct inspections of accredited certification service providers; (5) Promote the use of electronic signatures and electronic documents in commerce and government; and (6) Cooperate with foreign authorities on the recognition of electronic signatures and certificates. The competent authority shall publish an annual report on the state of electronic signature adoption in Taiwan."
+      "title": "第 13 條",
+      "content": "憑證機構於終止服務前，應完成下列措施：\n一、於終止服務之日三十日前通報主管機關。\n二、對終止當時仍具效力之憑證，安排其他憑證機構承接其業務。\n三、於終止服務之日三十日前，將終止服務及由其他憑證機構承接其業務之事實通知當事人。\n四、將檔案紀錄移交承接其業務之憑證機構。\n若無憑證機構依第一項第二款規定承接該憑證機構之業務，主管機關得安排其他憑證機構承接。主管機關於必要時，得公告廢止當時仍具效力之憑證。\n前項規定，於憑證機構依本法或其他法律受勒令停業處分者，亦適用之。"
     },
     {
       "provision_ref": "art14",
       "section": "14",
-      "title": "Article 14. Electronic Records Retention",
-      "content": "Where legislation requires that records be retained for a specified period, electronic records shall satisfy such requirements if: (1) The information contained in the electronic record is accessible throughout the required retention period; (2) The electronic record is retained in the format in which it was generated, sent, or received, or in a format that can be demonstrated to accurately represent the information originally generated, sent, or received; (3) Information that identifies the origin, destination, and the date and time of sending or receipt of a communication is retained for the duration of the retention period; and (4) The integrity of the electronic record is maintained throughout the retention period using appropriate technical means. Persons required to retain records may satisfy their obligations through the use of a third-party records management service, provided that the third party meets the applicable technical standards and that the records remain accessible throughout the required retention period."
+      "title": "第 14 條",
+      "content": "憑證機構對因其經營或提供認證服務之相關作業程序，致當事人受有損害，或致善意第三人因信賴該憑證而受有損害者，應負賠償責任。但能證明其行為無過失者，不在此限。\n憑證機構就憑證之使用範圍設有明確限制時，對逾越該使用範圍所生之損害，不負賠償責任。"
     },
     {
       "provision_ref": "art15",
       "section": "15",
-      "title": "Article 15. Supplementary Provisions",
-      "content": "This Act shall be interpreted in a manner consistent with internationally recognized principles governing electronic commerce and electronic authentication, including the UNCITRAL Model Law on Electronic Commerce and the UNCITRAL Model Law on Electronic Signatures. Where any provision of this Act conflicts with the provisions of any other Act governing specific industries or types of transactions, the other Act shall prevail, unless this Act expressly provides otherwise. The competent authority shall issue implementing regulations as necessary to give effect to the provisions of this Act and shall publish such regulations in the government gazette. This Act shall be reviewed by the competent authority at intervals not exceeding five years, and proposed amendments shall be submitted to the Executive Yuan and the Legislative Yuan."
+      "title": "第 15 條",
+      "content": "依外國法律組織、登記之憑證機構，在安全條件相當，且符合國際互惠或技術對接合作原則下，經主管機關許可，其簽發之憑證與本國憑證機構所簽發憑證具有相同之效力。\n前項許可之申請程序、審核方式、許可條件、廢止許可之事由及其他相關事項之辦法，由主管機關定之。\n主管機關應公告經第一項許可之憑證機構名單。"
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "第 16 條",
+      "content": "憑證機構違反第十二條第一項前段規定，憑證實務作業基準未經主管機關許可而提供簽發憑證服務者，主管機關應令其限期改正，並得處新臺幣一百萬元以上五百萬元以下罰鍰；屆期未改正者，按次處罰；其情節重大者，並得停止其一部或全部業務。"
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "第 17 條",
+      "content": "憑證機構有下列情形之一者，主管機關應令其限期改正，並得處新臺幣五萬元以上五十萬元以下罰鍰；屆期未改正者，按次處罰：\n一、未依許可之憑證實務作業基準提供服務。\n二、違反第十二條第一項後段規定，變更憑證實務作業基準未送許可，而依變更後之內容提供簽發憑證服務。"
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "第 18 條",
+      "content": "憑證機構有下列情形之一者，主管機關應令其限期改正，並得處新臺幣二萬元以上二十萬元以下罰鍰；屆期未改正者，按次處罰：\n一、違反第十二條第二項規定，未於其機構網站公布經許可或許可變更之憑證實務作業基準。\n二、違反第十三條第一項第一款、第三款或第四款規定，終止服務前未依限通報、未依限通知或未移交。"
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "第 19 條",
+      "content": "主管機關應定期蒐集我國電子簽章之應用情形，辦理國際法規與市場需求等相關調查或研究，並每年公布之。"
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "第 20 條",
+      "content": "本法修正施行前，行政機關依原第四條第三項、第六條第三項或第九條第二項規定公告排除適用本法者，各該公告自本法修正施行之日起算一年後停止適用。但經主管機關同意者，得展延一次，展延期間二年為限。"
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "第 21 條",
+      "content": "本法施行細則，由主管機關定之。"
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "第 22 條",
+      "content": "本法自公布日施行。"
     }
   ],
   "definitions": [
     {
-      "term": "electronic document",
-      "definition": "Information created, transmitted, received, or stored by electronic means, including electromagnetic, optical, or any other technology, in a retrievable form.",
+      "term": "電子文件",
+      "definition": "指文字、聲音、圖片、影像、符號或其他資料，以電子或其他以人之知覺無法直接認識之方式，所製成足以表示其用意之紀錄，而供電子處理之用者。",
       "source_provision": "art2"
     },
     {
-      "term": "electronic signature",
-      "definition": "Information in electronic form that is attached to, or logically associated with, other information in electronic form and that is used by the signatory to sign.",
+      "term": "電子簽章",
+      "definition": "指依附於電子文件並與其相關連，用以辨識及確認電子文件簽署人身分、資格及電子文件真偽者。",
       "source_provision": "art2"
     },
     {
-      "term": "digital signature",
-      "definition": "An electronic signature created by applying a cryptographic transformation to an electronic document using the signatory's private key, such that the signature can be verified by reference to the corresponding public key certificate.",
+      "term": "數位簽章",
+      "definition": "屬於電子簽章之一種，指將電子文件以數學演算法或其他方式運算為一定長度之數位資料，以簽署人之私密金鑰對其加密，形成電子簽章，得以公開金鑰加以驗證，並具憑證機構簽發之憑證者。",
       "source_provision": "art2"
     },
     {
-      "term": "qualified certificate",
-      "definition": "A certificate that meets the technical standards prescribed by the competent authority and is issued by an accredited certification service provider.",
+      "term": "加密",
+      "definition": "指利用數學演算法或其他方法，將電子文件以亂碼方式處理。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "憑證機構",
+      "definition": "指簽發憑證之機關、法人。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "憑證",
+      "definition": "指載有簽章驗證資料，用以確認簽署人身分、資格之電子形式證明。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "憑證實務作業基準",
+      "definition": "指由憑證機構對外公告，用以陳述憑證機構據以簽發憑證及處理其他認證業務之作業準則。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "資訊系統",
+      "definition": "指產生、送出、收受、儲存或其他處理電子形式訊息資料之系統。 主管機關得公告具電子簽章效力之電子簽章技術，並適時檢討。",
       "source_provision": "art2"
     }
   ]

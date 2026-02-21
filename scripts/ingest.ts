@@ -1,30 +1,24 @@
 #!/usr/bin/env tsx
 /**
- * Taiwanese Law MCP -- Ingestion Pipeline
+ * Taiwanese Law MCP — Real legislation ingestion.
  *
- * Fetches Taiwanese legislation from the Sejm ELI API (api.sejm.gov.pl).
- * The Sejm (Taiwanese Parliament) provides free public access to all legislation
- * published in Dziennik Ustaw (Journal of Laws) via the ELI API.
- *
- * Strategy:
- * 1. For each act, fetch the HTML text from the ELI API endpoint
- * 2. Parse articles (Art.) from the structured HTML
- * 3. Write seed JSON files for the database builder
- *
- * Usage:
- *   npm run ingest                    # Full ingestion
- *   npm run ingest -- --limit 5       # Test with 5 acts
- *   npm run ingest -- --skip-fetch    # Reuse cached pages
- *
- * Data source: api.sejm.gov.pl (Chancellery of the Sejm of the Republic of Poland)
- * License: Taiwanese legislation is public domain under Art. 4 of the Copyright Act
+ * Official source:
+ *   - Taiwan Laws & Regulations Database OpenAPI
+ *   - https://law.moj.gov.tw/api/swagger
+ *   - Chinese law dataset: https://law.moj.gov.tw/api/ch/law/json (ZIP)
  */
 
-import * as fs from 'fs';
-import * as path from 'path';
-import { fileURLToPath } from 'url';
-import { fetchWithRateLimit } from './lib/fetcher.js';
-import { parseTaiwaneseHtml, KEY_TAIWANESE_ACTS, type ActIndexEntry, type ParsedAct } from './lib/parser.js';
+import { execFileSync } from 'node:child_process';
+import * as fs from 'node:fs';
+import * as path from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { fetchBinaryWithRateLimit } from './lib/fetcher.js';
+import {
+  indexLawsByPcode,
+  parseLawToSeed,
+  parseOpenApiLawDataset,
+  type TargetLawConfig,
+} from './lib/parser.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -32,155 +26,138 @@ const __dirname = path.dirname(__filename);
 const SOURCE_DIR = path.resolve(__dirname, '../data/source');
 const SEED_DIR = path.resolve(__dirname, '../data/seed');
 
-/** ELI API base URL for the Sejm */
-const ELI_API_BASE = 'https://api.sejm.gov.pl/eli/acts/DU';
+const CH_LAW_JSON_ZIP_URL = 'https://law.moj.gov.tw/api/ch/law/json';
+const CH_LAW_ZIP_PATH = path.join(SOURCE_DIR, 'ch-law-json.zip');
+const CH_LAW_JSON_PATH = path.join(SOURCE_DIR, 'ChLaw.json');
 
-function parseArgs(): { limit: number | null; skipFetch: boolean } {
+const TARGET_LAWS: TargetLawConfig[] = [
+  { id: 'tw-pdpa', pcode: 'I0050021', shortName: 'PDPA', fileName: '01-personal-data-protection.json' },
+  { id: 'tw-csma', pcode: 'A0030297', shortName: 'CSMA', fileName: '02-cybersecurity-management.json' },
+  { id: 'tw-tma', pcode: 'K0060111', shortName: 'TMA', fileName: '03-telecommunications-management.json' },
+  { id: 'tw-esa', pcode: 'J0080037', shortName: 'ESA', fileName: '04-electronic-signatures.json' },
+  { id: 'tw-fgia', pcode: 'I0020026', shortName: 'FGIA', fileName: '05-freedom-of-government-information.json' },
+  { id: 'tw-criminal-code', pcode: 'C0000001', shortName: 'Criminal Code', fileName: '06-criminal-code.json' },
+  { id: 'tw-fintech-sandbox', pcode: 'G0380254', shortName: 'FinTech Sandbox Act', fileName: '07-fintech-sandbox.json' },
+  { id: 'tw-trade-secrets', pcode: 'J0080028', shortName: 'TSA', fileName: '08-trade-secrets.json' },
+  { id: 'tw-cssa', pcode: 'K0060044', shortName: 'CSSA', fileName: '09-communication-security-surveillance.json' },
+  { id: 'tw-epia', pcode: 'G0380237', shortName: 'AEPI', fileName: '10-electronic-payment-institutions.json' },
+];
+
+interface IngestArgs {
+  skipFetch: boolean;
+}
+
+function parseArgs(): IngestArgs {
   const args = process.argv.slice(2);
-  let limit: number | null = null;
-  let skipFetch = false;
-
-  for (let i = 0; i < args.length; i++) {
-    if (args[i] === '--limit' && args[i + 1]) {
-      limit = parseInt(args[i + 1], 10);
-      i++;
-    } else if (args[i] === '--skip-fetch') {
-      skipFetch = true;
-    }
-  }
-
-  return { limit, skipFetch };
+  return {
+    skipFetch: args.includes('--skip-fetch'),
+  };
 }
 
-/**
- * Build the ELI API URL for fetching an act's HTML text.
- * Pattern: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}/text.html
- */
-function buildTextUrl(act: ActIndexEntry): string {
-  return `${ELI_API_BASE}/${act.year}/${act.poz}/text.html`;
-}
-
-async function fetchAndParseActs(acts: ActIndexEntry[], skipFetch: boolean): Promise<void> {
-  console.log(`\nProcessing ${acts.length} Taiwanese Acts from api.sejm.gov.pl...\n`);
-
+function ensureDirectories(): void {
   fs.mkdirSync(SOURCE_DIR, { recursive: true });
   fs.mkdirSync(SEED_DIR, { recursive: true });
+}
 
-  let processed = 0;
-  let skipped = 0;
-  let failed = 0;
-  let totalProvisions = 0;
-  let totalDefinitions = 0;
-  const results: { act: string; provisions: number; definitions: number; status: string }[] = [];
-
-  for (const act of acts) {
-    const sourceFile = path.join(SOURCE_DIR, `${act.id}.html`);
-    const seedFile = path.join(SEED_DIR, `${act.id}.json`);
-
-    // Skip if seed already exists and we're in skip-fetch mode
-    if (skipFetch && fs.existsSync(seedFile)) {
-      const existing = JSON.parse(fs.readFileSync(seedFile, 'utf-8')) as ParsedAct;
-      const provCount = existing.provisions?.length ?? 0;
-      const defCount = existing.definitions?.length ?? 0;
-      totalProvisions += provCount;
-      totalDefinitions += defCount;
-      results.push({ act: act.shortName, provisions: provCount, definitions: defCount, status: 'cached' });
-      skipped++;
-      processed++;
-      continue;
+function clearSeedDirectory(): void {
+  for (const name of fs.readdirSync(SEED_DIR)) {
+    if (name.endsWith('.json')) {
+      fs.unlinkSync(path.join(SEED_DIR, name));
     }
+  }
+}
 
-    try {
-      let html: string;
+function extractJsonFromZip(zipPath: string): string {
+  return execFileSync('unzip', ['-p', zipPath, 'ChLaw.json'], {
+    encoding: 'utf8',
+    maxBuffer: 128 * 1024 * 1024,
+  });
+}
 
-      if (fs.existsSync(sourceFile) && skipFetch) {
-        html = fs.readFileSync(sourceFile, 'utf-8');
-        console.log(`  Using cached ${act.shortName} (${act.dziennikRef}) (${(html.length / 1024).toFixed(0)} KB)`);
-      } else {
-        const textUrl = buildTextUrl(act);
-        process.stdout.write(`  Fetching ${act.shortName} (${act.dziennikRef})...`);
-        const result = await fetchWithRateLimit(textUrl);
+async function loadOpenApiDataset(skipFetch: boolean): Promise<string> {
+  ensureDirectories();
 
-        if (result.status !== 200) {
-          console.log(` HTTP ${result.status}`);
-          results.push({ act: act.shortName, provisions: 0, definitions: 0, status: `HTTP ${result.status}` });
-          failed++;
-          processed++;
-          continue;
-        }
-
-        html = result.body;
-
-        // Validate that we got real legislation content, not a bot challenge
-        if (html.includes('window["bobcmn"]') || !html.includes('unit_arti')) {
-          console.log(` BLOCKED (bot challenge or no article content)`);
-          results.push({ act: act.shortName, provisions: 0, definitions: 0, status: 'BLOCKED' });
-          failed++;
-          processed++;
-          continue;
-        }
-
-        fs.writeFileSync(sourceFile, html);
-        console.log(` OK (${(html.length / 1024).toFixed(0)} KB)`);
-      }
-
-      const parsed = parseTaiwaneseHtml(html, act);
-      fs.writeFileSync(seedFile, JSON.stringify(parsed, null, 2));
-      totalProvisions += parsed.provisions.length;
-      totalDefinitions += parsed.definitions.length;
-      console.log(`    -> ${parsed.provisions.length} provisions, ${parsed.definitions.length} definitions extracted`);
-      results.push({
-        act: act.shortName,
-        provisions: parsed.provisions.length,
-        definitions: parsed.definitions.length,
-        status: 'OK',
-      });
-    } catch (error) {
-      const msg = error instanceof Error ? error.message : String(error);
-      console.log(`  ERROR ${act.shortName}: ${msg}`);
-      results.push({ act: act.shortName, provisions: 0, definitions: 0, status: `ERROR: ${msg.substring(0, 80)}` });
-      failed++;
-    }
-
-    processed++;
+  if (skipFetch && fs.existsSync(CH_LAW_JSON_PATH)) {
+    console.log(`Using cached dataset: ${CH_LAW_JSON_PATH}`);
+    return fs.readFileSync(CH_LAW_JSON_PATH, 'utf8');
   }
 
-  console.log(`\n${'='.repeat(72)}`);
-  console.log('Ingestion Report');
-  console.log('='.repeat(72));
-  console.log(`\n  Source:       api.sejm.gov.pl (Sejm ELI API)`);
-  console.log(`  License:     Public domain (Art. 4 Taiwanese Copyright Act)`);
-  console.log(`  Processed:   ${processed}`);
-  console.log(`  Cached:      ${skipped}`);
-  console.log(`  Failed:      ${failed}`);
-  console.log(`  Total provisions:  ${totalProvisions}`);
-  console.log(`  Total definitions: ${totalDefinitions}`);
-  console.log(`\n  Per-Act breakdown:`);
-  console.log(`  ${'Act'.padEnd(20)} ${'Provisions'.padStart(12)} ${'Definitions'.padStart(13)} ${'Status'.padStart(10)}`);
-  console.log(`  ${'-'.repeat(20)} ${'-'.repeat(12)} ${'-'.repeat(13)} ${'-'.repeat(10)}`);
-  for (const r of results) {
-    console.log(`  ${r.act.padEnd(20)} ${String(r.provisions).padStart(12)} ${String(r.definitions).padStart(13)} ${r.status.padStart(10)}`);
+  console.log(`Fetching OpenAPI dataset: ${CH_LAW_JSON_ZIP_URL}`);
+  const response = await fetchBinaryWithRateLimit(CH_LAW_JSON_ZIP_URL);
+  if (response.status !== 200) {
+    throw new Error(`OpenAPI download failed: HTTP ${response.status}`);
   }
-  console.log('');
+
+  fs.writeFileSync(CH_LAW_ZIP_PATH, response.body);
+  console.log(`  Saved ZIP cache: ${CH_LAW_ZIP_PATH} (${(response.body.length / 1024 / 1024).toFixed(1)} MB)`);
+
+  const jsonText = extractJsonFromZip(CH_LAW_ZIP_PATH);
+  fs.writeFileSync(CH_LAW_JSON_PATH, jsonText);
+  console.log(`  Extracted JSON: ${CH_LAW_JSON_PATH}`);
+
+  return jsonText;
 }
 
 async function main(): Promise<void> {
-  const { limit, skipFetch } = parseArgs();
+  const { skipFetch } = parseArgs();
 
-  console.log('Taiwanese Law MCP -- Ingestion Pipeline');
-  console.log('====================================\n');
-  console.log(`  Source: api.sejm.gov.pl (Chancellery of the Sejm)`);
-  console.log(`  Format: ELI HTML (structured legislation text)`);
-  console.log(`  License: Public domain (Art. 4 Taiwanese Copyright Act)`);
+  console.log('Taiwanese Law MCP — Real Data Ingestion');
+  console.log('=======================================\n');
+  console.log(`Source: ${CH_LAW_JSON_ZIP_URL}`);
+  if (skipFetch) console.log('Mode: --skip-fetch');
+  console.log('');
 
-  if (limit) console.log(`  --limit ${limit}`);
-  if (skipFetch) console.log(`  --skip-fetch`);
+  const jsonText = await loadOpenApiDataset(skipFetch);
+  const dataset = parseOpenApiLawDataset(jsonText);
+  const lawsByPcode = indexLawsByPcode(dataset);
 
-  const acts = limit ? KEY_TAIWANESE_ACTS.slice(0, limit) : KEY_TAIWANESE_ACTS;
-  await fetchAndParseActs(acts, skipFetch);
+  clearSeedDirectory();
+
+  let written = 0;
+  let totalProvisions = 0;
+  let totalDefinitions = 0;
+  const missing: TargetLawConfig[] = [];
+
+  for (let i = 0; i < TARGET_LAWS.length; i++) {
+    const target = TARGET_LAWS[i];
+    const lawRecord = lawsByPcode.get(target.pcode);
+    if (!lawRecord) {
+      missing.push(target);
+      console.log(`  [${i + 1}/${TARGET_LAWS.length}] MISSING ${target.pcode} -> ${target.fileName}`);
+      continue;
+    }
+
+    const seed = parseLawToSeed(lawRecord, target);
+    const outputPath = path.join(SEED_DIR, target.fileName);
+    fs.writeFileSync(outputPath, `${JSON.stringify(seed, null, 2)}\n`);
+
+    totalProvisions += seed.provisions.length;
+    totalDefinitions += seed.definitions.length;
+    written++;
+
+    console.log(
+      `  [${i + 1}/${TARGET_LAWS.length}] ${lawRecord.LawName} (${target.pcode}) -> ${target.fileName} ` +
+      `(${seed.provisions.length} provisions, ${seed.definitions.length} definitions)`
+    );
+  }
+
+  console.log('\nIngestion summary');
+  console.log('-----------------');
+  console.log(`Dataset update date: ${dataset.UpdateDate}`);
+  console.log(`Seed files written: ${written}/${TARGET_LAWS.length}`);
+  console.log(`Total provisions:   ${totalProvisions}`);
+  console.log(`Total definitions:  ${totalDefinitions}`);
+  console.log(`Seed output dir:    ${SEED_DIR}`);
+
+  if (missing.length > 0) {
+    console.log('\nSkipped laws (not found in source dataset):');
+    for (const target of missing) {
+      console.log(`  - ${target.pcode} (${target.fileName})`);
+    }
+  }
 }
 
 main().catch(error => {
-  console.error('Fatal error:', error);
+  console.error('Fatal ingestion error:', error);
   process.exit(1);
 });

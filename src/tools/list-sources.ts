@@ -44,15 +44,15 @@ export async function listSources(
     results: {
       sources: [
         {
-          name: 'Official Legal Database',
-          authority: 'Government (State Chancellery of Taiwanese)',
-          url: 'https://law.moj.gov.tw',
-          license: 'Creative Commons Attribution 4.0 International (CC BY 4.0)',
+          name: 'Laws & Regulations Database OpenAPI',
+          authority: 'Ministry of Justice, Republic of China (Taiwan)',
+          url: 'https://law.moj.gov.tw/api/swagger',
+          license: 'Government Website Open Data License v1 (attribution required)',
           coverage:
-            'All Commonwealth (federal) Acts and legislative instruments, ' +
-            'including privacy, cybersecurity, critical infrastructure, ' +
-            'corporations, consumer, telecommunications, and criminal law',
-          languages: ['en'],
+            'Official central legislation from Taiwan Laws & Regulations Database; ' +
+            'this MCP currently indexes 10 statutes focused on data protection, ' +
+            'cybersecurity, telecommunications, criminal cyber provisions, and fintech/e-pay law',
+          languages: ['zh', 'en'],
         },
       ],
       database: {

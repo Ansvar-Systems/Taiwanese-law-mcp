@@ -1,73 +1,94 @@
 /**
- * Rate-limited HTTP client for Taiwanese legislation from the Sejm ELI API.
+ * Rate-limited HTTP client for Taiwan's Laws & Regulations Database OpenAPI.
  *
- * Data source: api.sejm.gov.pl — the official ELI (European Legislation Identifier)
- * API provided by the Chancellery of the Sejm of the Republic of Poland.
+ * Official source:
+ *   https://law.moj.gov.tw/api/swagger
  *
- * URL patterns:
- *   Metadata: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}
- *   HTML text: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}/text.html
- *
- * - 500ms minimum delay between requests (respectful to government servers)
- * - User-Agent header identifying the MCP
- * - Retry on 429/5xx with exponential backoff
- * - No auth needed (public government data)
+ * We enforce a conservative request delay (1.2s) per assignment guidance.
  */
 
-const USER_AGENT = 'Taiwanese-Law-MCP/1.0 (https://github.com/Ansvar-Systems/taiwanese-law-mcp; hello@ansvar.ai)';
-const MIN_DELAY_MS = 500;
+const USER_AGENT = 'Ansvar-Law-MCP/1.0 (real-legislation-ingestion)';
+const MIN_DELAY_MS = 1200;
 
-let lastRequestTime = 0;
+let lastRequestAt = 0;
 
-async function rateLimit(): Promise<void> {
-  const now = Date.now();
-  const elapsed = now - lastRequestTime;
-  if (elapsed < MIN_DELAY_MS) {
-    await new Promise(resolve => setTimeout(resolve, MIN_DELAY_MS - elapsed));
-  }
-  lastRequestTime = Date.now();
+function sleep(ms: number): Promise<void> {
+  return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-export interface FetchResult {
+async function waitForRateLimit(): Promise<void> {
+  const now = Date.now();
+  const elapsed = now - lastRequestAt;
+  if (elapsed < MIN_DELAY_MS) {
+    await sleep(MIN_DELAY_MS - elapsed);
+  }
+  lastRequestAt = Date.now();
+}
+
+export interface FetchBinaryResult {
   status: number;
-  body: string;
+  body: Buffer;
   contentType: string;
   url: string;
 }
 
-/**
- * Fetch a URL with rate limiting and proper headers.
- * Retries up to 3 times on 429/5xx errors with exponential backoff.
- */
-export async function fetchWithRateLimit(url: string, maxRetries = 3): Promise<FetchResult> {
-  await rateLimit();
+export async function fetchBinaryWithRateLimit(url: string, maxRetries = 3): Promise<FetchBinaryResult> {
+  await waitForRateLimit();
+
+  let lastError: unknown;
 
   for (let attempt = 0; attempt <= maxRetries; attempt++) {
-    const response = await fetch(url, {
-      headers: {
-        'User-Agent': USER_AGENT,
-        'Accept': 'text/html, application/json, */*',
-      },
-      redirect: 'follow',
-    });
+    try {
+      const response = await fetch(url, {
+        headers: {
+          'User-Agent': USER_AGENT,
+          'Accept': '*/*',
+        },
+        redirect: 'follow',
+      });
 
-    if (response.status === 429 || response.status >= 500) {
-      if (attempt < maxRetries) {
-        const backoff = Math.pow(2, attempt + 1) * 1000;
-        console.log(`  HTTP ${response.status} for ${url}, retrying in ${backoff}ms...`);
-        await new Promise(resolve => setTimeout(resolve, backoff));
+      if ((response.status === 429 || response.status >= 500) && attempt < maxRetries) {
+        const backoffMs = Math.pow(2, attempt + 1) * 1000;
+        console.log(`  HTTP ${response.status} for ${url}; retrying in ${backoffMs}ms...`);
+        await sleep(backoffMs);
         continue;
       }
-    }
 
-    const body = await response.text();
-    return {
-      status: response.status,
-      body,
-      contentType: response.headers.get('content-type') ?? '',
-      url: response.url,
-    };
+      const arrayBuffer = await response.arrayBuffer();
+      return {
+        status: response.status,
+        body: Buffer.from(arrayBuffer),
+        contentType: response.headers.get('content-type') ?? '',
+        url: response.url,
+      };
+    } catch (error) {
+      lastError = error;
+      if (attempt < maxRetries) {
+        const backoffMs = Math.pow(2, attempt + 1) * 1000;
+        console.log(`  Network error for ${url}; retrying in ${backoffMs}ms...`);
+        await sleep(backoffMs);
+      }
+    }
   }
 
-  throw new Error(`Failed to fetch ${url} after ${maxRetries} retries`);
+  try {
+    console.log(`  Falling back to curl for ${url}`);
+    const body = execFileSync(
+      'curl',
+      ['-fL', '--retry', '3', '--retry-delay', '2', '-A', USER_AGENT, url],
+      { encoding: 'buffer', maxBuffer: 256 * 1024 * 1024 },
+    );
+    return {
+      status: 200,
+      body: Buffer.from(body),
+      contentType: '',
+      url,
+    };
+  } catch (curlError) {
+    lastError = curlError;
+  }
+
+  const detail = lastError instanceof Error ? lastError.message : String(lastError);
+  throw new Error(`Failed to fetch ${url} after ${maxRetries} retries: ${detail}`);
 }
+import { execFileSync } from 'node:child_process';

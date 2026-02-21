@@ -3,21 +3,22 @@ mcp_name: "Taiwanese Law MCP"
 jurisdiction: "TW"
 
 sources:
-  - name: "Laws & Regulations Database"
-    authority: "Laws & Regulations Database"
+  - name: "Laws & Regulations Database OpenAPI"
+    authority: "Ministry of Justice, Republic of China (Taiwan)"
     official_portal: "https://law.moj.gov.tw"
-    retrieval_method: "HTML_SCRAPE"
-    update_frequency: "weekly"
+    retrieval_method: "API"
+    update_frequency: "weekly (Friday sync)"
     last_ingested: "2026-02-21"
     license_or_terms:
-      type: "Government Open Data"
-      url: "https://law.moj.gov.tw"
-      summary: "Official legislative texts are public domain"
+      type: "open_data"
+      url: "https://law.moj.gov.tw/Service/Copyright.aspx"
+      summary: "Published under Government Website Open Data License v1; reuse is permitted with attribution."
     coverage:
-      scope: "Data protection, cybersecurity, e-commerce, criminal law cyber provisions"
-      limitations: "AI-generated seed data; full official ingestion pending"
+      scope: "Official central legislation from /api/ch/law/json, including Chinese full text and English law-name metadata."
+      limitations: "This MCP currently ingests 10 selected statutes, not the full national corpus."
     languages:
       - "zh"
+      - "en"
 
 data_freshness:
   automated_checks: true

@@ -5,128 +5,277 @@
   "title_en": "Cyber Security Management Act",
   "short_name": "CSMA",
   "status": "in_force",
-  "issued_date": "2018-06-06",
-  "in_force_date": "2019-01-01",
-  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=A0030297",
-  "description": "The Cyber Security Management Act establishes a national cybersecurity governance framework for Taiwan, requiring government agencies and critical infrastructure providers to implement information security management systems and incident response capabilities. The Act mandates cybersecurity risk assessments, security inspections, and incident reporting to the Executive Yuan. It designates specific government agencies as competent authorities for different sectors of critical infrastructure.",
+  "issued_date": "2025-09-24",
+  "in_force_date": "2025-12-01",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030297",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞數位發展部＞資通安全目. Articles extracted: 35.",
   "provisions": [
     {
       "provision_ref": "art1",
       "section": "1",
-      "title": "Article 1. Legislative Purpose",
-      "content": "This Act is enacted for the purpose of strengthening the nation's cybersecurity, safeguarding national sovereignty and security, protecting the rights and interests of the people and legal entities, and ensuring the continuity of essential services. The Act establishes a comprehensive national cybersecurity governance framework applicable to government agencies at all levels and to providers of critical infrastructure. The Executive Yuan shall designate a central competent authority responsible for coordinating national cybersecurity policy, overseeing implementation of this Act, and reporting to the Legislative Yuan on the state of national cybersecurity on an annual basis. Nothing in this Act shall be construed to limit the authority of any government agency to take emergency measures to protect national security in the event of an imminent cybersecurity threat."
+      "title": "第 1 條",
+      "content": "為積極推動國家資通安全政策，加速建構國家資通安全環境，以保障國家安全，維護社會公共利益，特制定本法。"
     },
     {
       "provision_ref": "art2",
       "section": "2",
-      "title": "Article 2. Definitions",
-      "content": "The terms used in this Act are defined as follows: (1) 'Cybersecurity' means the state in which the confidentiality, integrity, and availability of information, information systems, communication systems, and related infrastructure are protected from threats or infringement, and the ability to recover rapidly from any such threats or infringement. (2) 'Cybersecurity incident' means any occurrence, whether intentional or accidental, that endangers the confidentiality, integrity, or availability of information, information systems, communication systems, or related infrastructure. (3) 'Government agency' means central and local government agencies and their subordinate organs, as well as state-owned enterprises. (4) 'Critical infrastructure provider' means a natural person, legal entity, or organization in the private sector that provides services in the fields of energy, water, communications, transportation, banking and finance, emergency services, government services, high-technology parks, or any other field designated by the central competent authority. (5) 'Information security management system' means a systematic management framework for protecting the confidentiality, integrity, and availability of information assets."
+      "title": "第 2 條",
+      "content": "本法之主管機關為數位發展部。\n資通安全業務之執行，由數位發展部指定資安專責機關辦理。"
     },
     {
       "provision_ref": "art3",
       "section": "3",
-      "title": "Article 3. Government Agency Obligations",
-      "content": "Each government agency shall: (1) Formulate and implement an information security management policy and plan; (2) Establish an information security management system in accordance with the standards prescribed by the central competent authority; (3) Conduct cybersecurity risk assessments at least annually; (4) Implement appropriate technical and organizational cybersecurity measures commensurate with the assessed level of risk; (5) Designate a chief information security officer responsible for overseeing the implementation of the agency's information security management system; (6) Establish an incident response team or mechanism capable of detecting, responding to, and recovering from cybersecurity incidents; (7) Report cybersecurity incidents to the central competent authority in accordance with this Act; and (8) Participate in cybersecurity exercises and drills organized by the central competent authority. Government agencies shall classify their information assets and information systems by level of criticality and shall apply security measures proportionate to the classification."
+      "title": "第 3 條",
+      "content": "本法用詞，定義如下：\n一、資通系統：指用以蒐集、控制、傳輸、儲存、流通、刪除資訊或對資訊為其他處理、使用或分享之系統。\n二、資通服務：指與資訊之蒐集、控制、傳輸、儲存、流通、刪除、其他處理、使用或分享相關之服務。\n三、資通安全：指防止資通系統或資訊遭受未經授權之存取、使用、控制、洩漏、破壞、竄改、銷毀，或其他情形影響其機密性、完整性或可用性。\n四、資通安全事件：指系統、服務或網路狀態經鑑別而顯示可能有違反資通安全或保護措施失效之狀態發生，影響資通系統機能運作。\n五、公務機關：指依法行使公權力之中央、地方機關（構）或公法人。但不包括軍事機關及情報機關。\n六、特定非公務機關：指關鍵基礎設施提供者、公營事業、特定財團法人或受政府控制之事業、團體或機構。\n七、關鍵基礎設施：指實體或虛擬資產、系統或網路，其功能一旦停止運作或效能降低，對國家安全、社會公共利益、國民生活或經濟活動有重大影響之虞，經行政院定期檢視並公告之領域。\n八、關鍵基礎設施提供者：指維運或提供關鍵基礎設施之全部或一部，經中央目的事業主管機關指定，並報行政院核定者。\n九、特定財團法人：指符合財團法人法第二條第二項、第三項或第六十三條第一項、第四項規定之財團法人，並屬該法第二條第八項所定全國性財團法人者。\n十、受政府控制之事業、團體或機構：指銓敘部依公務人員退休資遣撫卹法第七十七條第一項第二款第三目及第四目公告之事業、團體或機構，具資通安全重要性，經中央目的事業主管機關指定，並經主管機關核定者；其受地方政府控制者，應經地方主管機關同意後，主管機關始得核定。\n十一、危害國家資通安全產品：指經主管機關認定，對國家資通安全具有直接或間接造成危害風險，影響政府運作或社會安定之資通系統、服務或產品。"
     },
     {
       "provision_ref": "art4",
       "section": "4",
-      "title": "Article 4. Critical Infrastructure Providers",
-      "content": "Critical infrastructure providers designated under this Act shall, within six months of designation, establish and implement an information security management system meeting the standards prescribed by the central competent authority. Critical infrastructure providers shall: (1) Conduct cybersecurity risk assessments at regular intervals not exceeding two years; (2) Implement cybersecurity measures commensurate with the assessed level of risk; (3) Conduct cybersecurity inspections of their systems and infrastructure at regular intervals not exceeding two years; (4) Retain records of cybersecurity measures, assessments, and inspections for a minimum of three years; (5) Report cybersecurity incidents to the competent authority of the relevant sector within the prescribed time limits; and (6) Cooperate with inspections and audits conducted by the competent authority. The central competent authority shall issue regulations specifying the standards for information security management systems applicable to critical infrastructure providers, differentiating by sector and by level of criticality."
+      "title": "第 4 條",
+      "content": "為提升資通安全，政府應提供資源，整合民間及產業力量，提升全民資通安全意識，並推動下列事項：\n一、資通安全專業人才之培育。\n二、資通安全科技之研發、整合、應用、產學合作及國際交流合作。\n三、資通安全產業之發展。\n四、資通安全軟硬體技術規範、相關服務及審驗機制之發展。\n五、協助民間處理、因應及防範重大資通安全事件。\n前項相關事項之推動，由主管機關擬訂國家資通安全發展方案，報請行政院核定後實施。"
     },
     {
       "provision_ref": "art5",
       "section": "5",
-      "title": "Article 5. Incident Reporting",
-      "content": "Government agencies and critical infrastructure providers shall report cybersecurity incidents to the competent authority in accordance with the following requirements: (1) Level 1 incidents (minor): Report within 36 hours of discovery by standard reporting channels; (2) Level 2 incidents (moderate): Report within 8 hours of discovery; (3) Level 3 incidents (major): Report within 1 hour of discovery, with immediate telephone notification to the competent authority; (4) Level 4 incidents (severe): Immediate telephone notification upon discovery, followed by written report within 1 hour. Incident reports shall include: (a) A description of the incident and its apparent cause; (b) The scope of affected systems and services; (c) The estimated impact on operations and service continuity; (d) Measures already taken in response; and (e) Measures planned for recovery and for preventing recurrence. The central competent authority shall issue regulations specifying the criteria for classifying incidents by level, the format of incident reports, and the escalation procedures for major incidents."
+      "title": "第 5 條",
+      "content": "為落實國家資通安全政策，各政府機關、中央及地方間，應致力配合推動執行國家資通安全措施，共同建構國家資通安全環境。\n為辦理國家資通安全政策、應變機制與重大計畫之諮詢審議，協調各政府機關、中央及地方間之資通安全相關事務，行政院應定期召開國家資通安全會報，由行政院院長或副院長擔任召集人，得邀請專家學者及民間團體代表出席，必要時得召開臨時會議，其幕僚作業由主管機關辦理。\n前項國家資通安全會報決議事項，相關政府部門應予執行，由主管機關定期追蹤管考，並得辦理績效評核。\n第二項國家資通安全會報之組成、任務、議事程序及其他相關事項之辦法，由行政院定之。"
     },
     {
       "provision_ref": "art6",
       "section": "6",
-      "title": "Article 6. Cybersecurity Inspections",
-      "content": "The central competent authority may conduct cybersecurity inspections of government agencies at any time, and shall conduct regular inspections at least once every three years. The competent authority of each sector may conduct cybersecurity inspections of critical infrastructure providers in its sector at any time, and shall conduct regular inspections at least once every three years. During an inspection, the competent authority may: (1) Request production of documents, records, and data relating to cybersecurity management; (2) Interview personnel responsible for cybersecurity management; (3) Conduct technical assessments of information systems and infrastructure, including penetration testing with the consent of the agency or provider; (4) Review incident records and response procedures; and (5) Assess the effectiveness of the agency's or provider's information security management system. Inspected agencies and providers shall cooperate with inspections and shall not obstruct, refuse, or impede inspectors. The competent authority shall issue an inspection report and may issue corrective action requirements where deficiencies are found."
+      "title": "第 6 條",
+      "content": "主管機關應規劃並推動國家資通安全政策、資通安全科技發展、國際交流合作及資通安全整體防護等相關事宜，並應每年公布國家資通安全情勢報告、資通安全維護計畫實施情形稽核概況報告及國家資通安全發展方案。\n前項情勢報告、實施情形稽核概況報告及國家資通安全發展方案，應由主管機關送立法院備查。"
     },
     {
       "provision_ref": "art7",
       "section": "7",
-      "title": "Article 7. Supply Chain Security",
-      "content": "Government agencies and critical infrastructure providers shall incorporate cybersecurity requirements in procurement contracts for information and communication technology products and services. Such requirements shall include: (1) Suppliers shall implement information security management systems meeting the standards prescribed by the central competent authority; (2) Suppliers shall notify the procuring agency of known cybersecurity vulnerabilities in products or services delivered; (3) Suppliers shall cooperate with security assessments and audits of products and services; (4) Contracts shall specify security standards applicable to subcontractors and third-party service providers; and (5) Suppliers shall not include components or services from entities that have been prohibited or restricted by the competent authority on grounds of national security. The central competent authority may, on grounds of national security, designate specific products, services, or vendors from which government agencies are prohibited from procuring, and shall publish such designations in the government gazette."
+      "title": "第 7 條",
+      "content": "公務機關及特定非公務機關，應按其業務重要性與機敏性、機關層級、保有或處理之資訊種類、數量、性質、資通系統之規模及性質等條件，報由主管機關核定或備查其資通安全責任等級。\n公務機關及特定非公務機關應符合資通安全責任等級之要求，並自管理、技術、認知及訓練等面向，辦理資通安全防護措施。\n前二項資通安全責任等級之區分基準、核定或備查程序、變更申請、資通安全防護措施辦理項目、內容、專職人員之資格條件與配置及其他相關事項之辦法，由主管機關定之。"
     },
     {
       "provision_ref": "art8",
       "section": "8",
-      "title": "Article 8. National Cybersecurity Policy",
-      "content": "The Executive Yuan shall formulate a National Cybersecurity Plan at least once every four years, setting out: (1) The national cybersecurity strategy, goals, and priorities; (2) The allocation of responsibilities among government agencies for implementing the national cybersecurity strategy; (3) The framework for information sharing between government agencies and with the private sector regarding cybersecurity threats and incidents; (4) The plan for developing national cybersecurity capabilities, including the cybersecurity workforce; (5) The framework for international cooperation on cybersecurity; and (6) The allocation of budgetary resources for implementing the national cybersecurity strategy. The National Cybersecurity Plan shall be reviewed and updated at least annually to reflect changes in the threat environment and technology landscape. The central competent authority shall publish a summary of the National Cybersecurity Plan and submit a detailed version to the Legislative Yuan."
+      "title": "第 8 條",
+      "content": "主管機關得定期或不定期稽核公務機關及特定非公務機關之資通安全維護計畫實施情形。\n前項稽核後，發現受稽核機關資通安全維護計畫實施情形有缺失或待改善者，受稽核機關應提出改善報告，公務機關送交依第十四條規定收受其實施情形之機關、特定非公務機關送交中央目的事業主管機關審查後，由該審查機關送交主管機關。\n前項收受改善報告之機關認有必要時，得要求受稽核機關進行說明或調整。\n前三項資通安全維護計畫實施情形之稽核頻率、內容與方法、改善報告之提出及其他相關事項之辦法，由主管機關定之。\n第一項稽核由主管機關擬訂年度計畫，報請行政院核定後辦理，年度計畫及年度成果報告應送交國家資通安全會報備查。"
     },
     {
       "provision_ref": "art9",
       "section": "9",
-      "title": "Article 9. Information Sharing",
-      "content": "The central competent authority shall establish mechanisms for sharing information about cybersecurity threats, vulnerabilities, and incidents among government agencies and with critical infrastructure providers. The central competent authority shall designate a Computer Security Incident Response Team (CSIRT) responsible for: (1) Coordinating responses to national-level cybersecurity incidents; (2) Collecting, analyzing, and disseminating information about cybersecurity threats and vulnerabilities; (3) Providing technical assistance to government agencies and critical infrastructure providers in responding to incidents; (4) Coordinating with international cybersecurity organizations and foreign government agencies on cybersecurity matters; and (5) Conducting cybersecurity exercises and drills. Information shared under this article shall be protected from unauthorized disclosure and shall be used only for the purposes of cybersecurity. The central competent authority shall issue regulations governing information sharing, including the classification of shared information and the obligations of recipients."
+      "title": "第 9 條",
+      "content": "主管機關應建立資通安全情資分享機制。\n前項資通安全情資之分析、整合與分享之內容、程序、方法及其他相關事項之辦法，由主管機關定之。"
     },
     {
       "provision_ref": "art10",
       "section": "10",
-      "title": "Article 10. Cybersecurity Personnel",
-      "content": "Government agencies shall ensure that they have sufficient qualified cybersecurity personnel to carry out their obligations under this Act. The central competent authority shall: (1) Establish qualification standards and certification programs for cybersecurity personnel in government agencies; (2) Work with educational institutions to develop cybersecurity education and training programs; (3) Conduct or commission training programs for cybersecurity personnel in government agencies; and (4) Promote the development of the cybersecurity industry and workforce in the private sector. Government agencies above a specified size shall designate a Chief Information Security Officer (CISO) who is responsible for overseeing the implementation of the agency's information security management system and reporting to senior management. The CISO shall have appropriate qualifications and experience in cybersecurity management and shall be independent of the information technology function."
+      "title": "第 10 條",
+      "content": "公務機關或特定非公務機關，於本法適用範圍內，委外辦理資通系統之建置、維運或資通服務之提供，應選任適當之受託者，要求受託者建立有效之資通安全管理機制，並監督該機制之實施。\n前項受託者辦理受託業務之相關程序及環境，應具備完善之資通安全管理措施或通過公正第三方驗證。\n公務機關或特定非公務機關辦理第一項委外業務，應與受託者簽訂書面契約，載明雙方之權利義務及違約責任。\n公務機關及特定非公務機關，應配合主管機關之規劃辦理資通安全演練作業，並視需要導入第三方協力機制；演練內容及其他相關事項，由主管機關定之。"
     },
     {
       "provision_ref": "art11",
       "section": "11",
-      "title": "Article 11. Penalties for Government Agencies",
-      "content": "Where a government agency fails to perform its obligations under this Act, the central competent authority or the competent authority of the relevant sector may: (1) Issue a warning and require corrective action within a prescribed period; (2) Publicly disclose the violation and the agency's failure to comply; (3) Require the head of the agency or responsible officials to undergo cybersecurity training; (4) Where the failure to comply results in a significant cybersecurity incident, refer the matter to the Control Yuan for investigation; and (5) Include the agency's cybersecurity compliance record in the assessment of the performance of the head of the agency. Heads of government agencies who fail to take adequate measures to fulfill the obligations of their agencies under this Act may be held personally accountable under applicable government personnel laws."
+      "title": "第 11 條",
+      "content": "公務機關不得下載、安裝或使用危害國家資通安全產品；其自行或委外營運場所提供公眾視聽或使用之傳播設備及網際網路接取服務，於維護資通安全之必要時，亦同。但因業務需求且無其他替代方案者，經該機關資通安全長及依第十四條規定收受其實施情形之機關資通安全長核可，函報主管機關核定後，得以專案方式使用，並列冊管理。\n公務機關發配供業務使用之資通訊設備，不得下載、安裝或使用危害國家資通安全產品，並應遵守相關法令規範。但因業務需求且無其他替代方案者，準用前項但書規定辦理。\n前二項有關危害國家資通安全產品之審查程序、風險評估、情資分享、使用限制及其他相關事項之辦法，由主管機關會商有關機關擬訂，報請行政院核定之。"
     },
     {
       "provision_ref": "art12",
       "section": "12",
-      "title": "Article 12. Penalties for Critical Infrastructure Providers",
-      "content": "Where a critical infrastructure provider fails to perform its obligations under this Act, the competent authority of the relevant sector may order the provider to make corrections within a prescribed period. Where the provider fails to make corrections within the prescribed period, the competent authority may impose a fine of between NT$100,000 and NT$10,000,000 and may order the provider to make corrections within another prescribed period. Where the provider continues to fail to make corrections, the competent authority may impose consecutive fines and may suspend the provider's operations in part or in full. Where the failure to perform obligations results in a significant cybersecurity incident that causes substantial harm to the public or to national security, the competent authority may refer the matter to the prosecutor for investigation of criminal liability. The competent authority shall disclose publicly the names of providers that have been fined under this Act and the nature of the violation."
+      "title": "第 12 條",
+      "content": "公務機關應置資通安全長，由機關首長指派副首長或適當人員兼任，負責推動及監督機關內資通安全相關事務。"
     },
     {
       "provision_ref": "art13",
       "section": "13",
-      "title": "Article 13. Emergency Powers",
-      "content": "Where a cybersecurity incident or threat of national significance occurs or is imminent, the central competent authority may, with the approval of the Executive Yuan, exercise the following emergency powers: (1) Direct all government agencies and critical infrastructure providers to implement specified emergency cybersecurity measures; (2) Mobilize national cybersecurity resources and personnel to respond to the incident; (3) Restrict or suspend the operation of specific information systems or networks that pose a risk to national security; (4) Coordinate with the Ministry of National Defense on cyber defense measures; and (5) Request the cooperation of foreign governments and international organizations in responding to the incident. Emergency measures taken under this article shall be proportionate to the nature and severity of the threat, shall be limited to what is necessary to address the threat, and shall be terminated as soon as the threat has been contained. The central competent authority shall report to the Legislative Yuan on emergency measures taken under this article within thirty days."
+      "title": "第 13 條",
+      "content": "公務機關應符合其所屬資通安全責任等級之要求，並考量其所保有或處理之資訊種類、數量、性質、資通系統之規模與性質等條件，訂定、修正及實施資通安全維護計畫。"
     },
     {
       "provision_ref": "art14",
       "section": "14",
-      "title": "Article 14. International Cooperation",
-      "content": "The central competent authority shall, in coordination with the Ministry of Foreign Affairs, promote international cooperation on cybersecurity. Such cooperation may include: (1) Exchange of information on cybersecurity threats, vulnerabilities, and incidents with foreign governments and international organizations; (2) Joint cybersecurity exercises and training programs; (3) Technical assistance to other countries in developing cybersecurity capabilities; (4) Participation in international cybersecurity standards development; and (5) Mutual recognition of cybersecurity certifications and standards with partner countries. The central competent authority shall enter into agreements with foreign governments and international organizations on cybersecurity cooperation, subject to the approval of the Executive Yuan and notification to the Legislative Yuan. Information shared with foreign governments under international cooperation agreements shall be subject to appropriate confidentiality protections."
+      "title": "第 14 條",
+      "content": "公務機關應每年向上級機關或監督機關提出資通安全維護計畫實施情形；無上級機關或監督機關者，其資通安全維護計畫實施情形應依下列各款規定辦理：\n一、總統府、國家安全會議及五院，向主管機關提出。\n二、直轄市政府、直轄市議會、縣（市）政府及縣（市）議會，向主管機關提出。\n三、直轄市山地原住民區公所、直轄市山地原住民區民代表會，向直轄市政府提出；鄉（鎮、市）公所、鄉（鎮、市）民代表會，向縣政府提出。"
     },
     {
       "provision_ref": "art15",
       "section": "15",
-      "title": "Article 15. Enforcement Regulations",
-      "content": "The central competent authority shall prescribe regulations governing the implementation of this Act, including: (1) The standards for information security management systems applicable to government agencies of different sizes and levels of criticality; (2) The standards for information security management systems applicable to critical infrastructure providers of different sectors and levels of criticality; (3) The procedures and formats for incident reporting; (4) The criteria for classifying cybersecurity incidents by level; (5) The procedures for conducting cybersecurity inspections; (6) The qualification requirements for chief information security officers; (7) The certification requirements for cybersecurity personnel; and (8) The requirements for cybersecurity risk assessments. The central competent authority shall consult with the competent authorities of relevant sectors and with industry associations before issuing regulations under this article. Regulations issued under this article shall be published in the government gazette and shall take effect on the date of publication unless otherwise specified."
+      "title": "第 15 條",
+      "content": "公務機關應稽核其所屬、所監督之公務機關、所轄鄉（鎮、市）公所、直轄市山地原住民區公所及鄉（鎮、市）民代表會、直轄市山地原住民區民代表會之資通安全維護計畫實施情形。"
     },
     {
       "provision_ref": "art16",
       "section": "16",
-      "title": "Article 16. Transition Provisions",
-      "content": "Government agencies that were in operation prior to the entry into force of this Act shall bring their cybersecurity management systems into compliance with this Act within one year of its entry into force, or within such extended period as the central competent authority may grant for good cause shown. Critical infrastructure providers that are designated under this Act after its entry into force shall bring their cybersecurity management systems into compliance within six months of designation, or within such extended period as the competent authority of the relevant sector may grant for good cause shown. During the transition period, the central competent authority shall provide guidance and technical assistance to government agencies and critical infrastructure providers to support the implementation of information security management systems. Budget appropriations for cybersecurity under this Act shall be reflected in the annual budget proposals of the central competent authority."
+      "title": "第 16 條",
+      "content": "受稽核機關之資通安全維護計畫實施情形有缺失或待改善者，應向稽核機關提出改善報告，並由稽核機關連同稽核結果依指定之方式送交主管機關。\n稽核機關或主管機關認有必要時，得要求受稽核機關進行說明或調整。\n前三條及第一項資通安全維護計畫必要事項、實施情形之提出、稽核之頻率、內容與方法、結果之交付、改善報告之提出及其他相關事項之辦法，由主管機關定之。"
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "第 17 條",
+      "content": "公務機關為因應資通安全事件，應訂定通報及應變機制。\n公務機關知悉資通安全事件時，應向第十四條規定收受其實施情形之機關及主管機關通報。\n公務機關應向前項受通報機關提出資通安全事件調查、處理及改善報告。\n前三項通報與應變機制之必要事項、通報內容、報告之提出、演練作業及其他相關事項之辦法，由主管機關定之。\n第二項受通報機關知悉重大資通安全事件時，得提供公務機關相關協助；於適當時機並得公告與事件相關之必要內容及因應措施。"
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "第 18 條",
+      "content": "公務機關應符合其資通安全責任等級之要求，設置資通安全專職人員，辦理資通安全業務及應變處理；所屬人員辦理資通安全業務績效優良者，應予獎勵。\n主管機關應妥善規劃推動專職人員之職能訓練，增進其資通安全專業知能；遇有重大資通安全事件，主管機關得調度各級機關資通安全人員支援之。\n前二項人員獎勵、職能訓練、調度支援、績效評核及其他相關事項之辦法，由主管機關定之。"
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "第 19 條",
+      "content": "公務機關於必要時，得對所屬資通安全專職人員之適任性進行查核。\n主管機關得於資通安全人員任用考試榜示後，對錄取人員之適任性進行查核。\n拒絕查核或前二項查核結果經用人機關認定未通過者，不得辦理涉及國家機密、軍事機密及國防秘密之資通安全業務。\n前項人員職務得由用人機關基於內部管理及業務運作需要，依法進行調整。\n第一項及第二項查核紀錄，由用人機關依相關規定保密處理，並妥為保管，不得移作他用；違反者，視情節予以議處。\n有關查核權責機關、應受查核人員、查核程序、內容及其他相關事項之辦法，由主管機關會商有關機關定之。"
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "第 20 條",
+      "content": "中央目的事業主管機關應於徵詢相關公務機關、民間團體、專家學者之意見後，指定關鍵基礎設施提供者，送由主管機關報請行政院核定，並以書面通知受核定者。\n關鍵基礎設施提供者應符合其所屬資通安全責任等級之要求，設置資通安全專職人員，並考量其所保有或處理之資訊種類、數量、性質、資通系統之規模與性質等條件，訂定、修正及實施資通安全維護計畫。\n關鍵基礎設施提供者應向中央目的事業主管機關提出資通安全維護計畫實施情形。\n中央目的事業主管機關應綜合考量所管關鍵基礎設施提供者業務之重要性與機敏性、資通系統之規模、性質、資通安全事件發生之頻率、程度及其他與資通安全相關之因素，定期稽核其資通安全維護計畫之實施情形。\n關鍵基礎設施提供者之資通安全維護計畫實施情形有缺失或待改善者，應向中央目的事業主管機關提出改善報告。\n中央目的事業主管機關應依指定之方式將稽核結果及改善報告送交主管機關。"
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "第 21 條",
+      "content": "關鍵基礎設施提供者以外之特定非公務機關，應符合其所屬資通安全責任等級之要求，設置資通安全專職人員，並考量其所保有或處理之資訊種類、數量、性質、資通系統之規模與性質等條件，訂定、修正及實施資通安全維護計畫。\n中央目的事業主管機關得要求所管前項特定非公務機關，提出資通安全維護計畫實施情形。\n中央目的事業主管機關得稽核所管第一項特定非公務機關之資通安全維護計畫實施情形，發現有缺失或待改善者，應限期要求受稽核之特定非公務機關提出改善報告。\n中央目的事業主管機關應依指定之方式將稽核結果及改善報告送交主管機關。"
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "第 22 條",
+      "content": "前二條資通安全維護計畫之必要事項、實施情形之提出、稽核之頻率、內容與方法、結果之交付、改善報告之提出及其他應遵行事項之辦法，由中央目的事業主管機關擬訂，報由主管機關核定。"
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "第 23 條",
+      "content": "特定非公務機關應置資通安全長，由特定非公務機關之代表人、管理人、其他有代表權人或其指派之適當人員擔任，負責推動及監督機關內資通安全相關事務。"
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "第 24 條",
+      "content": "特定非公務機關為因應資通安全事件，應訂定通報及應變機制。\n特定非公務機關於知悉資通安全事件時，應向中央目的事業主管機關通報。\n特定非公務機關應向中央目的事業主管機關提出資通安全事件調查、處理及改善報告；如為重大資通安全事件者，並應送交主管機關。\n前三項通報與應變機制之必要事項、通報內容、報告之提出、送交、演練作業及其他應遵行事項之辦法，由主管機關定之。\n中央目的事業主管機關或主管機關知悉重大資通安全事件時，應提供必要之協助；於適當時機並得公告與事件相關之必要內容及因應措施。"
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "第 25 條",
+      "content": "中央目的事業主管機關為調查特定非公務機關發生之重大資通安全事件，得依下列程序辦理：\n一、通知當事人或關係人到場陳述意見。\n二、通知當事人及關係人提出獨立第三方機構出具之鑑識或調查報告。\n三、派員、委任或委託其他機關（構）前往當事人及關係人之處所實施必要之檢查。\n前項所定關係人，以該項特定非公務機關委託辦理資通系統之建置、維運或資通服務提供之受託者，且與重大資通安全事件相關者為限。\n當事人或關係人對於中央目的事業主管機關依第一項所為之調查，不得規避、妨礙或拒絕。\n執行調查之人員應出示有關執行職務之證明文件；其未出示者，受調查者得拒絕之。\n第一項第三款受委任或委託之機關（構）對於辦理受任或受託事務所獲悉特定非公務機關之秘密，不得洩漏。"
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "第 26 條",
+      "content": "特定非公務機關對於所屬人員辦理資通安全業務績效優良者，應予獎勵。"
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "第 27 條",
+      "content": "中央目的事業主管機關對特定非公務機關下載、安裝或使用危害國家資通安全產品，得予以限制或禁止；特定非公務機關自行或委外營運場所提供公眾視聽或使用之傳播設備及網際網路接取服務，於維護資通安全之必要時，亦同。但因業務需求且無其他替代方案者，經該特定非公務機關資通安全長核可，函報中央目的事業主管機關核定後，得以專案方式使用，並列冊管理。\n前項對特定非公務機關限制或禁止使用危害國家資通安全產品之管控措施，由中央目的事業主管機關訂定，報主管機關備查。"
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "第 28 條",
+      "content": "公務機關所屬人員未依本法規定辦理者，應按其情節輕重，依相關規定予以懲戒或懲處。\n前項懲處事項之辦法，由主管機關定之。\n特定非公務機關所屬人員未依本法規定辦理，情節重大者，由特定非公務機關依規定予以懲處。"
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "第 29 條",
+      "content": "特定非公務機關未依第二十四條第二項規定，通報資通安全事件，由中央目的事業主管機關處新臺幣三十萬元以上一千萬元以下罰鍰，並令限期改正；屆期未改正者，按次處罰之。"
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "第 30 條",
+      "content": "特定非公務機關有下列情形之一者，由中央目的事業主管機關令限期改正；屆期未改正者，按次處新臺幣十萬元以上五百萬元以下罰鍰：\n一、未依第二十條第二項或第二十一條第一項規定，訂定、修正或實施資通安全維護計畫，或違反第二十二條所定辦法中有關資通安全維護計畫必要事項之規定。\n二、未依第二十條第三項或第二十一條第二項規定，向中央目的事業主管機關提出資通安全維護計畫之實施情形，或違反第二十二條所定辦法中有關資通安全維護計畫實施情形提出之規定。\n三、未依第八條第二項、第二十條第五項或第二十一條第三項規定，提出改善報告送交中央目的事業主管機關，或違反第二十二條所定辦法中有關改善報告提出之規定。\n四、未依第二十四條第一項規定，訂定資通安全事件之通報及應變機制，或違反第二十四條第四項所定辦法中有關通報及應變機制必要事項之規定。\n五、未依第二十四條第三項規定，向中央目的事業主管機關提出或向主管機關送交資通安全事件之調查、處理及改善報告，或違反第二十四條第四項所定辦法中有關報告提出、送交之規定。\n六、違反第二十四條第四項所定辦法中有關通報內容、演練作業之規定。"
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "第 31 條",
+      "content": "違反第二十五條第三項規定，規避、妨礙或拒絕調查者，由中央目的事業主管機關處新臺幣十萬元以上一百萬元以下罰鍰。"
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "第 32 條",
+      "content": "主管機關得委託其他公務機關、法人或團體，辦理資通安全整體防護、演練、稽核、國際交流合作及其他資通安全相關事務。\n前項受委託之公務機關、法人或團體，不得洩露辦理相關事務過程中所知悉之秘密。\n特定非公務機關之業務涉及數個中央目的事業主管機關之權責，主管機關得協調指定其中一個或數個中央目的事業主管機關，單獨或共同辦理本法所定中央目的事業主管機關應辦理之事項。"
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "第 33 條",
+      "content": "本法所定資通安全事件，涉及個人資料外洩時，公務機關及特定非公務機關應另依個人資料保護法及其相關法令規定辦理。"
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "第 34 條",
+      "content": "本法施行細則，由主管機關定之。"
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "第 35 條",
+      "content": "本法施行日期，由行政院定之。"
     }
   ],
   "definitions": [
     {
-      "term": "cybersecurity",
-      "definition": "The state in which the confidentiality, integrity, and availability of information, information systems, communication systems, and related infrastructure are protected from threats or infringement, and the ability to recover rapidly from any such threats or infringement.",
-      "source_provision": "art2"
+      "term": "資通系統",
+      "definition": "指用以蒐集、控制、傳輸、儲存、流通、刪除資訊或對資訊為其他處理、使用或分享之系統。",
+      "source_provision": "art3"
     },
     {
-      "term": "cybersecurity incident",
-      "definition": "Any occurrence, whether intentional or accidental, that endangers the confidentiality, integrity, or availability of information, information systems, communication systems, or related infrastructure.",
-      "source_provision": "art2"
+      "term": "資通服務",
+      "definition": "指與資訊之蒐集、控制、傳輸、儲存、流通、刪除、其他處理、使用或分享相關之服務。",
+      "source_provision": "art3"
     },
     {
-      "term": "critical infrastructure provider",
-      "definition": "A natural person, legal entity, or organization in the private sector that provides services in the fields of energy, water, communications, transportation, banking and finance, emergency services, government services, high-technology parks, or any other field designated by the central competent authority.",
-      "source_provision": "art2"
+      "term": "資通安全",
+      "definition": "指防止資通系統或資訊遭受未經授權之存取、使用、控制、洩漏、破壞、竄改、銷毀，或其他情形影響其機密性、完整性或可用性。",
+      "source_provision": "art3"
     },
     {
-      "term": "information security management system",
-      "definition": "A systematic management framework for protecting the confidentiality, integrity, and availability of information assets.",
-      "source_provision": "art2"
+      "term": "資通安全事件",
+      "definition": "指系統、服務或網路狀態經鑑別而顯示可能有違反資通安全或保護措施失效之狀態發生，影響資通系統機能運作。",
+      "source_provision": "art3"
+    },
+    {
+      "term": "公務機關",
+      "definition": "指依法行使公權力之中央、地方機關（構）或公法人。但不包括軍事機關及情報機關。",
+      "source_provision": "art3"
+    },
+    {
+      "term": "特定非公務機關",
+      "definition": "指關鍵基礎設施提供者、公營事業、特定財團法人或受政府控制之事業、團體或機構。",
+      "source_provision": "art3"
+    },
+    {
+      "term": "關鍵基礎設施",
+      "definition": "指實體或虛擬資產、系統或網路，其功能一旦停止運作或效能降低，對國家安全、社會公共利益、國民生活或經濟活動有重大影響之虞，經行政院定期檢視並公告之領域。",
+      "source_provision": "art3"
+    },
+    {
+      "term": "關鍵基礎設施提供者",
+      "definition": "指維運或提供關鍵基礎設施之全部或一部，經中央目的事業主管機關指定，並報行政院核定者。",
+      "source_provision": "art3"
+    },
+    {
+      "term": "特定財團法人",
+      "definition": "指符合財團法人法第二條第二項、第三項或第六十三條第一項、第四項規定之財團法人，並屬該法第二條第八項所定全國性財團法人者。",
+      "source_provision": "art3"
+    },
+    {
+      "term": "受政府控制之事業、團體或機構",
+      "definition": "指銓敘部依公務人員退休資遣撫卹法第七十七條第一項第二款第三目及第四目公告之事業、團體或機構，具資通安全重要性，經中央目的事業主管機關指定，並經主管機關核定者；其受地方政府控制者，應經地方主管機關同意後，主管機關始得核定。",
+      "source_provision": "art3"
+    },
+    {
+      "term": "危害國家資通安全產品",
+      "definition": "指經主管機關認定，對國家資通安全具有直接或間接造成危害風險，影響政府運作或社會安定之資通系統、服務或產品。",
+      "source_provision": "art3"
     }
   ]
 }

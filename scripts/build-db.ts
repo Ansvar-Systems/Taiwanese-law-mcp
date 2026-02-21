@@ -3,7 +3,6 @@
  * Database builder for Taiwanese Law MCP server.
  *
  * Builds the SQLite database from seed JSON files in data/seed/.
- * Follows the Switzerland Law MCP reference pattern.
  *
  * Usage: npm run build:db
  */
@@ -449,8 +448,8 @@ function buildDatabase(): void {
     insertMeta.run('schema_version', '2');
     insertMeta.run('built_at', new Date().toISOString());
     insertMeta.run('builder', 'build-db.ts');
-    insertMeta.run('jurisdiction', 'EE');
-    insertMeta.run('source', 'official-source');
+    insertMeta.run('jurisdiction', 'TW');
+    insertMeta.run('source', 'law.moj.gov.tw/api/ch/law/json');
     insertMeta.run('licence', 'See sources.yml');
   });
   writeMeta();

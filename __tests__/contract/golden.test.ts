@@ -27,14 +27,14 @@ describe('Database integrity', () => {
     expect(row.cnt).toBe(10);
   });
 
-  it('should have at least 152 provisions', () => {
+  it('should have at least 800 provisions', () => {
     const row = db.prepare('SELECT COUNT(*) as cnt FROM legal_provisions').get() as { cnt: number };
-    expect(row.cnt).toBeGreaterThanOrEqual(152);
+    expect(row.cnt).toBeGreaterThanOrEqual(800);
   });
 
   it('should have FTS index', () => {
     const row = db.prepare(
-      "SELECT COUNT(*) as cnt FROM provisions_fts WHERE provisions_fts MATCH 'data'"
+      "SELECT COUNT(*) as cnt FROM provisions_fts WHERE provisions_fts MATCH '個人資料'"
     ).get() as { cnt: number };
     expect(row.cnt).toBeGreaterThanOrEqual(0);
   });
@@ -43,7 +43,7 @@ describe('Database integrity', () => {
 describe('Article retrieval', () => {
   it('should retrieve a provision by document_id and section', () => {
     const row = db.prepare(
-      "SELECT content FROM legal_provisions WHERE document_id = 'tw-cc-cybercrime' AND section = '358'"
+      "SELECT content FROM legal_provisions WHERE document_id = 'tw-criminal-code' AND section = '358'"
     ).get() as { content: string } | undefined;
     expect(row).toBeDefined();
     expect(row!.content.length).toBeGreaterThan(50);
@@ -53,7 +53,7 @@ describe('Article retrieval', () => {
 describe('Search', () => {
   it('should find results via FTS search', () => {
     const rows = db.prepare(
-      "SELECT COUNT(*) as cnt FROM provisions_fts WHERE provisions_fts MATCH 'data'"
+      "SELECT COUNT(*) as cnt FROM provisions_fts WHERE provisions_fts MATCH '個人資料'"
     ).get() as { cnt: number };
     expect(rows.cnt).toBeGreaterThan(0);
   });
@@ -69,7 +69,7 @@ describe('Negative tests', () => {
 
   it('should return no results for invalid section', () => {
     const row = db.prepare(
-      "SELECT COUNT(*) as cnt FROM legal_provisions WHERE document_id = 'tw-cc-cybercrime' AND section = '999ZZZ-INVALID'"
+      "SELECT COUNT(*) as cnt FROM legal_provisions WHERE document_id = 'tw-criminal-code' AND section = '999ZZZ-INVALID'"
     ).get() as { cnt: number };
     expect(row.cnt).toBe(0);
   });
@@ -77,16 +77,17 @@ describe('Negative tests', () => {
 
 describe('All 10 laws are present', () => {
   const expectedDocs = [
-    'tw-cc-cybercrime',
+    'tw-criminal-code',
     'tw-csma',
-    'tw-dcra',
+    'tw-cssa',
+    'tw-epia',
     'tw-esa',
+    'tw-fintech-sandbox',
     'tw-fgia',
-    'tw-ftda',
-    'tw-nics',
     'tw-pdpa',
     'tw-tma',
-    'tw-tsa',  ];
+    'tw-trade-secrets',
+  ];
 
   for (const docId of expectedDocs) {
     it(`should contain document: ${docId}`, () => {

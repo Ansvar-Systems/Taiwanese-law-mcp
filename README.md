@@ -23,7 +23,7 @@ npx @ansvar/taiwanese-law-mcp
 
 ## Data Sources
 
-AI-generated seed data covering 10 key cybersecurity and data protection laws. Full official ingestion pending.
+Official Taiwan Laws & Regulations Database OpenAPI (`https://law.moj.gov.tw/api/ch/law/json`), ingested into 10 real statute seed files.
 
 ## License
 
