@@ -1,0 +1,132 @@
+{
+  "id": "tw-csma",
+  "type": "statute",
+  "title": "資通安全管理法",
+  "title_en": "Cyber Security Management Act",
+  "short_name": "CSMA",
+  "status": "in_force",
+  "issued_date": "2018-06-06",
+  "in_force_date": "2019-01-01",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=A0030297",
+  "description": "The Cyber Security Management Act establishes a national cybersecurity governance framework for Taiwan, requiring government agencies and critical infrastructure providers to implement information security management systems and incident response capabilities. The Act mandates cybersecurity risk assessments, security inspections, and incident reporting to the Executive Yuan. It designates specific government agencies as competent authorities for different sectors of critical infrastructure.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1. Legislative Purpose",
+      "content": "This Act is enacted for the purpose of strengthening the nation's cybersecurity, safeguarding national sovereignty and security, protecting the rights and interests of the people and legal entities, and ensuring the continuity of essential services. The Act establishes a comprehensive national cybersecurity governance framework applicable to government agencies at all levels and to providers of critical infrastructure. The Executive Yuan shall designate a central competent authority responsible for coordinating national cybersecurity policy, overseeing implementation of this Act, and reporting to the Legislative Yuan on the state of national cybersecurity on an annual basis. Nothing in this Act shall be construed to limit the authority of any government agency to take emergency measures to protect national security in the event of an imminent cybersecurity threat."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2. Definitions",
+      "content": "The terms used in this Act are defined as follows: (1) 'Cybersecurity' means the state in which the confidentiality, integrity, and availability of information, information systems, communication systems, and related infrastructure are protected from threats or infringement, and the ability to recover rapidly from any such threats or infringement. (2) 'Cybersecurity incident' means any occurrence, whether intentional or accidental, that endangers the confidentiality, integrity, or availability of information, information systems, communication systems, or related infrastructure. (3) 'Government agency' means central and local government agencies and their subordinate organs, as well as state-owned enterprises. (4) 'Critical infrastructure provider' means a natural person, legal entity, or organization in the private sector that provides services in the fields of energy, water, communications, transportation, banking and finance, emergency services, government services, high-technology parks, or any other field designated by the central competent authority. (5) 'Information security management system' means a systematic management framework for protecting the confidentiality, integrity, and availability of information assets."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3. Government Agency Obligations",
+      "content": "Each government agency shall: (1) Formulate and implement an information security management policy and plan; (2) Establish an information security management system in accordance with the standards prescribed by the central competent authority; (3) Conduct cybersecurity risk assessments at least annually; (4) Implement appropriate technical and organizational cybersecurity measures commensurate with the assessed level of risk; (5) Designate a chief information security officer responsible for overseeing the implementation of the agency's information security management system; (6) Establish an incident response team or mechanism capable of detecting, responding to, and recovering from cybersecurity incidents; (7) Report cybersecurity incidents to the central competent authority in accordance with this Act; and (8) Participate in cybersecurity exercises and drills organized by the central competent authority. Government agencies shall classify their information assets and information systems by level of criticality and shall apply security measures proportionate to the classification."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4. Critical Infrastructure Providers",
+      "content": "Critical infrastructure providers designated under this Act shall, within six months of designation, establish and implement an information security management system meeting the standards prescribed by the central competent authority. Critical infrastructure providers shall: (1) Conduct cybersecurity risk assessments at regular intervals not exceeding two years; (2) Implement cybersecurity measures commensurate with the assessed level of risk; (3) Conduct cybersecurity inspections of their systems and infrastructure at regular intervals not exceeding two years; (4) Retain records of cybersecurity measures, assessments, and inspections for a minimum of three years; (5) Report cybersecurity incidents to the competent authority of the relevant sector within the prescribed time limits; and (6) Cooperate with inspections and audits conducted by the competent authority. The central competent authority shall issue regulations specifying the standards for information security management systems applicable to critical infrastructure providers, differentiating by sector and by level of criticality."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5. Incident Reporting",
+      "content": "Government agencies and critical infrastructure providers shall report cybersecurity incidents to the competent authority in accordance with the following requirements: (1) Level 1 incidents (minor): Report within 36 hours of discovery by standard reporting channels; (2) Level 2 incidents (moderate): Report within 8 hours of discovery; (3) Level 3 incidents (major): Report within 1 hour of discovery, with immediate telephone notification to the competent authority; (4) Level 4 incidents (severe): Immediate telephone notification upon discovery, followed by written report within 1 hour. Incident reports shall include: (a) A description of the incident and its apparent cause; (b) The scope of affected systems and services; (c) The estimated impact on operations and service continuity; (d) Measures already taken in response; and (e) Measures planned for recovery and for preventing recurrence. The central competent authority shall issue regulations specifying the criteria for classifying incidents by level, the format of incident reports, and the escalation procedures for major incidents."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6. Cybersecurity Inspections",
+      "content": "The central competent authority may conduct cybersecurity inspections of government agencies at any time, and shall conduct regular inspections at least once every three years. The competent authority of each sector may conduct cybersecurity inspections of critical infrastructure providers in its sector at any time, and shall conduct regular inspections at least once every three years. During an inspection, the competent authority may: (1) Request production of documents, records, and data relating to cybersecurity management; (2) Interview personnel responsible for cybersecurity management; (3) Conduct technical assessments of information systems and infrastructure, including penetration testing with the consent of the agency or provider; (4) Review incident records and response procedures; and (5) Assess the effectiveness of the agency's or provider's information security management system. Inspected agencies and providers shall cooperate with inspections and shall not obstruct, refuse, or impede inspectors. The competent authority shall issue an inspection report and may issue corrective action requirements where deficiencies are found."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7. Supply Chain Security",
+      "content": "Government agencies and critical infrastructure providers shall incorporate cybersecurity requirements in procurement contracts for information and communication technology products and services. Such requirements shall include: (1) Suppliers shall implement information security management systems meeting the standards prescribed by the central competent authority; (2) Suppliers shall notify the procuring agency of known cybersecurity vulnerabilities in products or services delivered; (3) Suppliers shall cooperate with security assessments and audits of products and services; (4) Contracts shall specify security standards applicable to subcontractors and third-party service providers; and (5) Suppliers shall not include components or services from entities that have been prohibited or restricted by the competent authority on grounds of national security. The central competent authority may, on grounds of national security, designate specific products, services, or vendors from which government agencies are prohibited from procuring, and shall publish such designations in the government gazette."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8. National Cybersecurity Policy",
+      "content": "The Executive Yuan shall formulate a National Cybersecurity Plan at least once every four years, setting out: (1) The national cybersecurity strategy, goals, and priorities; (2) The allocation of responsibilities among government agencies for implementing the national cybersecurity strategy; (3) The framework for information sharing between government agencies and with the private sector regarding cybersecurity threats and incidents; (4) The plan for developing national cybersecurity capabilities, including the cybersecurity workforce; (5) The framework for international cooperation on cybersecurity; and (6) The allocation of budgetary resources for implementing the national cybersecurity strategy. The National Cybersecurity Plan shall be reviewed and updated at least annually to reflect changes in the threat environment and technology landscape. The central competent authority shall publish a summary of the National Cybersecurity Plan and submit a detailed version to the Legislative Yuan."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9. Information Sharing",
+      "content": "The central competent authority shall establish mechanisms for sharing information about cybersecurity threats, vulnerabilities, and incidents among government agencies and with critical infrastructure providers. The central competent authority shall designate a Computer Security Incident Response Team (CSIRT) responsible for: (1) Coordinating responses to national-level cybersecurity incidents; (2) Collecting, analyzing, and disseminating information about cybersecurity threats and vulnerabilities; (3) Providing technical assistance to government agencies and critical infrastructure providers in responding to incidents; (4) Coordinating with international cybersecurity organizations and foreign government agencies on cybersecurity matters; and (5) Conducting cybersecurity exercises and drills. Information shared under this article shall be protected from unauthorized disclosure and shall be used only for the purposes of cybersecurity. The central competent authority shall issue regulations governing information sharing, including the classification of shared information and the obligations of recipients."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10. Cybersecurity Personnel",
+      "content": "Government agencies shall ensure that they have sufficient qualified cybersecurity personnel to carry out their obligations under this Act. The central competent authority shall: (1) Establish qualification standards and certification programs for cybersecurity personnel in government agencies; (2) Work with educational institutions to develop cybersecurity education and training programs; (3) Conduct or commission training programs for cybersecurity personnel in government agencies; and (4) Promote the development of the cybersecurity industry and workforce in the private sector. Government agencies above a specified size shall designate a Chief Information Security Officer (CISO) who is responsible for overseeing the implementation of the agency's information security management system and reporting to senior management. The CISO shall have appropriate qualifications and experience in cybersecurity management and shall be independent of the information technology function."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11. Penalties for Government Agencies",
+      "content": "Where a government agency fails to perform its obligations under this Act, the central competent authority or the competent authority of the relevant sector may: (1) Issue a warning and require corrective action within a prescribed period; (2) Publicly disclose the violation and the agency's failure to comply; (3) Require the head of the agency or responsible officials to undergo cybersecurity training; (4) Where the failure to comply results in a significant cybersecurity incident, refer the matter to the Control Yuan for investigation; and (5) Include the agency's cybersecurity compliance record in the assessment of the performance of the head of the agency. Heads of government agencies who fail to take adequate measures to fulfill the obligations of their agencies under this Act may be held personally accountable under applicable government personnel laws."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12. Penalties for Critical Infrastructure Providers",
+      "content": "Where a critical infrastructure provider fails to perform its obligations under this Act, the competent authority of the relevant sector may order the provider to make corrections within a prescribed period. Where the provider fails to make corrections within the prescribed period, the competent authority may impose a fine of between NT$100,000 and NT$10,000,000 and may order the provider to make corrections within another prescribed period. Where the provider continues to fail to make corrections, the competent authority may impose consecutive fines and may suspend the provider's operations in part or in full. Where the failure to perform obligations results in a significant cybersecurity incident that causes substantial harm to the public or to national security, the competent authority may refer the matter to the prosecutor for investigation of criminal liability. The competent authority shall disclose publicly the names of providers that have been fined under this Act and the nature of the violation."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13. Emergency Powers",
+      "content": "Where a cybersecurity incident or threat of national significance occurs or is imminent, the central competent authority may, with the approval of the Executive Yuan, exercise the following emergency powers: (1) Direct all government agencies and critical infrastructure providers to implement specified emergency cybersecurity measures; (2) Mobilize national cybersecurity resources and personnel to respond to the incident; (3) Restrict or suspend the operation of specific information systems or networks that pose a risk to national security; (4) Coordinate with the Ministry of National Defense on cyber defense measures; and (5) Request the cooperation of foreign governments and international organizations in responding to the incident. Emergency measures taken under this article shall be proportionate to the nature and severity of the threat, shall be limited to what is necessary to address the threat, and shall be terminated as soon as the threat has been contained. The central competent authority shall report to the Legislative Yuan on emergency measures taken under this article within thirty days."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14. International Cooperation",
+      "content": "The central competent authority shall, in coordination with the Ministry of Foreign Affairs, promote international cooperation on cybersecurity. Such cooperation may include: (1) Exchange of information on cybersecurity threats, vulnerabilities, and incidents with foreign governments and international organizations; (2) Joint cybersecurity exercises and training programs; (3) Technical assistance to other countries in developing cybersecurity capabilities; (4) Participation in international cybersecurity standards development; and (5) Mutual recognition of cybersecurity certifications and standards with partner countries. The central competent authority shall enter into agreements with foreign governments and international organizations on cybersecurity cooperation, subject to the approval of the Executive Yuan and notification to the Legislative Yuan. Information shared with foreign governments under international cooperation agreements shall be subject to appropriate confidentiality protections."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article 15. Enforcement Regulations",
+      "content": "The central competent authority shall prescribe regulations governing the implementation of this Act, including: (1) The standards for information security management systems applicable to government agencies of different sizes and levels of criticality; (2) The standards for information security management systems applicable to critical infrastructure providers of different sectors and levels of criticality; (3) The procedures and formats for incident reporting; (4) The criteria for classifying cybersecurity incidents by level; (5) The procedures for conducting cybersecurity inspections; (6) The qualification requirements for chief information security officers; (7) The certification requirements for cybersecurity personnel; and (8) The requirements for cybersecurity risk assessments. The central competent authority shall consult with the competent authorities of relevant sectors and with industry associations before issuing regulations under this article. Regulations issued under this article shall be published in the government gazette and shall take effect on the date of publication unless otherwise specified."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Article 16. Transition Provisions",
+      "content": "Government agencies that were in operation prior to the entry into force of this Act shall bring their cybersecurity management systems into compliance with this Act within one year of its entry into force, or within such extended period as the central competent authority may grant for good cause shown. Critical infrastructure providers that are designated under this Act after its entry into force shall bring their cybersecurity management systems into compliance within six months of designation, or within such extended period as the competent authority of the relevant sector may grant for good cause shown. During the transition period, the central competent authority shall provide guidance and technical assistance to government agencies and critical infrastructure providers to support the implementation of information security management systems. Budget appropriations for cybersecurity under this Act shall be reflected in the annual budget proposals of the central competent authority."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "cybersecurity",
+      "definition": "The state in which the confidentiality, integrity, and availability of information, information systems, communication systems, and related infrastructure are protected from threats or infringement, and the ability to recover rapidly from any such threats or infringement.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "cybersecurity incident",
+      "definition": "Any occurrence, whether intentional or accidental, that endangers the confidentiality, integrity, or availability of information, information systems, communication systems, or related infrastructure.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "critical infrastructure provider",
+      "definition": "A natural person, legal entity, or organization in the private sector that provides services in the fields of energy, water, communications, transportation, banking and finance, emergency services, government services, high-technology parks, or any other field designated by the central competent authority.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "information security management system",
+      "definition": "A systematic management framework for protecting the confidentiality, integrity, and availability of information assets.",
+      "source_provision": "art2"
+    }
+  ]
+}

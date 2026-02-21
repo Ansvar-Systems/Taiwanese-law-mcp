@@ -1,0 +1,116 @@
+{
+  "id": "tw-nics",
+  "type": "statute",
+  "title": "國家關鍵資訊基礎設施安全防護法規",
+  "title_en": "National Critical Information and Communications System Security Protection Regulations",
+  "short_name": "NICS",
+  "status": "in_force",
+  "issued_date": "2022-07-01",
+  "in_force_date": "2022-07-01",
+  "url": "https://www.nsc.gov.tw/tw/article/ArtclShow.aspx?ID=3157&InPage=0",
+  "description": "The National Critical Information and Communications System (NICS) Security Protection Regulations establish the framework for identifying, protecting, and restoring critical information and communications infrastructure in Taiwan. The regulations implement the critical infrastructure protection obligations of the Cyber Security Management Act and prescribe detailed requirements for the eight sectors of critical infrastructure designated by the government. Operators of critical infrastructure systems are required to assess risks, implement security controls, and cooperate with government cybersecurity agencies in maintaining national cybersecurity resilience.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1. Purpose and Scope",
+      "content": "These Regulations are enacted pursuant to the Cyber Security Management Act for the purpose of establishing detailed requirements for the identification, protection, and recovery of national critical information and communications systems (NICS). For the purposes of these Regulations, 'critical information and communications system' means any information system or communications network that, if disrupted, degraded, or destroyed, would have a significant impact on national security, economic security, public health or safety, or the continuity of essential government services. These Regulations apply to operators of critical information and communications systems in the following eight designated sectors: (1) Energy; (2) Water; (3) Communications and information; (4) Transportation; (5) Banking and finance; (6) Emergency services; (7) Government; and (8) High-technology industrial parks."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2. Designation of Critical Systems",
+      "content": "The competent authority of each designated sector shall, in consultation with the National Security Council and the central competent authority (the Executive Yuan), identify and designate the information systems and communications networks in its sector that constitute critical information and communications systems for the purposes of these Regulations. Designation criteria shall include: (1) The potential impact of disruption on national security, public safety, or essential services; (2) The interdependencies between the system and other critical infrastructure; (3) The degree to which the system is unique or irreplaceable; and (4) The potential cascading effects of disruption on other sectors. The competent authority of each sector shall publish the list of designated critical systems (at an appropriate level of classification) and shall review the list at intervals not exceeding two years."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3. Risk Assessment Requirements",
+      "content": "Operators of designated critical information and communications systems shall conduct comprehensive risk assessments of their systems at intervals not exceeding two years. Risk assessments shall: (1) Identify all assets that form part of the critical system, including hardware, software, data, facilities, and personnel; (2) Identify and evaluate threats to the system, including cyber threats, insider threats, physical threats, and natural disasters; (3) Assess the vulnerability of the system to identified threats; (4) Evaluate the potential consequences of successful attacks or disruptions; (5) Assess the existing security controls and their effectiveness in mitigating identified risks; and (6) Identify residual risks and propose risk treatment measures. Risk assessment methodologies shall conform to international standards such as ISO 27005 or NIST SP 800-30. Risk assessment reports shall be submitted to the sector competent authority within 30 days of completion."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4. Security Control Requirements",
+      "content": "Operators of designated critical information and communications systems shall implement security controls in the following categories: (1) Identify — establish an organizational understanding of the cybersecurity risks to systems, assets, data, and capabilities; (2) Protect — implement appropriate safeguards to ensure delivery of critical infrastructure services, including access control, awareness training, data security, information protection processes, maintenance, and protective technology; (3) Detect — implement appropriate activities to identify the occurrence of a cybersecurity event, including anomalies and events detection, continuous security monitoring, and detection processes; (4) Respond — implement appropriate activities to take action regarding a detected cybersecurity incident, including response planning, communications, analysis, mitigation, and improvements; and (5) Recover — implement appropriate activities to maintain plans for resilience and to restore any capabilities or services that were impaired due to a cybersecurity incident. Security controls shall be commensurate with the level of criticality assigned to the system."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5. Security Levels",
+      "content": "The competent authority of each sector shall assign a security level to each designated critical information and communications system, based on the potential impact of disruption. Security levels shall be: (1) Level A (Critical National Infrastructure): Systems whose disruption would have severe, widespread, and immediate consequences for national security or for the lives and safety of a large number of people. Level A systems require the most stringent security controls and the closest government oversight. (2) Level B (Significant Infrastructure): Systems whose disruption would have significant consequences for economic security, public health, or the delivery of essential services. Level B systems require enhanced security controls. (3) Level C (Important Infrastructure): Systems whose disruption would have moderate consequences for specific sectors or geographic areas. Level C systems require baseline security controls. The assignment of security levels shall be reviewed whenever there is a material change in the nature or function of the system."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6. Incident Response Requirements",
+      "content": "Operators of designated critical information and communications systems shall establish and maintain incident response capabilities, including: (1) An incident response plan that defines the procedures for detecting, analyzing, containing, eradicating, and recovering from cybersecurity incidents; (2) A designated incident response team with clearly assigned roles and responsibilities; (3) Communication procedures for notifying sector competent authorities, the national Computer Security Incident Response Team (CSIRT), and other relevant parties; (4) Procedures for preserving evidence relevant to forensic investigation; and (5) Procedures for communicating with the public and affected parties during and after significant incidents. Operators shall exercise their incident response plans at least annually. Significant cybersecurity incidents shall be reported to the sector competent authority in accordance with the incident reporting requirements of the Cyber Security Management Act."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7. Business Continuity and Disaster Recovery",
+      "content": "Operators of Level A and Level B critical information and communications systems shall develop and maintain business continuity plans and disaster recovery plans that: (1) Define recovery time objectives (RTOs) and recovery point objectives (RPOs) for each critical system; (2) Identify backup and failover systems and procedures; (3) Define procedures for restoring critical services following a significant disruption; (4) Specify communication procedures for maintaining coordination during a disruption; and (5) Include procedures for post-incident analysis and improvement. Business continuity and disaster recovery plans shall be tested at least annually through tabletop exercises or full-scale exercises, and the results shall be documented and used to improve the plans. Level A operators shall conduct at least one full-scale exercise per year in coordination with the sector competent authority."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8. Supply Chain Security",
+      "content": "Operators of designated critical information and communications systems shall assess and manage cybersecurity risks arising from their supply chains, including hardware and software vendors, service providers, and contractors. Supply chain security measures shall include: (1) Due diligence on the cybersecurity practices of suppliers and service providers; (2) Contractual requirements for suppliers to maintain appropriate security standards and to notify operators of security vulnerabilities in their products or services; (3) Procedures for evaluating the security of hardware and software before deployment in critical systems; (4) Restrictions on the use of hardware and software from vendors designated by the competent authority as posing unacceptable national security risks; and (5) Procedures for managing and patching vulnerabilities in third-party components. The competent authority shall issue sector-specific guidance on supply chain security requirements."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9. Information Sharing",
+      "content": "Operators of designated critical information and communications systems are encouraged to share information about cybersecurity threats, vulnerabilities, and incidents with the national CSIRT, with sector competent authorities, and with other operators in their sector. The national CSIRT shall establish a secure and confidential mechanism for operators to share cybersecurity information, and shall provide operators with threat intelligence derived from shared information. Information shared by operators under this article shall be: (1) Protected from unauthorized disclosure; (2) Used only for the purpose of improving cybersecurity; (3) Subject to appropriate anonymization where necessary to protect commercially sensitive information; and (4) Not used as the basis for regulatory or legal action against the sharing operator, except where the information reveals a serious violation of law. The competent authority shall issue guidelines on the legal protections available to operators that share cybersecurity information in good faith."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10. Security Inspections",
+      "content": "The competent authority of each sector shall conduct cybersecurity inspections of operators of designated critical information and communications systems in its sector at intervals not exceeding three years, and may conduct additional inspections at any time where there are grounds to believe that an operator is not complying with these Regulations. Inspections may include: (1) Document reviews of security policies, plans, and procedures; (2) Interviews with personnel responsible for cybersecurity management; (3) Technical assessments of security controls; (4) Reviews of incident records and response procedures; and (5) On-site visits to critical facilities. Inspected operators shall cooperate fully with inspections. The competent authority shall issue an inspection report and shall require operators to address any deficiencies identified within a specified timeframe. Inspection findings shall be reported to the National Security Council."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11. Reporting Obligations",
+      "content": "Operators of designated critical information and communications systems shall submit the following reports to their sector competent authority: (1) Annual security report, summarizing the operator's cybersecurity posture, risk assessment findings, security incidents, and planned security improvements; (2) Risk assessment report, within 30 days of completing a risk assessment; (3) Incident reports, in accordance with the timeframes specified in the Cyber Security Management Act and these Regulations; (4) Post-incident analysis reports, within 30 days of the resolution of a significant cybersecurity incident; and (5) Any other reports required by the sector competent authority. Reports shall be submitted in the format prescribed by the competent authority and shall be classified at the appropriate security level. The sector competent authority shall compile sector-level reports and submit them to the National Security Council."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12. Penalties and Enforcement",
+      "content": "Operators of designated critical information and communications systems that fail to comply with these Regulations shall be subject to enforcement action under the Cyber Security Management Act. The sector competent authority may: (1) Issue a corrective action order requiring the operator to remediate identified deficiencies within a specified timeframe; (2) Impose administrative fines in accordance with the Cyber Security Management Act; (3) Require the operator to engage an independent auditor to assess its security posture; (4) Publicly disclose significant violations of these Regulations; and (5) In cases of severe or repeated violations, recommend to the relevant licensing authority that the operator's license or approval to operate be suspended or revoked. Operators shall have the right to appeal enforcement decisions through administrative appeals and administrative litigation procedures."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13. Security Certification",
+      "content": "The competent authority shall establish a certification program enabling operators of designated critical information and communications systems to obtain certification of compliance with these Regulations and with applicable security standards. Certification may be based on: (1) Compliance with the Taiwan Information Security Management System (TISMS) standard; (2) Certification under ISO/IEC 27001 or equivalent international standards; or (3) Compliance with sector-specific security standards prescribed by the sector competent authority. Certified operators may be subject to reduced inspection frequency, provided that they maintain their certification and promptly notify the competent authority of any significant changes to their systems or security posture. The competent authority shall publish a list of certified operators, together with the scope and date of certification."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14. Cross-Sector Coordination",
+      "content": "The Executive Yuan shall establish a cross-sector coordination mechanism for managing cybersecurity risks to critical information and communications systems, including: (1) A cross-sector information sharing forum chaired by the central competent authority; (2) Procedures for coordinating responses to cross-sector cybersecurity incidents; (3) Joint exercises involving operators from multiple sectors; and (4) A mechanism for the national CSIRT to provide technical assistance to operators across sectors. The National Security Council shall oversee cross-sector coordination on matters relating to critical infrastructure protection. The competent authority shall, in coordination with sector competent authorities, develop and maintain a National Critical Information Infrastructure Protection Plan that sets out the overall strategy for protecting Taiwan's critical information and communications systems."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article 15. International Collaboration",
+      "content": "The competent authority shall, in coordination with relevant agencies, promote international collaboration on critical information infrastructure protection, including: (1) Exchange of threat intelligence and best practices with competent authorities in partner countries; (2) Participation in international exercises and drills; (3) Alignment of Taiwan's critical infrastructure protection framework with internationally recognized standards and frameworks, including the NIST Cybersecurity Framework and the EU Network and Information Security Directive; (4) Technical assistance to developing countries in building critical infrastructure protection capabilities; and (5) Engagement with international organizations and standard-setting bodies. The competent authority shall publish an annual report on international collaboration activities and on the alignment of Taiwan's framework with international standards."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "critical information and communications system",
+      "definition": "Any information system or communications network that, if disrupted, degraded, or destroyed, would have a significant impact on national security, economic security, public health or safety, or the continuity of essential government services.",
+      "source_provision": "art1"
+    },
+    {
+      "term": "security level",
+      "definition": "A classification assigned to a designated critical information and communications system based on the potential impact of its disruption, ranging from Level A (Critical National Infrastructure) through Level B (Significant Infrastructure) to Level C (Important Infrastructure).",
+      "source_provision": "art5"
+    }
+  ]
+}

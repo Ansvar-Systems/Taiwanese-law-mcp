@@ -1,0 +1,126 @@
+{
+  "id": "tw-tma",
+  "type": "statute",
+  "title": "電信管理法",
+  "title_en": "Telecommunications Management Act",
+  "short_name": "TMA",
+  "status": "in_force",
+  "issued_date": "2019-06-26",
+  "in_force_date": "2020-07-01",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=K0060111",
+  "description": "The Telecommunications Management Act is the primary legislation governing telecommunications services in Taiwan, establishing the licensing regime, spectrum management framework, and consumer protection requirements for the telecommunications industry. Enacted in 2019 to replace the outdated Telecommunications Act, the law introduces a technology-neutral regulatory approach that accommodates convergence between telecommunications, broadcasting, and internet services. The Act also addresses national security concerns related to telecommunications infrastructure and foreign participation.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1. Legislative Purpose",
+      "content": "This Act is enacted for the purpose of establishing a sound telecommunications management system, promoting the healthy development of the telecommunications industry, protecting the rights and interests of consumers and users, facilitating the development of the digital economy, and safeguarding national security. The Act shall apply to any person or entity that provides telecommunications services or operates telecommunications infrastructure within the territory of the Republic of China (Taiwan), and to any person or entity outside the territory whose telecommunications activities have effects within the territory. The competent authority shall administer this Act with a view to promoting competition in the telecommunications market, encouraging investment in telecommunications infrastructure, and facilitating universal access to telecommunications services. The competent authority shall issue guidelines setting out the framework for regulatory decision-making under this Act."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2. Definitions",
+      "content": "The terms used in this Act are defined as follows: (1) 'Telecommunications' means the transmission, conveyance, or reception of text, sounds, pictures, or any other information through the use of wire, radio, optical, or other electromagnetic systems. (2) 'Telecommunications network' means the transmission, conveyance, or reception facilities, equipment, and systems used for providing telecommunications services. (3) 'Telecommunications services' means services provided to the public through telecommunications networks, including voice, data, and messaging services. (4) 'Spectrum' means the range of electromagnetic frequencies allocated for use in telecommunications, broadcasting, and other radio services. (5) 'Significant market power' means the ability of a telecommunications service provider to significantly influence the conditions of competition in a relevant market. (6) 'Interconnection' means the physical or logical connection of telecommunications networks of different operators, enabling users on one network to communicate with users on another network."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3. Licensing Requirements",
+      "content": "No person or entity shall operate a telecommunications network or provide telecommunications services to the public without first obtaining a license from the competent authority, except where exempted by regulations issued under this Act. The competent authority shall issue licenses upon application where the applicant meets the qualifications and conditions prescribed by regulations, including: (1) Financial capability sufficient to operate and maintain the licensed network or service; (2) Technical capability to operate the network or service in accordance with applicable standards; (3) A business plan demonstrating the viability and public benefit of the proposed network or service; (4) Evidence of compliance with applicable national security requirements; and (5) Commitment to comply with the terms of the license and the requirements of this Act. Licenses shall specify the type and scope of telecommunications services or network operations authorized, the geographic area of authorization, the term of the license, and any conditions attached to the license."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4. Spectrum Management",
+      "content": "The competent authority shall manage the use of the electromagnetic spectrum in the public interest, taking into account the need to: (1) Promote the efficient and effective use of spectrum; (2) Promote competition and innovation in the telecommunications market; (3) Ensure that spectrum is made available for public safety and national defense purposes; (4) Enable the introduction of new technologies and services; and (5) Fulfill Taiwan's international obligations regarding spectrum coordination. Spectrum shall be assigned through competitive bidding or other market-based mechanisms where demand exceeds available supply, or through administrative assignment where competitive bidding is not appropriate. Spectrum licenses shall be granted for defined terms, subject to renewal, and shall be transferable with the approval of the competent authority. The competent authority shall publish a national frequency allocation plan setting out the allocation of spectrum among different uses and services."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5. Significant Market Power",
+      "content": "The competent authority shall assess whether any telecommunications service provider has significant market power (SMP) in any relevant telecommunications market. Where the competent authority finds that a provider has SMP, it may impose on that provider obligations proportionate to the nature of the competition problem identified, including: (1) An obligation of transparency, requiring publication of prices, terms and conditions, and technical specifications; (2) Non-discrimination obligations, requiring the SMP provider to offer equivalent terms to all similarly situated operators; (3) Accounting separation obligations; (4) Access obligations, requiring the SMP provider to provide access to specific network elements, services, or facilities on reasonable terms and conditions; and (5) Price control obligations, where the competent authority determines that the market is not functioning effectively. The competent authority shall review SMP designations and associated obligations at regular intervals not exceeding three years."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6. Interconnection",
+      "content": "Telecommunications service providers operating public networks shall have an obligation to negotiate and conclude interconnection agreements with other telecommunications service providers that request interconnection. Where parties are unable to reach an interconnection agreement through negotiation within 90 days of a request, either party may request the competent authority to mediate or arbitrate the dispute. The competent authority may issue reference interconnection offers specifying the standard terms and conditions on which operators with significant market power must offer interconnection. Interconnection agreements shall be submitted to the competent authority for review. The competent authority may reject or require modification of interconnection agreements that do not comply with this Act or with applicable regulations. Telecommunications service providers shall ensure that their networks are technically capable of interconnecting with other networks using appropriate interfaces and protocols."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7. Consumer Protection",
+      "content": "Telecommunications service providers shall: (1) Publish clear and accurate information about the prices, terms, and conditions of their services in an accessible manner; (2) Provide service contracts in plain language and inform consumers of material terms before the contract is concluded; (3) Not impose unfair or unreasonable contract terms; (4) Provide minimum service quality levels as prescribed by the competent authority; (5) Establish accessible and effective procedures for handling consumer complaints; (6) Not engage in misleading or deceptive practices in the marketing of their services; and (7) Provide consumers with the ability to terminate contracts without penalty where the provider materially alters the terms of service. The competent authority shall prescribe minimum service quality standards for different types of telecommunications services. Telecommunications service providers shall report regularly to the competent authority on their compliance with service quality standards."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8. Universal Service",
+      "content": "The competent authority shall designate universal service obligations requiring certain telecommunications service providers to make specified telecommunications services available throughout the territory of Taiwan at affordable prices and with adequate quality. Universal service obligations may include: (1) Access to basic voice telephone service; (2) Access to broadband internet service at specified minimum speeds; (3) Access to public payphone services; (4) Access to telecommunications services for persons with disabilities; and (5) Access to emergency services. The competent authority shall establish a universal service fund to compensate designated service providers for the net costs of providing universal services, funded through contributions from telecommunications service providers above a specified size. The universal service fund shall be administered transparently and independently, and the competent authority shall publish an annual report on universal service obligations and their costs."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9. Network Security and Resilience",
+      "content": "Telecommunications service providers shall implement appropriate technical and organizational measures to ensure the security and resilience of their networks and services. Such measures shall include: (1) Measures to protect the integrity and confidentiality of communications; (2) Measures to ensure the continuity and availability of services in the event of failures or attacks; (3) Measures to prevent unauthorized access to the network or to users' communications; (4) Regular security assessments and penetration testing of network infrastructure; and (5) Incident response procedures for telecommunications security incidents. Telecommunications service providers shall notify the competent authority of significant security incidents affecting their networks or services within 24 hours of discovery. The competent authority shall have the authority to inspect the security measures of telecommunications service providers and to require improvements where necessary. Telecommunications service providers that are designated as critical infrastructure providers under the Cyber Security Management Act shall also comply with the requirements of that Act."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10. Lawful Interception",
+      "content": "Telecommunications service providers shall, upon receipt of a lawful interception order issued by a court or other authority with lawful authority to issue such orders, provide assistance to the authorized authority to intercept specified communications. Telecommunications service providers shall maintain the technical capability to implement lawful interception orders within a reasonable time. The obligation to provide lawful interception assistance shall be subject to the following conditions: (1) The interception order must be issued by a court or other authority with jurisdiction to issue such orders; (2) The interception order must specify the communications to be intercepted and the period of interception; (3) The interception must be conducted in a manner that minimizes interference with non-targeted communications; and (4) Telecommunications service providers shall maintain records of lawful interception orders received and shall report to the competent authority on the number of lawful interception orders received annually. Communications intercepted pursuant to a lawful interception order shall be kept strictly confidential."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11. Foreign Ownership and National Security",
+      "content": "Foreign nationals and foreign-invested entities shall not hold, directly or indirectly, more than a specified percentage of the shares or voting rights of a telecommunications service provider operating public telecommunications infrastructure of national significance, as determined by the competent authority in consultation with national security agencies. The competent authority shall, in consultation with relevant national security agencies, assess the national security implications of: (1) Applications for telecommunications licenses by entities with foreign ownership or foreign investment; (2) Changes in the ownership or control of licensed telecommunications service providers; (3) The introduction of network equipment or software from foreign sources into critical telecommunications infrastructure; and (4) Agreements between licensed telecommunications service providers and foreign governments or foreign entities regarding access to telecommunications infrastructure. Where the competent authority determines that a proposed transaction or arrangement poses a national security risk, it may refuse the application, condition its approval, or impose mitigation requirements."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12. Dispute Resolution",
+      "content": "The competent authority shall establish a dispute resolution mechanism for resolving disputes between telecommunications service providers, including disputes about interconnection terms, access to network elements, and compliance with regulatory obligations. Any party to a dispute may request mediation or arbitration by the competent authority where: (1) The parties have been unable to resolve the dispute through direct negotiation within 90 days; or (2) The nature of the dispute makes it unlikely that direct negotiation will resolve the dispute. The competent authority shall resolve disputes within 120 days of receiving a request for resolution, unless the complexity of the dispute justifies a longer period. Decisions of the competent authority in dispute resolution proceedings shall be binding on the parties, subject to appeal to the administrative court. The competent authority may issue guidelines setting out the principles and procedures for dispute resolution under this Act."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13. Penalties",
+      "content": "Any person or entity that operates a telecommunications network or provides telecommunications services without a license in violation of this Act shall be liable to a fine of between NT$500,000 and NT$10,000,000 and shall be ordered to cease operations. Any licensed telecommunications service provider that violates the terms of its license or the requirements of this Act shall be liable to a fine of between NT$100,000 and NT$5,000,000. Where a violation is of a continuing nature, fines may be imposed on a daily basis. Where a violation causes significant harm to consumers or to the public interest, the competent authority may suspend or revoke the license of the provider. Decisions of the competent authority under this article shall be subject to administrative appeal and administrative litigation in accordance with applicable law."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14. Number Portability",
+      "content": "The competent authority shall issue regulations requiring telecommunications service providers to implement number portability, enabling subscribers to retain their telephone numbers when switching between telecommunications service providers. Number portability shall be implemented in a manner that: (1) Enables subscribers to switch providers within a specified number of working days without significant service disruption; (2) Does not impose disproportionate costs on subscribers exercising their right to switch providers; (3) Preserves the technical quality and functionality of ported numbers; and (4) Does not enable telecommunications service providers to impede or discourage subscribers from switching. Telecommunications service providers shall cooperate in the implementation of number portability and shall not engage in practices designed to discourage subscribers from exercising their right to port numbers."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article 15. Regulatory Reporting",
+      "content": "Licensed telecommunications service providers shall submit reports to the competent authority at intervals specified by the competent authority, covering: (1) Financial performance, including revenue, investment, and costs; (2) Network coverage and capacity; (3) Service quality metrics; (4) The number and nature of consumer complaints received; (5) Cybersecurity incidents affecting the network or services; and (6) Any other matters specified by the competent authority as relevant to regulatory oversight. Reports submitted to the competent authority shall be verified by an independent auditor where the competent authority so requires. The competent authority shall publish aggregate industry data based on regulatory reports, while protecting the confidentiality of commercially sensitive information. Telecommunications service providers that fail to submit required reports within the prescribed timeframes may be subject to administrative penalties."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "telecommunications",
+      "definition": "The transmission, conveyance, or reception of text, sounds, pictures, or any other information through the use of wire, radio, optical, or other electromagnetic systems.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "spectrum",
+      "definition": "The range of electromagnetic frequencies allocated for use in telecommunications, broadcasting, and other radio services.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "significant market power",
+      "definition": "The ability of a telecommunications service provider to significantly influence the conditions of competition in a relevant market.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "interconnection",
+      "definition": "The physical or logical connection of telecommunications networks of different operators, enabling users on one network to communicate with users on another network.",
+      "source_provision": "art2"
+    }
+  ]
+}

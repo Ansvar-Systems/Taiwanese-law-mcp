@@ -1,0 +1,126 @@
+{
+  "id": "tw-dcra",
+  "type": "statute",
+  "title": "數位通訊傳播法（草案）",
+  "title_en": "Digital Communications and Cyber Resilience Act (Draft 2024)",
+  "short_name": "DCRA",
+  "status": "not_yet_in_force",
+  "issued_date": "2024-06-01",
+  "in_force_date": "2025-01-01",
+  "url": "https://www.ncc.gov.tw/chinese/news_detail.aspx?site_content_sn=5765",
+  "description": "The Digital Communications and Cyber Resilience Act (draft) is proposed legislation aimed at regulating digital communications platforms and online content intermediaries in Taiwan, addressing issues of disinformation, harmful content, platform accountability, and digital resilience. The draft adopts a risk-based approach to platform regulation, imposing obligations proportionate to the size and risk profile of platforms. It also establishes requirements for platform transparency, user empowerment, and algorithmic accountability.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1. Legislative Purpose",
+      "content": "This Act is enacted for the purpose of establishing a regulatory framework for digital communications services and platforms operating in Taiwan, with the objectives of: (1) Protecting users of digital communications services from harmful content and practices; (2) Promoting transparency, accountability, and fairness in the operation of digital platforms; (3) Safeguarding the integrity of democratic discourse and preventing the spread of disinformation; (4) Strengthening the resilience of digital communications infrastructure against cyber threats; and (5) Protecting the fundamental rights of users, including freedom of expression, privacy, and non-discrimination. The regulatory framework established by this Act shall be proportionate, risk-based, and technology-neutral, and shall be designed to promote innovation and competition in the digital economy while addressing identified harms."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2. Definitions",
+      "content": "The terms used in this Act are defined as follows: (1) 'Digital communications service' means a service provided via the internet or other digital networks that enables users to create, upload, store, view, exchange, or interact with information, whether text, audio, video, or other content. (2) 'Online platform' means a digital communications service that hosts, stores, and disseminates user-generated content to members of the public. (3) 'Very large online platform' means an online platform with more than one million active users in Taiwan per month on average. (4) 'Illegal content' means content that is unlawful under applicable law, including content that constitutes criminal defamation, incitement to hatred, child sexual abuse material, or content that infringes intellectual property rights. (5) 'Harmful but legal content' means content that, while not illegal, is likely to cause harm to users or to the public, including disinformation, manipulative commercial practices targeting vulnerable users, and content that promotes unhealthy behaviors. (6) 'Algorithmic recommendation system' means an automated system used by a platform to select and prioritize content presented to users based on personal characteristics or behavior."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3. Registration and Notification",
+      "content": "Digital communications services that are established in Taiwan or that have a significant number of users in Taiwan shall register with the competent authority within 90 days of commencing operations in Taiwan or within 90 days of this Act coming into force, whichever is later. Registration shall include: (1) The legal name and registered address of the service provider; (2) Contact information for communications with the competent authority; (3) A description of the digital communications services provided; (4) The number of active users in Taiwan; and (5) The contact information of a representative designated to accept service of legal process in Taiwan. Digital communications services that are not established in Taiwan but have more than 100,000 active users in Taiwan shall designate a legal representative in Taiwan. The competent authority shall maintain a public register of digital communications services operating in Taiwan."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4. Transparency Requirements",
+      "content": "Online platforms shall publish terms of service that are clear, accessible, and written in plain language, setting out: (1) The types of content that are permitted and prohibited on the platform; (2) The platform's content moderation policies and procedures; (3) The basis on which content is recommended, amplified, or restricted; (4) The rights of users, including the right to appeal content moderation decisions; and (5) The identity and contact information of the platform operator and its Taiwan representative. Online platforms shall publish regular transparency reports disclosing: (a) The number of content moderation actions taken by type; (b) The number of appeals received and the outcomes; (c) The nature of government requests for content removal or user data received; and (d) The platform's approach to managing systemic risks. Very large online platforms shall submit their transparency reports to the competent authority as well as publishing them."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5. Content Moderation",
+      "content": "Online platforms shall implement systems and procedures for detecting, removing, or restricting access to illegal content. Upon receiving notice from a user or a competent authority that specific content may be illegal, an online platform shall: (1) Review the reported content promptly; (2) Where the content is determined to be illegal, remove it or restrict access within 24 hours for content presenting an imminent risk of harm, and within 72 hours for other illegal content; (3) Notify the person who uploaded the content of the decision and the reasons therefor; and (4) Provide the person who uploaded the content with an opportunity to appeal the decision. Content moderation decisions shall be made by trained human reviewers where the content involves sensitive topics, such as political speech, satire, or nuanced legal questions. Platforms shall not take content moderation actions that are inconsistent with their published terms of service."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6. Algorithmic Accountability",
+      "content": "Online platforms that use algorithmic recommendation systems shall: (1) Provide users with clear information about the principal parameters used to determine what content is recommended to them; (2) Offer users the option to use the platform without personalized algorithmic recommendations; (3) Not use algorithmic recommendation systems that exploit users' psychological vulnerabilities or that are designed to maximize engagement at the expense of user wellbeing; (4) Conduct regular algorithmic impact assessments to evaluate the effects of recommendation systems on users and on public discourse; and (5) Make available to researchers, upon request and subject to appropriate confidentiality protections, data and system information necessary to assess the impact of algorithmic systems on society. Very large online platforms shall submit algorithmic impact assessments to the competent authority annually."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7. Disinformation",
+      "content": "Online platforms shall take reasonable measures to address the systemic spread of disinformation on their platforms. Such measures shall include: (1) Implementing systems to detect and label content that has been identified as false or misleading by credible independent fact-checking organizations; (2) Reducing the algorithmic amplification of content identified as disinformation; (3) Providing users with access to reliable information from authoritative sources, particularly during elections and public health emergencies; and (4) Cooperating with the competent authority and with independent researchers in efforts to understand and address disinformation. Online platforms shall not engage in, facilitate, or provide infrastructure for coordinated inauthentic behavior designed to manipulate public discourse. In addressing disinformation, platforms shall take due care to avoid unduly restricting legitimate political speech, satire, and opinion."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8. User Empowerment",
+      "content": "Online platforms shall provide users with effective tools to: (1) Report illegal content and harmful but legal content to the platform; (2) Appeal content moderation decisions that affect the user's content or account; (3) Control their personal data used by the platform, including the ability to download a copy of their data; (4) Understand and control the parameters of algorithmic recommendation systems; (5) Manage who can contact them and how; and (6) Protect themselves from harassment and abuse. Online platforms shall ensure that tools provided to users are accessible to persons with disabilities and to users with limited digital literacy. Platforms shall not engage in practices that make it unreasonably difficult for users to exercise their rights under this Act, including through the use of dark patterns in user interfaces."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9. Risk Assessments for Very Large Platforms",
+      "content": "Very large online platforms shall conduct systemic risk assessments at least annually, evaluating the risks that their services pose to: (1) The health and safety of users, including minors; (2) The protection of users' fundamental rights, including privacy and freedom of expression; (3) The integrity of public discourse and democratic processes; (4) The mental health and wellbeing of users, particularly vulnerable groups; and (5) The environment, in the case of services that have significant environmental impacts. Risk assessments shall take into account the design and functioning of the platform's algorithmic systems, content moderation systems, and advertising systems. Very large platforms shall implement reasonable and proportionate measures to mitigate systemic risks identified in their assessments and shall report to the competent authority on their risk management measures."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10. Advertising Transparency",
+      "content": "Online platforms that carry advertising shall: (1) Clearly identify advertising content so that users can distinguish it from non-advertising content; (2) Provide users with information about why a particular advertisement was shown to them, including the key parameters used for targeting; (3) Maintain a public repository of advertising, enabling users and researchers to access information about advertisements displayed on the platform; (4) Not carry targeted advertising directed at minors or based on the use of special categories of personal data; and (5) Not carry advertising that promotes illegal goods or services, or that uses deceptive or manipulative techniques. Online platforms shall not use micro-targeting techniques that exploit individuals' vulnerabilities, such as their mental health status, financial difficulties, or political views, to target advertising."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11. Competent Authority and Enforcement",
+      "content": "The competent authority for this Act shall be the National Communications Commission (NCC). The NCC shall have the power to: (1) Conduct inspections and audits of digital communications services; (2) Request information and documents from digital communications services; (3) Issue guidance and recommendations on compliance with this Act; (4) Impose administrative sanctions for violations of this Act; (5) Refer cases involving criminal offenses to prosecutors; and (6) Cooperate with regulatory authorities in other jurisdictions. Where a digital communications service fails to comply with the requirements of this Act, the NCC may impose a fine of between NT$100,000 and NT$50,000,000. For very large online platforms, fines may be imposed at up to 6% of global annual revenue for serious violations. Repeated or systemic violations may result in suspension of operations in Taiwan."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12. Researcher Access",
+      "content": "Very large online platforms shall establish a mechanism for providing vetted researchers with access to platform data and information necessary for research into the societal impact of online platforms. Vetted researchers shall include academic researchers affiliated with recognized research institutions, as well as independent researchers and civil society organizations that meet the competent authority's vetting criteria. Access provided to researchers shall be subject to: (1) Appropriate safeguards to prevent the misuse of data; (2) Confidentiality obligations protecting the privacy of platform users; (3) Conditions limiting the use of data to the approved research purpose; and (4) Requirements for the publication of research findings. Very large online platforms shall not unreasonably deny access to vetted researchers or impose conditions that unreasonably impede legitimate research."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13. Protection of Minors",
+      "content": "Online platforms that are likely to be accessed by minors shall implement appropriate measures to protect minors from harmful content and practices, including: (1) Age verification mechanisms proportionate to the risk level of the platform; (2) Default privacy and safety settings for accounts belonging to minors; (3) Restrictions on the use of data collected from minors for targeting and profiling; (4) Restrictions on the use of algorithmic recommendation systems that may cause harm to minors' mental health or wellbeing; (5) Tools enabling parents and guardians to monitor and control minors' use of the platform; and (6) Clear and accessible reporting mechanisms for minors to report harmful content. Online platforms shall not knowingly carry advertising targeted at minors under the age of 14 years. The competent authority shall issue guidelines specifying the measures required under this article for different types of platforms."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14. Cyber Resilience Requirements",
+      "content": "Online platforms and digital communications services that are designated by the competent authority as systemically important digital infrastructure shall implement enhanced cybersecurity and resilience measures, including: (1) Formal information security management systems meeting the standards prescribed by the competent authority; (2) Business continuity and disaster recovery plans; (3) Regular stress testing and red team exercises; (4) Incident response procedures and crisis communication plans; and (5) Redundancy and failover capabilities to ensure service continuity in the event of cyberattacks or infrastructure failures. Systemically important digital infrastructure shall notify the competent authority of significant cybersecurity incidents within 4 hours of discovery. The competent authority shall share information about incidents with relevant government agencies to support national cybersecurity responses."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article 15. Transition and Review",
+      "content": "This Act shall enter into force on the date prescribed by the Executive Yuan, which shall be no later than 12 months after promulgation. Digital communications services that are subject to this Act shall bring their practices and systems into compliance within 6 months of the Act entering into force. Very large online platforms shall bring their practices and systems into compliance within 3 months of the Act entering into force. The competent authority shall conduct a comprehensive review of this Act within 3 years of its entry into force and shall submit a report on the review to the Legislative Yuan, together with proposed amendments as appropriate. The review shall assess the effectiveness of the Act in achieving its stated objectives, its impact on innovation and competition in the digital economy, and its compatibility with international regulatory developments."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "digital communications service",
+      "definition": "A service provided via the internet or other digital networks that enables users to create, upload, store, view, exchange, or interact with information, whether text, audio, video, or other content.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "online platform",
+      "definition": "A digital communications service that hosts, stores, and disseminates user-generated content to members of the public.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "very large online platform",
+      "definition": "An online platform with more than one million active users in Taiwan per month on average.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "algorithmic recommendation system",
+      "definition": "An automated system used by a platform to select and prioritize content presented to users based on personal characteristics or behavior.",
+      "source_provision": "art2"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "tw-esa",
+  "type": "statute",
+  "title": "電子簽章法",
+  "title_en": "Electronic Signatures Act",
+  "short_name": "ESA",
+  "status": "in_force",
+  "issued_date": "2001-11-14",
+  "in_force_date": "2002-04-01",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=J0080037",
+  "description": "The Electronic Signatures Act establishes the legal framework for the recognition and use of electronic signatures and electronic documents in Taiwan. The Act gives electronic signatures the same legal standing as handwritten signatures where parties agree to use electronic means, and sets out the requirements for the validity of qualified electronic signatures and the certification services that support them. The Act also provides for the licensing and oversight of certification service providers.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1. Legislative Purpose",
+      "content": "This Act is enacted for the purpose of promoting the use of electronic transactions, facilitating the authentication of electronic documents and signatures, and ensuring the legal certainty of electronic commerce and electronic communications. The Act establishes a framework for the legal recognition of electronic signatures and electronic documents, consistent with internationally accepted standards for electronic authentication. This Act shall apply to all electronic transactions and electronic documents created, transmitted, received, or stored within the territory of the Republic of China (Taiwan), except where expressly excluded by other legislation. Nothing in this Act shall require any person to use electronic signatures or electronic documents, or prevent any person from agreeing to different standards for authentication in private transactions."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2. Definitions",
+      "content": "The terms used in this Act are defined as follows: (1) 'Electronic document' means information created, transmitted, received, or stored by electronic means, including electromagnetic, optical, or any other technology, in a retrievable form. (2) 'Electronic signature' means information in electronic form that is attached to, or logically associated with, other information in electronic form and that is used by the signatory to sign. (3) 'Digital signature' means an electronic signature created by applying a cryptographic transformation to an electronic document using the signatory's private key, such that the signature can be verified by reference to the corresponding public key certificate. (4) 'Certificate' means a data message or other record confirming the link between a public key and the identity of the certificate holder. (5) 'Certification service provider' means an entity that issues certificates and provides related authentication services. (6) 'Qualified certificate' means a certificate that meets the technical standards prescribed by the competent authority and is issued by an accredited certification service provider. (7) 'Time stamp' means an attestation by a trusted third party of the date and time at which an electronic document existed."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3. Legal Effect of Electronic Documents",
+      "content": "Where parties to a transaction agree to use electronic means, electronic documents shall have the same legal effect as paper documents, provided that the electronic document is accessible and capable of being retained in a manner that is accurate and complete. An electronic document shall be considered to satisfy any legal requirement for a document to be in writing, if the information contained therein is accessible so as to be usable for subsequent reference. An electronic document shall be considered to satisfy any legal requirement for an original document, if there exists a reliable assurance as to the integrity of the information from the time when it was first generated in its final form, and where the information is required to be presented, the document is capable of being displayed to the person to whom it is to be presented. The foregoing provisions shall not apply where legislation expressly requires that a document be in paper form or that a signature be handwritten."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4. Legal Effect of Electronic Signatures",
+      "content": "Where parties to a transaction agree to use electronic signatures, an electronic signature shall have the same legal effect as a handwritten signature, provided that: (1) The electronic signature is uniquely linked to the signatory; (2) The electronic signature is capable of identifying the signatory; (3) The electronic signature was created using means that are under the sole control of the signatory; and (4) The electronic signature is linked to the data to which it relates in such a manner that any subsequent change in the data is detectable. A digital signature created using a qualified certificate issued by an accredited certification service provider shall be presumed to satisfy the conditions set out in the preceding paragraph. Electronic signatures shall not be denied legal effect solely on the grounds that they are in electronic form."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5. Certification Service Providers",
+      "content": "Any person or entity that issues qualified certificates to the public shall apply for accreditation from the competent authority. To obtain accreditation, a certification service provider shall demonstrate: (1) Technical capability to issue and manage certificates in accordance with the technical standards prescribed by the competent authority; (2) Financial capability and organizational reliability to operate a certification service; (3) Compliance with the operational and security requirements prescribed by the competent authority; (4) Arrangements for maintaining the continuity of certification services or for the orderly cessation of services; and (5) Arrangements for liability insurance or other financial guarantees to compensate users for damages resulting from failures of the certification service. The competent authority shall maintain a list of accredited certification service providers and shall publish this list on its website. Accreditation shall be renewed at intervals not exceeding five years."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6. Obligations of Certification Service Providers",
+      "content": "Accredited certification service providers shall: (1) Verify the identity of applicants for certificates using reliable means before issuing certificates; (2) Issue certificates that accurately reflect the identity of the certificate holder and are technically valid; (3) Maintain accurate and complete records of all certificates issued, suspended, and revoked; (4) Maintain an online certificate status service enabling relying parties to verify the current status of certificates in real time; (5) Revoke certificates promptly upon request of the certificate holder or where the provider becomes aware of circumstances that compromise the reliability of a certificate; (6) Protect the private keys used to sign certificates and to operate the certification service using appropriate security measures; (7) Publish their certification practice statement, setting out the policies and practices governing their certification services; and (8) Notify the competent authority of significant security incidents and of planned changes to their certification services."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7. Liability of Certification Service Providers",
+      "content": "An accredited certification service provider shall be liable to any person who reasonably relies on a qualified certificate issued by the provider for damages resulting from: (1) Inaccurate information contained in the certificate at the time of issuance; (2) Failure of the certificate to satisfy the applicable technical requirements at the time of issuance; (3) Failure to revoke a certificate in a timely manner after the provider became aware of grounds for revocation; or (4) Failure to maintain the security of the certification service in a manner that compromises the integrity of certificates issued by the provider. The liability of a certification service provider under this article shall be limited to the amount specified in the certificate as the maximum liability, provided that such limitation was clearly disclosed to users. Certification service providers shall not limit their liability for damages resulting from willful misconduct or gross negligence."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8. Exclusions from Application",
+      "content": "Notwithstanding the provisions of Articles 3 and 4, this Act shall not apply to the following transactions, which shall continue to be governed by existing legislation requiring specific forms: (1) Transactions for the transfer or creation of real property rights, including contracts for the purchase and sale of land and buildings; (2) Wills and other testamentary documents; (3) Documents that must be notarized or attested by a court; (4) Negotiable instruments, including bills of exchange, promissory notes, and cheques; (5) Letters of credit issued in paper form; and (6) Any other documents that legislation expressly requires to be in writing or in paper form. The competent authority may, by order, expand or restrict the scope of exclusions under this article, taking into account the development of electronic commerce and the protection of the rights of parties to transactions."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9. Technical Standards",
+      "content": "The competent authority shall issue technical standards governing: (1) The requirements for qualified certificates; (2) The technical algorithms and key lengths acceptable for digital signatures; (3) The requirements for the operation and security of certification service providers; (4) The requirements for time stamp services; and (5) The requirements for electronic seals used by legal entities. Technical standards shall be compatible with internationally recognized standards for electronic authentication, including those developed by the International Telecommunication Union (ITU), the Internet Engineering Task Force (IETF), and other relevant international standards bodies. The competent authority shall review technical standards at regular intervals and update them as necessary to reflect advances in technology and evolving security requirements."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10. Cross-Border Recognition",
+      "content": "Electronic signatures and certificates created or issued in a foreign jurisdiction shall be given the same legal effect as domestic electronic signatures and certificates where: (1) The foreign jurisdiction has entered into an agreement with Taiwan providing for mutual recognition of electronic signatures and certificates; or (2) The foreign certification service provider is accredited in accordance with standards equivalent to those applicable in Taiwan, as determined by the competent authority. The competent authority may, by order, designate foreign certification service providers whose certificates shall be recognized in Taiwan, subject to the conditions set out in the preceding paragraph. Relying parties who reasonably rely on foreign certificates that have been recognized under this article shall be entitled to the same protections as if the certificates were domestic qualified certificates."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11. Government Use of Electronic Signatures",
+      "content": "Government agencies shall accept electronic documents and electronic signatures in place of paper documents and handwritten signatures in transactions with citizens and businesses, except where: (1) The law expressly requires a paper document or handwritten signature; (2) The nature of the transaction makes the use of electronic means impractical; or (3) The electronic means available do not provide a sufficient level of assurance for the type of transaction. The Executive Yuan shall issue an action plan for the adoption of electronic documents and signatures in government transactions, setting out a timetable for implementation across government agencies. Government agencies that provide electronic services shall ensure that the electronic authentication methods they accept are accessible to persons with disabilities and to persons without access to advanced technology."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12. Penalties",
+      "content": "Any person or entity that provides certification services to the public by issuing certificates purporting to be qualified certificates without accreditation from the competent authority shall be liable to a fine of between NT$200,000 and NT$2,000,000 and shall be ordered to cease providing certification services. An accredited certification service provider that fails to comply with its obligations under this Act or that violates the conditions of its accreditation shall be liable to a fine of between NT$100,000 and NT$1,000,000 and may have its accreditation suspended or revoked. Any person who fraudulently issues or uses electronic signatures or certificates for the purpose of deceiving others shall be subject to criminal prosecution under applicable criminal law. Decisions of the competent authority under this article shall be subject to administrative appeal."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13. Competent Authority",
+      "content": "The competent authority under this Act shall be the Ministry of Economic Affairs. The Ministry of Economic Affairs may delegate its functions and powers under this Act to subordinate agencies or to other government agencies as appropriate. The competent authority shall: (1) Accredit certification service providers; (2) Maintain and publish the list of accredited certification service providers; (3) Issue and update technical standards for electronic signatures and certificates; (4) Conduct inspections of accredited certification service providers; (5) Promote the use of electronic signatures and electronic documents in commerce and government; and (6) Cooperate with foreign authorities on the recognition of electronic signatures and certificates. The competent authority shall publish an annual report on the state of electronic signature adoption in Taiwan."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14. Electronic Records Retention",
+      "content": "Where legislation requires that records be retained for a specified period, electronic records shall satisfy such requirements if: (1) The information contained in the electronic record is accessible throughout the required retention period; (2) The electronic record is retained in the format in which it was generated, sent, or received, or in a format that can be demonstrated to accurately represent the information originally generated, sent, or received; (3) Information that identifies the origin, destination, and the date and time of sending or receipt of a communication is retained for the duration of the retention period; and (4) The integrity of the electronic record is maintained throughout the retention period using appropriate technical means. Persons required to retain records may satisfy their obligations through the use of a third-party records management service, provided that the third party meets the applicable technical standards and that the records remain accessible throughout the required retention period."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article 15. Supplementary Provisions",
+      "content": "This Act shall be interpreted in a manner consistent with internationally recognized principles governing electronic commerce and electronic authentication, including the UNCITRAL Model Law on Electronic Commerce and the UNCITRAL Model Law on Electronic Signatures. Where any provision of this Act conflicts with the provisions of any other Act governing specific industries or types of transactions, the other Act shall prevail, unless this Act expressly provides otherwise. The competent authority shall issue implementing regulations as necessary to give effect to the provisions of this Act and shall publish such regulations in the government gazette. This Act shall be reviewed by the competent authority at intervals not exceeding five years, and proposed amendments shall be submitted to the Executive Yuan and the Legislative Yuan."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "electronic document",
+      "definition": "Information created, transmitted, received, or stored by electronic means, including electromagnetic, optical, or any other technology, in a retrievable form.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "electronic signature",
+      "definition": "Information in electronic form that is attached to, or logically associated with, other information in electronic form and that is used by the signatory to sign.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "digital signature",
+      "definition": "An electronic signature created by applying a cryptographic transformation to an electronic document using the signatory's private key, such that the signature can be verified by reference to the corresponding public key certificate.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "qualified certificate",
+      "definition": "A certificate that meets the technical standards prescribed by the competent authority and is issued by an accredited certification service provider.",
+      "source_provision": "art2"
+    }
+  ]
+}

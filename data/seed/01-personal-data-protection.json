@@ -1,0 +1,161 @@
+{
+  "id": "tw-pdpa",
+  "type": "statute",
+  "title": "個人資料保護法",
+  "title_en": "Personal Data Protection Act",
+  "short_name": "PDPA",
+  "status": "in_force",
+  "issued_date": "2010-05-26",
+  "in_force_date": "2012-10-01",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=I0050021",
+  "description": "The Personal Data Protection Act (PDPA) is Taiwan's primary legislation governing the collection, processing, and use of personal data by both public and non-public agencies. The Act establishes a comprehensive framework for data subject rights, data controller obligations, and enforcement mechanisms. It was substantially amended in 2015 to expand protections and clarify cross-border data transfer rules.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1. Legislative Purpose",
+      "content": "This Act is enacted for the purpose of regulating the collection, processing and use of personal data by government agencies and non-government agencies, to prevent infringement upon personal rights and interests, and to facilitate the reasonable use of personal data. This Act shall apply to government agencies and non-government agencies within the territory of the Republic of China (Taiwan) that collect, process, or use personal data. Where special legislation provides otherwise, such legislation shall govern; where it does not, this Act shall apply. The purpose of protecting personal data is to safeguard the fundamental human rights of natural persons, including the right to privacy and the right to control one's personal information, as recognized under the Constitution of the Republic of China."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2. Definitions",
+      "content": "The terms used in this Act are defined as follows: (1) 'Personal data' means the name, date of birth, national identification card number, passport number, characteristics, fingerprints, marital status, family, education, occupation, medical history, medical treatment, genetic information, contact information, financial situation, social activities, and any other information that may be used to identify a natural person, either directly or in conjunction with other information. (2) 'Personal data file' means a collection of personal data in any form, including filing cabinets, books, charts, images, audio, video, electromagnetic records, or any other medium that has been structured for the purpose of collection, processing, or use. (3) 'Collection' means the act of acquiring personal data through any means. (4) 'Processing' means the act of inputting, storing, compiling, correcting, reproducing, retrieving, deleting, outputting, transferring, or dispersing personal data in the personal data file by establishing or using the personal data file. (5) 'Use' means the act of using personal data for purposes other than processing. (6) 'Public agency' means central and local government agencies and institutions. (7) 'Non-public agency' means any natural person, legal entity, or organization in the private sector."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3. Data Subject Rights",
+      "content": "A data subject may exercise the following rights with respect to his/her personal data maintained by a public agency or non-public agency, except as otherwise provided by this Act or other laws: (1) The right to be informed of whether the public agency or non-public agency maintains his/her personal data file; (2) The right to request access to, or make a copy of, his/her personal data; (3) The right to request supplements or corrections of his/her personal data; (4) The right to request cessation of collection, processing, or use of his/her personal data; and (5) The right to request deletion of his/her personal data. The agency shall respond to the data subject's exercise of rights under the preceding paragraph within the time limit prescribed by the supervisory authority. Any cost that arises from the exercise of rights by the data subject may be borne by the data subject. Where the exercise of rights by the data subject causes unreasonable difficulty for the agency, the agency may charge reasonable fees."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4. Entrusted Processing",
+      "content": "Where a public agency or non-public agency entrusts another agency to collect, process, or use personal data, the entrusting agency shall conduct proper supervision over the entrusted agency. The entrusted agency shall also comply with the provisions of this Act regarding the collection, processing, and use of personal data within the scope of the entrustment. The entrusting agency and the entrusted agency shall bear joint and several liability for any damage caused to data subjects during the period of entrustment. The supervisory authority shall prescribe regulations governing the scope of supervision under paragraph 1, the methods of supervision, and matters relating to the assumption of liability."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5. Principles of Personal Data Protection",
+      "content": "The collection, processing, and use of personal data shall respect the rights and interests of data subjects, shall be honest and credible, shall not exceed the scope necessary for the specific purpose, and shall be in accordance with the following principles: (1) Collection and processing of personal data shall have a specific purpose; (2) The type of personal data collected shall be proportionate and relevant to the specific purpose; (3) The data shall not be retained beyond the period necessary for the specific purpose; (4) Personal data shall be accurate, and shall be appropriately corrected or deleted when found to be inaccurate; (5) Appropriate technical and organizational measures shall be taken to ensure the security of personal data and to prevent unauthorized access, alteration, destruction, or disclosure; (6) The rights of data subjects shall be respected and the data subjects shall be enabled to exercise their rights under this Act."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6. Special Categories of Personal Data",
+      "content": "Personal data relating to medical history, medical treatment, genetic data, sex life, health examination, and criminal records shall not be collected, processed, or used. However, the foregoing provision shall not apply in the following circumstances: (1) Where the law expressly provides for collection, processing, or use; (2) Where it is necessary for medical treatment, public health, or occupational safety, and the collection, processing, or use is carried out by a medical institution or a professional bound by duty of confidentiality; (3) Where it is necessary to protect the life, body, or property of the data subject or a third party, and it is impossible to obtain the consent of the data subject; (4) Where the data subject has expressly consented in writing; (5) Where it is necessary for a non-profit organization to maintain its members or donors for the purpose of its stated objectives, and the data is limited to within the scope of the organization and is not disclosed to a third party without consent; (6) Where the personal data has been made public by the data subject; or (7) Where it is necessary for academic research organizations, and the data has been processed to render the data subject unidentifiable, or the data subject has given consent."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7. Requirements for Consent",
+      "content": "Where collection, processing, or use of personal data requires the consent of the data subject, such consent shall be specific, informed, and freely given. Consent given under this Act shall be in writing, except where the supervisory authority permits it to be given in other manners. Where consent is required and the data subject gives consent in writing, the public agency or non-public agency shall provide the data subject with the following information: (1) The name of the public agency or non-public agency; (2) The specific purpose for which the personal data is being collected; (3) The type of personal data being collected; (4) The time period, area, target, and manner of use of the personal data; (5) The rights of the data subject and how to exercise those rights; and (6) The impact upon the data subject of not providing personal data, if applicable. Where consent has been given, the data subject may withdraw the consent at any time. The withdrawal of consent shall not affect the lawfulness of any collection, processing, or use of personal data carried out before the withdrawal."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8. Obligation to Inform",
+      "content": "Where a non-public agency collects personal data directly from the data subject, it shall expressly inform the data subject of the following matters before or at the time of collection: (1) The name of the non-public agency; (2) The specific purpose of collection; (3) The type of personal data to be collected; (4) The time period, area, target, and manner of use of the personal data; (5) The rights of the data subject and how to exercise such rights under Article 3 of this Act; and (6) The impact upon the data subject of not providing personal data, if applicable. Where the collection is not directly from the data subject, the non-public agency shall inform the data subject of the matters set out in the preceding paragraph within a reasonable period of time after the collection, but before the processing or use of the data. The obligation to inform in the preceding two paragraphs shall not apply where: (1) The law expressly provides that collection may be conducted without notification; (2) Personal data is collected for the purpose of preventing harm to the life, body, or property of the data subject or a third party; (3) The cost of notification would be disproportionately high due to practical difficulties; or (4) The personal data has been made public by the data subject."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9. Security Maintenance",
+      "content": "Public agencies and non-public agencies shall take appropriate technical and organizational measures to maintain the security of personal data files and to prevent personal data from being stolen, altered, damaged, destroyed, or disclosed. Non-public agencies shall prescribe security maintenance plans for personal data files according to regulations prescribed by the central supervisory authority for the relevant industry. The security maintenance plan shall at minimum address: (1) The allocation of personnel and resources for the management of personal data file security; (2) The scope of personal data files, their types, and quantities; (3) The implementation of appropriate technical protection measures, including encryption and access control; (4) The procedures for managing access by personnel to personal data; (5) The procedures for managing the provision of personal data to third parties; (6) The procedures for managing the use of personal data by contractors; (7) The procedures for responding to incidents involving personal data; and (8) Regular review and improvement mechanisms for security maintenance plans."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10. Conditions for Use of Personal Data",
+      "content": "The use of personal data by a public agency shall be within the specific purpose for which the data was collected, except in the following circumstances: (1) Where the law expressly provides otherwise; (2) Where it is necessary to prevent an imminent threat to national security; (3) Where it is necessary to prevent imminent harm to the life, body, or property of others; (4) Where it is necessary for public interest, such as statistics and academic research; (5) Where the data has been processed to render the data subject unidentifiable; or (6) Where the data subject has expressly consented to use for purposes other than the specific purpose. Use of personal data by a non-public agency shall be limited to within the specific purpose for which the data was collected. However, use for purposes other than the specific purpose of collection is permitted in the following circumstances: (1) Where the law expressly provides for use for other purposes; (2) Where it is necessary to prevent imminent harm to the life, body, or property of others, and it is impossible to obtain the consent of the data subject; (3) Where it is necessary for preventing the occurrence of serious harm to the public interest, and it is impossible to obtain the consent of the data subject; (4) Where the data has been processed to render the data subject unidentifiable; or (5) Where the data subject has expressly consented."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11. Cross-Border Transfer",
+      "content": "Non-public agencies shall not transfer personal data to a foreign country (jurisdiction) where the central competent authority has issued a notice prohibiting the transfer to prevent material damage to the rights and interests of data subjects. Where a non-public agency transfers personal data to a foreign country, it shall take necessary measures to ensure that the level of protection provided in the foreign country is not lower than the level of protection provided under this Act. The central competent authority may restrict or prohibit the cross-border transfer of personal data to protect the rights and interests of data subjects or to maintain national interests. Criteria for restricting or prohibiting cross-border transfers shall include: (1) Whether the foreign country has adequate personal data protection legislation or mechanisms; (2) Whether adequate safeguards have been established by contract between the transferring agency and the recipient; (3) Whether the specific purpose of the transfer justifies the potential risk to data subject rights; and (4) Whether the transfer involves special categories of personal data as defined under Article 6."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12. Notification of Security Incidents",
+      "content": "Where a public agency or non-public agency becomes aware that personal data under its management has been stolen, disclosed, altered, or otherwise infringed upon, it shall notify the data subjects in an appropriate manner after investigating the facts and setting up relevant security measures. The notification under the preceding paragraph shall include: (1) The fact of the infringement and what personal data was involved; (2) The expected harm to the data subject; (3) The response measures already taken and those to be taken by the agency; and (4) Contact information for inquiries by the data subject. The means of notification under this article may include written notice, email, telephone, text message, announcement on the agency's website, announcement in newspapers, or other appropriate means. Where the cost of individual notification is disproportionately high, notice may be given through public announcement. Agencies shall report significant security incidents to the supervisory authority within 72 hours of becoming aware of the incident."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13. Data Retention and Deletion",
+      "content": "Public agencies and non-public agencies shall delete or stop processing personal data when any of the following circumstances exist: (1) The specific purpose of collection no longer exists, and the retention period has expired; (2) The data subject withdraws consent where consent was the legal basis for collection; (3) The data subject requests deletion, and the agency is unable to demonstrate a legal basis for continued retention; or (4) The collection, processing, or use is found to be unlawful. Where deletion or cessation of processing would impair the lawful rights and interests of the agency or where it is required by law to retain the data for a specified period, the agency may retain the data for the minimum period required. Agencies shall establish procedures for the secure deletion and disposal of personal data, including electronic media and physical documents, such that the personal data cannot be recovered after deletion or disposal."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14. Civil Liability",
+      "content": "Where a non-public agency violates this Act and causes damage to a data subject, the data subject may claim damages from the non-public agency. Where the non-public agency is unable to prove the amount of damage suffered by the data subject, the court may, at the request of the data subject, award statutory damages of between NT$500 and NT$20,000 per incident. Where the same incident causes damage to multiple data subjects and the total amount of statutory damages claimed is more than NT$20 million, the court may reduce the statutory damages per person proportionally. Punitive damages of up to twice the damages awarded may be ordered where the non-public agency is found to have acted willfully. Where a non-public agency proves that it has taken all reasonable precautions to prevent the harm from occurring, it may be exempted from liability. Claims for damages under this Act shall be subject to a two-year statute of limitations from the date on which the data subject becomes aware of the damage and the responsible party, and in any event shall not be brought more than five years after the date of the act giving rise to the claim."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article 15. Criminal Penalties",
+      "content": "Any person who, for the purpose of unlawfully profiting for himself/herself or a third party, violates any of the provisions of this Act regarding collection, processing, or use of personal data, and thereby causes damage to the rights and interests of others, shall be sentenced to imprisonment for not more than five years, criminal detention, or in lieu thereof or in addition thereto a fine of not more than NT$1 million. Where the offense under the preceding paragraph is committed against a public official or through the use of public official authority, the penalty shall be increased by one half. A legal entity whose representative, agent, employee, or other staff member commits an offense under this Act in the course of the legal entity's business operations shall, in addition to the punishment of the individual offender, be subject to a fine of up to NT$50 million."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Article 16. Administrative Penalties",
+      "content": "Where a non-public agency fails to perform its obligations under this Act, the supervisory authority may order the agency to make corrections within a prescribed period. Where the agency fails to make corrections within the prescribed period, the supervisory authority may impose a fine of between NT$20,000 and NT$200,000 and order the agency to make corrections within another prescribed period. Where the agency still fails to make corrections, the supervisory authority may impose consecutive fines and may order the agency to suspend its operations or revoke its registration or business license. The supervisory authority shall disclose the names of agencies that have been fined under this Act and the reasons therefor, together with information about the nature of the violation. Where a non-public agency commits a serious violation of this Act, including a violation involving a large number of data subjects or sensitive personal data, the supervisory authority may impose a fine of up to NT$15 million."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Article 17. Supervisory Authority",
+      "content": "The central competent authority under this Act shall be the National Development Council. With respect to the personal data protection businesses of the following government agencies, the said agencies shall be the competent authorities: (1) For financial businesses, the Financial Supervisory Commission; (2) For telecommunications businesses, the National Communications Commission; (3) For medical and healthcare businesses, the Ministry of Health and Welfare; (4) For educational businesses, the Ministry of Education; (5) For judicial businesses, the Judicial Yuan; (6) For other businesses, the central competent authority of the relevant industry. The supervisory authority shall have the power to: (1) Issue guidelines and interpretations on this Act; (2) Conduct inspections and audits of agencies subject to this Act; (3) Order agencies to produce documents and provide information; (4) Impose administrative penalties; and (5) Refer cases involving criminal offenses to prosecutors."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Article 18. Exemptions for Journalism and Research",
+      "content": "Where the collection, processing, or use of personal data by a non-public agency is for purposes of journalism, academic research, governmental statistics, or opinion polling, and it has been processed to render the data subject unidentifiable, the provisions of Articles 6, 8, and 9 of this Act shall not apply. However, the following conditions shall be met: (1) The purpose of the collection, processing, or use is clearly in the public interest; (2) The scope of collection, processing, or use does not exceed what is necessary for the stated purpose; (3) Appropriate safeguards have been implemented to protect the rights and interests of data subjects; and (4) The results of processing do not cause disproportionate harm to the rights and interests of data subjects. Academic institutions shall adopt ethical guidelines governing the processing of personal data in research, subject to oversight by the relevant authority."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Article 19. Personal Data Protection Officer",
+      "content": "Non-public agencies that regularly or systematically collect, process, or use personal data on a large scale, or that collect, process, or use special categories of personal data as a core activity, shall designate a personal data protection officer. The personal data protection officer shall be responsible for: (1) Advising the agency and its staff on obligations under this Act; (2) Monitoring compliance with this Act and with the agency's internal policies and procedures; (3) Being the contact point for data subjects exercising their rights; (4) Cooperating with the supervisory authority; and (5) Conducting or commissioning data protection impact assessments where required. The personal data protection officer shall report directly to the highest level of management and shall not receive instructions from the agency regarding the exercise of his/her duties under this Act. The supervisory authority shall issue regulations specifying which agencies are required to designate a personal data protection officer and the qualifications required of such officers."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Article 20. Data Protection Impact Assessment",
+      "content": "Where a non-public agency plans to conduct a type of collection, processing, or use of personal data that is likely to result in a high risk to the rights and freedoms of natural persons, in particular because it involves new technologies, the agency shall, prior to commencing such activity, conduct an assessment of the impact of the planned activity on the protection of personal data. A data protection impact assessment shall be required where the planned activity involves: (1) A systematic and extensive evaluation of personal aspects relating to natural persons, including profiling; (2) Processing of special categories of personal data on a large scale; (3) Systematic monitoring of a publicly accessible area on a large scale; or (4) Any other type of processing that the supervisory authority determines to present a high risk. The assessment shall include a description of the planned processing operations, an assessment of the necessity and proportionality of the processing, and the measures envisaged to address the risks identified. Where the assessment indicates that the processing would result in a high residual risk, the agency shall consult the supervisory authority prior to commencing the processing."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "personal data",
+      "definition": "The name, date of birth, national identification card number, passport number, characteristics, fingerprints, marital status, family, education, occupation, medical history, medical treatment, genetic information, contact information, financial situation, social activities, and any other information that may be used to identify a natural person, either directly or in conjunction with other information.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "personal data file",
+      "definition": "A collection of personal data in any form, including filing cabinets, books, charts, images, audio, video, electromagnetic records, or any other medium that has been structured for the purpose of collection, processing, or use.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "collection",
+      "definition": "The act of acquiring personal data through any means.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "processing",
+      "definition": "The act of inputting, storing, compiling, correcting, reproducing, retrieving, deleting, outputting, transferring, or dispersing personal data in the personal data file by establishing or using the personal data file.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "specific purpose",
+      "definition": "A clearly defined and legitimate purpose for which personal data is collected, which must be explicitly stated to the data subject at the time of collection and which limits the subsequent use of the data.",
+      "source_provision": "art5"
+    }
+  ]
+}
