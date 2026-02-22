@@ -17,12 +17,15 @@
       "transport": {
         "type": "stdio"
       }
-    }
-  ],
-  "remotes": [
+    },
     {
-      "transportType": "streamable-http",
-      "url": "https://taiwanese-law-mcp.vercel.app/mcp"
+      "registryType": "npm",
+      "identifier": "@ansvar/taiwanese-law-mcp",
+      "version": "1.0.0",
+      "transport": {
+        "type": "streamable-http",
+        "url": "https://taiwanese-law-mcp.vercel.app/mcp"
+      }
     }
   ]
 }
