@@ -50,7 +50,7 @@ export async function listSources(
           license: 'Government Website Open Data License v1 (attribution required)',
           coverage:
             'Official central legislation corpus from Taiwan Laws & Regulations Database OpenAPI ' +
-            '(/api/ch/law/json), including all available laws and article-level text',
+            '(/api/ch/law/json and /api/ch/order/json), including all available laws, orders, and article-level text',
           languages: ['zh', 'en'],
         },
       ],

@@ -1,0 +1,73 @@
+{
+  "id": "tw-t0020082",
+  "type": "statute",
+  "title": "中央政府非營業特種基金裁撤機制辦法",
+  "title_en": "中央政府非營業特種基金裁撤機制辦法",
+  "short_name": "中央政府非營業特種基金裁撤機制辦法",
+  "status": "in_force",
+  "issued_date": "2021-10-05",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=T0020082",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞行政院主計總處＞歲計目       . Articles extracted: 8.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本辦法依財政紀律法第八條第四項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本辦法用詞，定義如下：\n一、情勢變更：指中央政府非營業特種基金有下列情形之一：\n（一）業務因政策變更，無須繼續辦理。\n（二）業務移撥地方政府，無須繼續辦理。\n（三）因其他原因，致業務無繼續辦理之必要。\n二、執行績效不彰：指中央政府非營業特種基金有下列情形之一：\n（一）作業基金之淨值為負數，且難以改善。\n（二）特別收入基金、資本計畫基金之基金餘額為負數，或不含短期債務之可用資金不足，且難以改善。\n（三）營運或業務執行情形經主管機關考核績效不佳，且難以改善。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "作業基金之淨值為負數者，應加強財務控管，並由主管機關提出改善計畫，進行專案輔導改善。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "特別收入基金、資本計畫基金之基金餘額為負數，或不含短期債務之可用資金不足者，應加強財務控管；如無新增適足財源，其支出不得超出年度預算總額，並由主管機關提出改善計畫，進行專案輔導改善。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "中央政府非營業特種基金因情勢變更，或執行績效不彰，或基金設置之目的業已完成，或設立之期限屆滿時，主管機關應報請行政院核准後辦理裁撤事宜。必要時，行政院得逕行要求主管機關辦理裁撤事宜。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "（刪除）"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "直轄市、縣（市）政府所管非營業特種基金裁撤機制，準用本辦法之規定。"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "第 8 條",
+      "content": "本辦法自發布日施行。"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "情勢變更",
+      "definition": "指中央政府非營業特種基金有下列情形之一： （一）業務因政策變更，無須繼續辦理。 （二）業務移撥地方政府，無須繼續辦理。 （三）因其他原因，致業務無繼續辦理之必要。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "執行績效不彰",
+      "definition": "指中央政府非營業特種基金有下列情形之一： （一）作業基金之淨值為負數，且難以改善。 （二）特別收入基金、資本計畫基金之基金餘額為負數，或不含短期債務之可用資金不足，且難以改善。 （三）營運或業務執行情形經主管機關考核績效不佳，且難以改善。",
+      "source_provision": "art2"
+    }
+  ]
+}

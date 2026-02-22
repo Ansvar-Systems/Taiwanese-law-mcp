@@ -1,0 +1,44 @@
+{
+  "id": "tw-j0110042",
+  "type": "statute",
+  "title": "溫泉露頭一定範圍劃定準則",
+  "title_en": "溫泉露頭一定範圍劃定準則",
+  "short_name": "溫泉露頭一定範圍劃定準則",
+  "status": "in_force",
+  "issued_date": "2005-07-22",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0110042",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞經濟部＞水利目. Articles extracted: 5.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本準則依溫泉法（以下簡稱本法）第六條第二項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "溫泉露頭位置分為：\n一、河床或溪谷旁。\n二、岩盤或岩壁。\n三、沖積層或崩積層。\n四、海域或海岸。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本法第六條第一項所稱溫泉露頭一定範圍指：\n一、影響溫泉水流量之地區。\n二、影響溫泉水質之地區。\n三、破壞溫泉特別景觀之地區。\n四、造成溫泉環境污染之地區。\n前項第三款所稱特別景觀指具下列景觀之一者：\n一、自然噴泉。\n二、溫泉水或特殊礦物質沉澱或結晶造成之特殊外觀。\n三、海底溫泉。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "前條一定範圍之劃定，應依實地現況因地制宜劃設，其劃設範圍水平距離至少應有十公尺以上，但具特別景觀者，水平距離至少應有二十公尺以上。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本準則自本法施行日施行。"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,56 @@
+{
+  "id": "tw-o0020020",
+  "type": "statute",
+  "title": "磚瓦窯業開放式隧道窯粒狀污染物排放標準",
+  "title_en": "磚瓦窯業開放式隧道窯粒狀污染物排放標準",
+  "short_name": "磚瓦窯業開放式隧道窯粒狀污染物排放標準",
+  "status": "in_force",
+  "issued_date": "1999-04-07",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=O0020020",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞環境部＞大氣環境目. Articles extracted: 7.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依空氣污染防制法第二十條第二項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本標準未規定事項適用其他相關之規定。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本標準之適用對象指磚瓦窯業將含有水份之製坯經回收廢熱乾燥後再予以燒成之開放式隧道窯。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本標準規定值如附表。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本標準濃度值計算均以凱氏溫度二七三度及一大氣壓下未經稀釋之乾燥排氣體積為計算基準。排放管道之排氣含氧量以百分之十八為參考基準。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "本標準污染物之測定依附表及中央主管機關增修訂公告之方法。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "本標準規定事項除另定施行日期者外，自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

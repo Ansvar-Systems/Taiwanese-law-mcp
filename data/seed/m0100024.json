@@ -1,0 +1,50 @@
+{
+  "id": "tw-m0100024",
+  "type": "statute",
+  "title": "農田水利法施行細則",
+  "title_en": "農田水利法施行細則",
+  "short_name": "農田水利法施行細則",
+  "status": "in_force",
+  "issued_date": "2021-05-13",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0100024",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞農業部＞農田水利目. Articles extracted: 6.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本細則依農田水利法（以下簡稱本法）第三十三條規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本法第十一條第一項所稱照舊使用，指現況提供為水路使用之土地，應維持農田水利使用，並維持原土地提供使用關係。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "依本法第十八條第一項規定設置之灌溉管理組織，於本法第二十二條第一項所定農田水利事業作業基金（以下簡稱作業基金）設置前，其收入、支出依行政院農業委員會原核定之年度預算執行與辦理決算；有關會計報告、科目、憑證、內部審核程序及其他財務會計相關業務，應依行政院農業委員會農田水利署管理處財務會計處理暫行措施辦理。"
+    },
+    {
+      "provision_ref": "art3-1",
+      "section": "3-1",
+      "title": "第 3-1 條",
+      "content": "本法第十八條第二項所定灌溉管理組織專任職員之訓練及進修事項，主管機關得委由依農田水利會組織通則第三十九條第一項規定設立之農田水利會聯合會，以其解散清算後之賸餘財產捐助成立之財團法人辦理。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "依本法第二十三條第五項規定於所有權人欄註明為國有之土地，並應一併於國有財產產籍登記註明屬於作業基金財產。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本細則自本法施行之日施行。\n本細則修正條文自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

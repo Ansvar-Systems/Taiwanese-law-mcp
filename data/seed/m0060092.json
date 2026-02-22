@@ -1,0 +1,38 @@
+{
+  "id": "tw-m0060092",
+  "type": "statute",
+  "title": "刊播農產品廣告資料保存管理辦法",
+  "title_en": "刊播農產品廣告資料保存管理辦法",
+  "short_name": "刊播農產品廣告資料保存管理辦法",
+  "status": "in_force",
+  "issued_date": "2021-06-11",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0060092",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞農業部＞農業科技目. Articles extracted: 4.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本辦法依農產品生產及驗證管理法第二十條第三項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "提供平臺或接受委託刊播之業者，其刊播之廣告涉及驗證農產品、溯源農產品或使用中央主管機關或其所屬機關（構）之名義者，應保存下列資料：\n一、委託刊播廣告者之姓名或名稱、國民身分證統一編號、公司、商號、法人或團體之設立登記文件號碼、住居所或事務所、營業所地址、電話。\n二、廣告涉及驗證農產品者，其驗證標章、驗證編號及證書字號。\n三、廣告涉及溯源農產品者，其追溯條碼或溯源資訊。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "前條應保存之資料，應自刊播廣告之日起以紙本或電子儲存方式保存六個月。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本辦法自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

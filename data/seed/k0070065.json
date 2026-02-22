@@ -1,0 +1,44 @@
+{
+  "id": "tw-k0070065",
+  "type": "statute",
+  "title": "船上法令規章必要藥品及醫療設備備置標準",
+  "title_en": "Preparation Standard for Legislations, Required Medicine, and Medical Equipment on Ships",
+  "short_name": "Preparation Standard for Legislations, Required Medicine, and Medical Equipment ",
+  "status": "in_force",
+  "issued_date": "2015-08-06",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0070065",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞交通部＞航政目. Articles extracted: 5.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依船員法第十五條第二項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "船舶應備置下列法令規章：\n一、船員法。\n二、船舶法。\n三、海商法。\n四、商港法。\n五、海洋污染防制法。\n六、勞動基準法。\n七、勞工安全衛生相關法規。\n八、船舶載重線勘劃規則。\n九、國際海上避碰規則。\n十、港口國航行水道、航道規則。\n十一、海上人命安全國際公約。\n十二、一九八二年國際海洋法公約。\n十三、船舶噸位丈量國際公約。\n十四、國際載重線公約。\n十五、防止船舶污染國際公約。\n十六、一九七八年航海人員訓練、發證及當值標準國際公約。\n十七、其他依法令或經指定應備置之規章。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "船舶應備置醫療指南及下列藥品與醫療設備：\n一、基本外傷藥品。\n二、船上常見疾病藥品。\n三、急救藥品及器材。\n四、解毒用藥。\n五、其他依有關公約規定必備之藥品及醫療設備。\n船舶總噸位一百以上或乘客超過一百五十人之客船，應置有自動體外心臟電擊去顫器或其他經中央衛生福利主管機關公告之必要緊急救護設備。\n前二項藥品、醫療設備及緊急救護設備，應由專人管理並依效期更新。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "前條藥品應依附表一之規定備置，並得以療效、規格或成分相同者代替之。\n前條醫療設備應依附表二之規定備置。\n第一項應備置藥品涉及管制藥品者，僱用人應依管制藥品管理條例第十六條規定，申領管制藥品登記證。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

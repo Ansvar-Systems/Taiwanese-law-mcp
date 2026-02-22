@@ -1,0 +1,44 @@
+{
+  "id": "tw-a0020210",
+  "type": "statute",
+  "title": "行署監察委員推選辦法",
+  "title_en": "行署監察委員推選辦法",
+  "short_name": "行署監察委員推選辦法",
+  "status": "repealed",
+  "issued_date": "2023-06-30",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0020210",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 廢止法規＞院本部. Articles extracted: 5.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "行署監察委員，由各監察區內各省市監察委員推五人至七人為候選人，提經監察院會議投票推選之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "每一行署監察委員，以得票較多數之首三名為當選，非本區監察委員當選者不得少於一人，以非本區監察委員得票較多者為當選。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "候選人所得票數相同時，由主席以抽籤決定之。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "行署監察委員任期，自每年一月一日起至同年十二月三十一日止，在每一任期內行署監察委員離職時，由得票次多數之監察委員遞補之，其任務至本任期終了時為止。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "行署監察委員之改選，於每年十一月份之會議行之。"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,56 @@
+{
+  "id": "tw-g0380250",
+  "type": "statute",
+  "title": "銀行淨穩定資金比率實施標準",
+  "title_en": "Standards Implementing the Net Stable Funding Ratio of Banks",
+  "short_name": "Standards Implementing the Net Stable Funding Ratio of Banks",
+  "status": "in_force",
+  "issued_date": "2016-12-26",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0380250",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞金融監督管理委員會＞銀行目. Articles extracted: 7.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依銀行法第三十六條第二項、第四十三條及中央銀行法第二十五條規定訂定。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本標準所稱淨穩定資金比率，係指可用穩定資金除以應有穩定資金。淨穩定資金比率之計算方法說明及表格，由金融監督管理委員會（以下簡稱金管會）洽商中央銀行同意後定之。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "銀行依前條規定計算之淨穩定資金比率，不得低於百分之百。\n前項比率，金管會得視金融情況及實際需要，洽商中央銀行同意後調整之。\n銀行報經金管會洽商中央銀行同意後核准者，得不受第一項規定之限制。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "銀行應按季計算淨穩定資金比率，並於每營業年度及每半營業年度終了後二個月內，以及每營業年度第一季、第三季終了後四十五日內依金融監理資訊單一申報窗口規定，申報淨穩定資金比率相關資訊。\n銀行淨穩定資金比率未達前條規定之最低比率者，應即通報金管會及中央銀行，並說明原因與改善措施。\n金管會及中央銀行於必要時，得要求銀行隨時填報淨穩定資金比率，並檢附相關資料。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "銀行應依金管會規定，於自行網站之「資本適足性與風險管理專區」，揭露淨穩定資金比率相關資訊。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "外國銀行在臺分行、大陸地區商業銀行在臺分行及經金管會派員接管、勒令停業清理或清算之銀行，不適用本標準之規定。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "本標準自中華民國一百零七年一月一日施行。"
+    }
+  ],
+  "definitions": []
+}

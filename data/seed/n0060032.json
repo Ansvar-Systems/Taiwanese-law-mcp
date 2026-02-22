@@ -1,0 +1,45 @@
+{
+  "id": "tw-n0060032",
+  "type": "statute",
+  "title": "妊娠與分娩後女性及未滿十八歲勞工禁止從事危險性或有害性工作認定標準",
+  "title_en": "妊娠與分娩後女性及未滿十八歲勞工禁止從事危險性或有害性工作認定標準",
+  "short_name": "妊娠與分娩後女性及未滿十八歲勞工禁止從事危險性或有害性工作認定標準",
+  "status": "not_yet_in_force",
+  "issued_date": "2025-11-20",
+  "in_force_date": "2027-01-01",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060032",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞勞動部＞職業安全衛生目. Articles extracted: 5.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依職業安全衛生法（以下簡稱本法）第二十九條第二項及第三十條第四項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本法第二十九條第一項所定危險性或有害性工作之認定標準如附表一。\n未滿十五歲者，不得從事本法第二十九條第一項所定危險性或有害性工作。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本法第三十條第一項所定危險性或有害性工作之認定標準如附表二。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本法第三十條第二項所定危險性或有害性工作之認定標準如附表三。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本標準自中華民國一百零三年七月三日施行。\n本標準修正條文，除中華民國一百十四年十一月二十日修正發布之第二條附表一工作別五，自一百十六年一月一日施行外，自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

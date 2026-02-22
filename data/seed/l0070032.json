@@ -1,0 +1,68 @@
+{
+  "id": "tw-l0070032",
+  "type": "statute",
+  "title": "室內吸菸室設置辦法",
+  "title_en": "Regulations for the Establishment of Indoor Smoking Rooms",
+  "short_name": "Regulations for the Establishment of Indoor Smoking Rooms",
+  "status": "in_force",
+  "issued_date": "2023-03-22",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0070032",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞衛生福利部＞國民健康目. Articles extracted: 9.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本辦法依菸害防制法第十八條第三項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "旅館、商場、餐飲店、酒吧、夜店或其他供公眾消費之室內場所（以下稱室內場所）及老人福利機構（以下稱機構）得設置室內吸菸室（以下稱吸菸室），其單一吸菸室之面積以六平方公尺以上三十五平方公尺以下為限，且其所有吸菸室總面積不得逾該室內場所或機構總面積之百分之二十。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "吸菸室，不得為吸菸以外之用途。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "吸菸室之獨立隔間，應符合下列規定：\n一、其上下方及前後左右四面，應與其他室內空間區隔。\n二、隔間應使用不透氣、防火，符合消防法令之建材，且不得有菸煙逸出情事。\n三、出入口使用平行移動，且能自動關閉之滑門。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "吸菸室之獨立空調，應符合下列規定：\n一、有獨立連接室外空間之進氣、排氣管。\n二、室內負壓達零點八一六毫米水柱以上。\n三、室內換氣量每小時達吸菸室空間十倍以上。\n四、排煙口距離禁止吸菸場所及任一建物五公尺以上。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "吸菸室之入口，應以中文明顯標示下列事項：\n一、本場所除吸菸室外，禁止吸菸。\n二、吸菸有害健康之警語與戒菸相關資訊。\n三、孕婦或未滿二十歲之人禁止進入。\n四、第八條所定檢查合格之證明。\n前項第一款至第三款標示之文字，其字體長寬各不得小於二公分。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "吸菸室於清潔、維護前後一小時內停止使用，並應於該期間持續維持其獨立空調之運轉。"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "第 8 條",
+      "content": "吸菸室於設置或設施變更後，應取得中央主管機關認可之專業機構發給檢查合格證明，始得使用；並應每二年更新檢查合格證明。"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "第 9 條",
+      "content": "本辦法自中華民國一百十二年三月二十二日施行。"
+    }
+  ],
+  "definitions": []
+}

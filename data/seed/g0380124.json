@@ -1,0 +1,62 @@
+{
+  "id": "tw-g0380124",
+  "type": "statute",
+  "title": "定期存款質借及中途解約辦法",
+  "title_en": "定期存款質借及中途解約辦法",
+  "short_name": "定期存款質借及中途解約辦法",
+  "status": "in_force",
+  "issued_date": "2001-07-24",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0380124",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞金融監督管理委員會＞銀行目. Articles extracted: 8.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本辦法依銀行法第八條之一之規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "定期存款存單之質借條件如下：\n一、申請質借人限於原存款人。\n二、辦理質借之銀行，限於原開發存單之銀行。\n三、質借期限，照銀行一般貸款之規定期限。但最長不得超過原存單上所約定之到期日。\n四、質借成數由各銀行在存單面額內自行斟酌辦理。\n五、質借利率由各銀行自行斟酌辦理。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "銀行對於以定期存款存單辦理質借之案件，不得再要求另提保證人。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "定期存款到期前中途解約者，應於七日以前通知存款銀行，如未能於七日以前通知存款銀行者，經存款銀行同意後亦得受理。中途解約應將存款全部一次結清。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "定期存款中途解約者，得採存款銀行「牌告利率固定計息」之存款，依單利，按其實際存款期間牌告利率八折計息，或由銀行與存戶依公平原則約定之。\n前項牌告利率，以存入當日之牌告利率為準，但採「牌告利率機動計息」之存款，在實際存款期間內，如遇存款銀行牌告利率調整，應同時改按新牌告利率分段計息。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "金融機構對於違約金之計算方式，除應向消費者明示其內容外，於契約中並應以紅色或粗黑字體標示。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "本辦法發布施行前存入之定期存款之逾期處理，於本辦法施行後，未另訂新約者，仍依發布施行前定期存款中途解約及逾期處理辦法及存款銀行規定辦理。"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "第 8 條",
+      "content": "本辦法自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

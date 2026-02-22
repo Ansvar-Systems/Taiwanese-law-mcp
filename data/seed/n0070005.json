@@ -1,0 +1,50 @@
+{
+  "id": "tw-n0070005",
+  "type": "statute",
+  "title": "勞動檢查員執行職務迴避辦法",
+  "title_en": "勞動檢查員執行職務迴避辦法",
+  "short_name": "勞動檢查員執行職務迴避辦法",
+  "status": "in_force",
+  "issued_date": "2020-04-17",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0070005",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞勞動部＞勞動檢查目. Articles extracted: 6.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本辦法依勞動檢查法第十二條規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "勞動檢查員有下列各款情形之一者，應自行迴避：\n一、投資受檢事業單位達其資本額百分之五以上。\n二、現與或曾與受檢查事業單位事業主或事業經營負責人發生非屬執行檢查職務所致之糾紛，而為訴訟事件之當事人，依情形足認執行職務有偏頗之虞。\n三、本人或其配偶、前配偶、四親等內之血親、三親等內血親之配偶、配偶之三親等內血親或其配偶，或曾有此關係者為受檢查事業單位事業主或事業經營負責人。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "勞動檢查員有下列各款情形之一者．受檢查事業單位之雇主、工會或其他從業人員得於檢查結果通知書送達翌日起三十日內提出異議：\n一、有前條所定之情形而不自行迴避者。\n二、有具體事實，足認其執行職務有偏頗之虞者。\n前項異議，應舉其原因及事實，以書面向勞動檢查機構提出；勞動檢查員就前項異議得提出意見書。\n勞動檢查機構對第一項之異議，應於十日內函復事業單位，並副知其上級主管機關、中央主管機關及該勞動檢查員。\n第一項之異議有理由時，勞動檢查機構應另行指派人員重新實施檢查。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "第二條之規定，於代行檢查員適用之。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "第三條之規定，於代行檢查機構及代行檢查員適用之。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "本辦法自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

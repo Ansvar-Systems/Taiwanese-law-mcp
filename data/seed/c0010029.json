@@ -1,0 +1,44 @@
+{
+  "id": "tw-c0010029",
+  "type": "statute",
+  "title": "法院受理提審聲請之事務分配辦法",
+  "title_en": "法院受理提審聲請之事務分配辦法",
+  "short_name": "法院受理提審聲請之事務分配辦法",
+  "status": "in_force",
+  "issued_date": "2025-09-17",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=C0010029",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 司法＞院本部＞刑事目. Articles extracted: 5.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本辦法依提審法（以下簡稱本法）第四條規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "地方法院受理提審聲請之事務分配，依附表一至附表四之規定。\n前項附表一至附表四未規定者，依聲請提審意旨所述事實之性質定其事務分配；客觀上無法定其性質者，由刑事庭受理之。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本法中華民國一百零三年七月八日修正施行前已繫屬於地方法院之提審聲請案件，於本法修正施行後尚未終結者，由原法官繼續審理。\n本法中華民國一百零三年七月八日修正施行前已繫屬於高等法院或其分院之提審抗告案件，於本法修正施行後尚未終結者，由原法官繼續審理。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "對於本法中華民國一百零三年七月八日修正施行前已由地方法院刑事庭終結之提審案件提起之抗告，由高等法院或其分院刑事庭審理之。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本辦法自中華民國一百零三年七月八日施行。\n本辦法修正條文自發布日施行。但中華民國一百零五年十二月二十七日修正之條文，自一百零六年一月一日施行。"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "tw-j0070039",
+  "type": "statute",
+  "title": "專利資料收費標準",
+  "title_en": "專利資料收費標準",
+  "short_name": "專利資料收費標準",
+  "status": "in_force",
+  "issued_date": "2024-12-03",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0070039",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞經濟部＞智慧財產權目. Articles extracted: 6.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依規費法第十條規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "對申請取得單一年度或多年度之我國專利資料者，應依本標準收費。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "申請取得公告說明書影像、發明公開說明書影像、公告全文、公開全文、發明公開英譯資料、公告新型英譯資料、公告發明英譯資料、專利公報影像、發明公開公報影像、公告文字資料之收費標準如附表。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "我國之專利資料，以儲存於電子媒體、網路傳輸或其他方式提供。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "申請我國專利資料供學術研究或公益用途者，於申請時，應檢附相關證明文件，經核准後，除郵遞費用仍以實支數額計算外，其餘費用，減半收取。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

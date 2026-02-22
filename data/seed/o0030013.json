@@ -1,0 +1,79 @@
+{
+  "id": "tw-o0030013",
+  "type": "statute",
+  "title": "機動車輛噪音管制標準",
+  "title_en": "Motor Vehicle Noise Control Standards",
+  "short_name": "Motor Vehicle Noise Control Standards",
+  "status": "in_force",
+  "issued_date": "2020-12-01",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=O0030013",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞環境部＞大氣環境目. Articles extracted: 4.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依噪音管制法（以下簡稱本法）第十一條第一項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本標準用詞，定義如下：\n一、加速噪音標準值：指車輛於一定路程、一定檔位行駛狀態下，測出之加速噪音量。\n二、原地噪音標準值：指車輛於原地在一定引擎轉速下，測出之原地噪音量。\n三、科學儀器：指中央主管機關依本法第二十條第三項公告之檢驗測定方法所規範之儀器與設備。\n四、新車型審驗：指各車型車輛於製造或進口後，銷售或使用前，對該車型噪音所為之審查檢驗測定。\n五、新車檢驗：指車輛經新車型審驗合格，於其製造或進口達規定之數量時，對其噪音所為之檢驗測定。\n六、使用中車輛檢驗測定：指主管機關不定期於停車場（站）、路旁、柴油車動力計排煙檢測站、港區或其他適當地點，執行車輛噪音原地噪音檢驗測定。\n七、使用中車輛行駛噪音測定：指主管機關以固定或非固定設置方式架設科學儀器，對機動車輛於車道行駛噪音之測定。\n八、功率質量比（Power to Mass Ratio,PMR）：指引擎最大馬力與受測車重之比值，最大馬力（千瓦，kW）／受測車重（公噸，T）。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "機動車輛噪音管制標準值如下：\n一、第一期至第五期機動車輛加速噪音、原地噪音之噪音管制標準值如附表一。\n二、第六期機動車輛加速噪音、原地噪音之噪音管制標準值如附表二。\n三、機動車輛行駛噪音之噪音管制標準值如附表三。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本標準除另定施行日期者外，自發布日施行。"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "加速噪音標準值",
+      "definition": "指車輛於一定路程、一定檔位行駛狀態下，測出之加速噪音量。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "原地噪音標準值",
+      "definition": "指車輛於原地在一定引擎轉速下，測出之原地噪音量。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "科學儀器",
+      "definition": "指中央主管機關依本法第二十條第三項公告之檢驗測定方法所規範之儀器與設備。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "新車型審驗",
+      "definition": "指各車型車輛於製造或進口後，銷售或使用前，對該車型噪音所為之審查檢驗測定。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "新車檢驗",
+      "definition": "指車輛經新車型審驗合格，於其製造或進口達規定之數量時，對其噪音所為之檢驗測定。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "使用中車輛檢驗測定",
+      "definition": "指主管機關不定期於停車場（站）、路旁、柴油車動力計排煙檢測站、港區或其他適當地點，執行車輛噪音原地噪音檢驗測定。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "使用中車輛行駛噪音測定",
+      "definition": "指主管機關以固定或非固定設置方式架設科學儀器，對機動車輛於車道行駛噪音之測定。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "功率質量比（Power to Mass Ratio,PMR）",
+      "definition": "指引擎最大馬力與受測車重之比值，最大馬力（千瓦，kW）／受測車重（公噸，T）。",
+      "source_provision": "art2"
+    }
+  ]
+}

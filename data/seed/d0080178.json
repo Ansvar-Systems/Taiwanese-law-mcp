@@ -1,0 +1,32 @@
+{
+  "id": "tw-d0080178",
+  "type": "statute",
+  "title": "臺北警光會館使用規費收費標準",
+  "title_en": "臺北警光會館使用規費收費標準",
+  "short_name": "臺北警光會館使用規費收費標準",
+  "status": "in_force",
+  "issued_date": "2025-12-29",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0080178",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞內政部＞警政目. Articles extracted: 3.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依規費法第十條第一項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "住宿臺北警光會館之收費數額如下：\n一、二人房：一日新臺幣一千三百元。\n二、三人房：一日新臺幣一千五百元。\n前項所定一日，自住宿當日十五時起，至次日中午十一時止。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

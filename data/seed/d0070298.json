@@ -1,0 +1,38 @@
+{
+  "id": "tw-d0070298",
+  "type": "statute",
+  "title": "都市更新耐震能力不足建築物而有明顯危害公共安全認定辦法",
+  "title_en": "都市更新耐震能力不足建築物而有明顯危害公共安全認定辦法",
+  "short_name": "都市更新耐震能力不足建築物而有明顯危害公共安全認定辦法",
+  "status": "in_force",
+  "issued_date": "2021-11-17",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070298",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞內政部＞國土管理目. Articles extracted: 4.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本辦法依都市更新條例（以下簡稱本條例）第六十五條第八項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本條例第六十五條第八項所定耐震能力不足建築物而有明顯危害公共安全，由直轄市、縣（市）主管機關依建築物所有權人或公寓大廈管理委員會提出建築物結構安全性能評估結果及第三條規定基準認定之。\n前項結構安全性能評估之內容、委託方式及應檢附文件、評估方式、評估報告書、評估機構與其人員之資格及管理事項，依都市危險及老舊建築物結構安全性能評估辦法第二條至第十四條規定辦理。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本條例第六十五條第八項所定耐震能力不足建築物而有明顯危害公共安全之認定基準，為直轄市、縣（市）主管機關依前條第一項建築物結構安全性能評估結果認定符合下列各款規定之一：\n一、ID1 小於 0.35 。\n二、ID2 小於 0.35 。\n        Ac2\nID1 ＝－－－－－，為建築物耐震能力初步評估之定量評估值指標。\n      I×A2500\n        Ac2\nID2 ＝－－－－－，為建築物耐震能力詳細評估之容量需求比指標。\n      I×A2500\nAc2 ：為建築物結構變位達到韌性容量時所對應之有效地表加速度值。\nI ：為建築物耐震設計規範及解說規定之用途係數。\nA2500＝0.4SMS ，SMS 為建築物耐震設計規範及解說規定之工址短週期最\n大水平譜加速度係數。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本辦法自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

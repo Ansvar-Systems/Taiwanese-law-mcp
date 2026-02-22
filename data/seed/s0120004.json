@@ -1,0 +1,50 @@
+{
+  "id": "tw-s0120004",
+  "type": "statute",
+  "title": "復審文書使用收費標準",
+  "title_en": "復審文書使用收費標準",
+  "short_name": "復審文書使用收費標準",
+  "status": "in_force",
+  "issued_date": "2023-03-08",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=S0120004",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 考試＞公務人員保障暨培訓委員會＞保障目    . Articles extracted: 6.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依公務人員保障法（以下簡稱本法）第四十二條第三項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "復審人或其代理人依本法第四十二條第一項或第五十九條第二項規定，向公務人員保障暨培訓委員會（以下簡稱保訓會）請求閱覽、抄錄、影印或攝錄復審事件卷宗內文書或原處分機關提出於保訓會之據以處分證據資料者，每二小時收取使用費新臺幣二十元；不足二小時，以二小時計算。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "復審人或其代理人重製或複製前條之文書資料，依復審文書重製或複製收費標準表（如附表），收取費用。但自備手機、照相機或攝影機等設備，經保訓會同意翻拍或攝影復審文書者，不收取本項費用。\n前項收費標準表未明定之項目，按重製或複製工本費，收取費用。\n重製或複製文書資料，以保訓會現有設備製作提供之。\n重製或複製前條之文書資料，如另需提供郵寄服務，其郵遞費用以實支數額計算。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "再申訴人或其代理人依本法第八十四條、再審議申請人或其代理人依本法第一百零一條，準用同法第四十二條第一項及第五十九條第二項規定請求者，其收費標準，依前二條規定。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本標準所定之費用，其收取應依預算程序辦理。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

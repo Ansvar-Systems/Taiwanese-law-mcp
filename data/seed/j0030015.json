@@ -1,0 +1,62 @@
+{
+  "id": "tw-j0030015",
+  "type": "statute",
+  "title": "電業控制設備裝置規則",
+  "title_en": "電業控制設備裝置規則",
+  "short_name": "電業控制設備裝置規則",
+  "status": "repealed",
+  "issued_date": "2018-04-18",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0030015",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 廢止法規＞經濟部. Articles extracted: 8.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本規則依電業法第三十四條之規定訂定。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本規所稱控制設備，係指由電業所裝置，專供調度或控制電力系統各項裝\n置及維持工作之完全或供電之繼續而設之各種電氣設備及線路。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "控制設備除前修規定外，不得作為他用，並不接接入私人住宅。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "架空控制線路，如裝罝於架空電線路下，其導線間之垂直間隔，不小於左\n表之規定："
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "控制線路與電信線路相交或共架時，其垂直間隔不得小於○‧三公尺。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "控制線路距地面之架設高度，沿路側裝置時，不得小於五公尺；跨越道路\n裝置時，不得小於五‧五公尺，跨超火車軌道時，不得小於六公尺。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "架空控制線路之導線，有與供電線路接觸而發生危險之情形時，應儘量改\n用電纜。"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "第 8 條",
+      "content": "本規則自公布日施行。"
+    }
+  ],
+  "definitions": []
+}

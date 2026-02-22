@@ -1,0 +1,38 @@
+{
+  "id": "tw-l0040018",
+  "type": "statute",
+  "title": "包裝飲用水及盛裝飲用水微生物衛生標準",
+  "title_en": "Sanitation Standard for the Microorganism in Bottled and Packaged Drinking Water",
+  "short_name": "Sanitation Standard for the Microorganism in Bottled and Packaged Drinking Water",
+  "status": "repealed",
+  "issued_date": "2021-06-30",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0040018",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 廢止法規＞衛生福利部. Articles extracted: 4.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依食品安全衛生管理法第十七條規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本標準適用於供人飲用之包裝飲用水及盛裝飲用水。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "微生物限量（僅適用於直接供人飲用之包裝飲用水及盛裝飲用水）：\n┌────────────────┬─────────────┐\n│              項目              │           限量           │\n├────────────────┼─────────────┤\n│          大腸桿菌群            │           陰性           │\n├────────────────┼─────────────┤\n│          糞便性鏈球菌          │           陰性           │\n├────────────────┼─────────────┤\n│          綠膿桿菌              │           陰性           │\n└────────────────┴─────────────┘"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

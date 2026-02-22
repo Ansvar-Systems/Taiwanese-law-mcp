@@ -1,0 +1,50 @@
+{
+  "id": "tw-l0040131",
+  "type": "statute",
+  "title": "加工助劑衛生標準",
+  "title_en": "Sanitation Standard for Processing Aids",
+  "short_name": "Sanitation Standard for Processing Aids",
+  "status": "in_force",
+  "issued_date": "2020-08-11",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0040131",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞衛生福利部＞食品藥物管理目. Articles extracted: 6.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依食品安全衛生管理法第十八條之一規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "（刪除）"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "加工助劑之使用量應以可達使用目的之最小量為原則，並應儘可能於終產品中降低其殘留量，且該殘留量不應對消費者健康造成危害。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "使用附表一之加工助劑應符合該表列載之使用規定。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "附表一列載之加工助劑規格應符合附表二之規定。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

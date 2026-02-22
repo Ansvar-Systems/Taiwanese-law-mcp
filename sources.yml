@@ -14,8 +14,8 @@ sources:
       url: "https://law.moj.gov.tw/Service/Copyright.aspx"
       summary: "Published under Government Website Open Data License v1; reuse is permitted with attribution."
     coverage:
-      scope: "Full official central law corpus from /api/ch/law/json, including article-level Chinese text and English law-name metadata."
-      limitations: "No major known limitations for statute ingestion; subordinate orders are a separate dataset endpoint."
+      scope: "Full official central legislation corpus from /api/ch/law/json and /api/ch/order/json, including article-level Chinese text and English law-name metadata where available."
+      limitations: "No major known limitations for central laws and orders exposed by the OpenAPI."
     languages:
       - "zh"
       - "en"

@@ -1,0 +1,123 @@
+{
+  "id": "tw-j0080058",
+  "type": "statute",
+  "title": "公司登記電子申請及電子送達實施辦法",
+  "title_en": "Regulations Governing the Implementation of Filing Company Registration Applications and Services by Electronic Means",
+  "short_name": "Regulations Governing the Implementation of Filing Company Registration Applicat",
+  "status": "in_force",
+  "issued_date": "2018-11-08",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0080058",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞經濟部＞商業目. Articles extracted: 13.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本辦法依公司法（以下簡稱本法）第二十八條之一第三項及第三百八十七條第二項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本辦法用詞定義如下：\n一、電子申請：指使用中央主管機關所規定之軟硬體資訊設備傳送本法各項登記電子申請文件。\n二、電子申請文件：指公司或其代理人依中央主管機關所規定之本法各項登記電子申請表單所填寫之申請書及其所附之電子檔。\n三、資訊系統：指產生、送出、收受、儲存或其他處理電子形式訊息資料之系統。\n四、電子公文：指主管機關於公司或其代理人申請登記及其相關程序中，以電子方式作成之各式公文書。\n五、電子送達：指主管機關將電子公文傳送至電子公文下載平台，並經公司或其代理人下載該電子公文。\n六、電子公文下載平台：指中央主管機關提供公司或其代理人下載電子公文之資訊系統。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "依本辦法所為之電子申請文件，與書面申請文件有同一效力。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "公司或其代理人為電子申請前，應於中央主管機關所指定之資訊系統，依其網頁所定程序，登錄相關資料並經電子簽章後傳送。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "公司或其代理人為電子申請應使用經中央主管機關認可之電子簽章，並以中央主管機關所指定之軟體、格式、類型及方式傳送電子申請文件。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "公司或其代理人向主管機關為電子申請之提出時間，以中央主管機關之資訊系統記錄之時間為準。\n中央主管機關於資訊系統收受電子申請後，應即將收受時間、申請案號及其他必要訊息以適當方式告知公司或其代理人。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "電子申請文件含有病毒或其他惡意之程式碼者，主管機關應將該電子申請文件予以隔離，不進行解毒相關程序。\n主管機關對前項之電子申請文件，得於一定期間後，逕予銷毀或為其他維護系統安全之措施。\n有前二項之情事者，主管機關應即通知公司或其代理人。"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "第 8 條",
+      "content": "主管機關收受電子申請文件後，應保存收受之原始版本，以供查驗。"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "第 9 條",
+      "content": "中央主管機關之資訊系統故障時，應於其網站或以其他方式公告之。"
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "第 10 條",
+      "content": "主管機關應送達公司或其代理人之公文，得以儲存於電子公文下載平台之電子公文及其附件代之，其與紙本公文送達有同一效力。\n主管機關為電子送達前，應經公司或其代理人同意。"
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "第 11 條",
+      "content": "主管機關於傳送電子公文至電子公文下載平台後，得以電子郵件或其他適當方式通知公司或其代理人至電子公文下載平台下載該電子公文。"
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "第 12 條",
+      "content": "電子送達之時間，以中央主管機關之資訊系統所記錄公司或其代理人下載電子公文之時間為準，並自次日起算法定期間。\n公司或其代理人未於主管機關傳送電子公文至電子公文下載平台後五個工作日內下載電子公文者，主管機關應取下該電子公文，改以紙本公文送達之。"
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "第 13 條",
+      "content": "本辦法自中華民國一百零七年十一月一日施行。"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "電子申請",
+      "definition": "指使用中央主管機關所規定之軟硬體資訊設備傳送本法各項登記電子申請文件。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "電子申請文件",
+      "definition": "指公司或其代理人依中央主管機關所規定之本法各項登記電子申請表單所填寫之申請書及其所附之電子檔。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "資訊系統",
+      "definition": "指產生、送出、收受、儲存或其他處理電子形式訊息資料之系統。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "電子公文",
+      "definition": "指主管機關於公司或其代理人申請登記及其相關程序中，以電子方式作成之各式公文書。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "電子送達",
+      "definition": "指主管機關將電子公文傳送至電子公文下載平台，並經公司或其代理人下載該電子公文。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "電子公文下載平台",
+      "definition": "指中央主管機關提供公司或其代理人下載電子公文之資訊系統。",
+      "source_provision": "art2"
+    }
+  ]
+}

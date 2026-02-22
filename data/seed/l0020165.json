@@ -1,0 +1,62 @@
+{
+  "id": "tw-l0020165",
+  "type": "statute",
+  "title": "醫療機構網際網路資訊管理辦法",
+  "title_en": "醫療機構網際網路資訊管理辦法",
+  "short_name": "醫療機構網際網路資訊管理辦法",
+  "status": "in_force",
+  "issued_date": "2015-11-03",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020165",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞衛生福利部＞醫事目. Articles extracted: 8.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本辦法依醫療法（以下稱本法）第八十五條第三項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本辦法所稱醫療機構網際網路資訊（以下稱網路資訊），指醫療機構透過網際網路，提供之該機構醫療相關資訊。\n前項資訊之內容，除本法第八十五條第一項規定者外，得包括有關該醫療機構之一般資料及人員、設施、服務內容、預約服務、查詢或聯絡方式、醫療或健康知識等資訊。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "醫療機構提供網路資訊，應將其網域名稱、網址或網路工具及網頁內主要可供點閱之項目，報所在地主管機關備查；異動時亦同。\n前項網路資訊內容，除其他醫事法令另有規定外，不得登載其他業者或非同一醫療體系之醫療機構資訊。\n第一項備查之方式，得以電子郵件為之。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "前條網路資訊之首頁，應以明顯文字，聲明禁止任何網際網路服務業者轉錄其網路資訊之內容供人點閱。但以網路搜尋或超連結方式，進入醫療機構之網址（域）直接點閱者，不在此限。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "（刪除）"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "網路資訊內容，應由醫療機構負責其正確性，不得有與事實不符或無法積極證明其為真實之內容。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "網路資訊所載之醫療或健康知識，應標示製作或更新日期，並加註內容來源或主要科學文獻依據。"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "第 8 條",
+      "content": "本辦法自發布後六個月施行。\n本辦法修正條文自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

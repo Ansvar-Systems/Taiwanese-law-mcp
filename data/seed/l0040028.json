@@ -1,0 +1,32 @@
+{
+  "id": "tw-l0040028",
+  "type": "statute",
+  "title": "食品中多氯聯苯限量標準",
+  "title_en": "Standard for the Tolerance of Polychlorinated Biphenyl in Foods",
+  "short_name": "Standard for the Tolerance of Polychlorinated Biphenyl in Foods",
+  "status": "repealed",
+  "issued_date": "2020-12-30",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0040028",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 廢止法規＞衛生福利部. Articles extracted: 3.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依食品衛生管理法第十七條規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "食品中多氯聯苯限量應符合下列標準：\n┌─────────────┬────────┬───────┐\n│類                      別│  限量（ppm）   │備          註│\n├─────────────┼────────┼───────┤\n│鮮乳乳製品                │      0.5       │脂肪基準      │\n├─────────────┼────────┼───────┤\n│肉類                      │      1.0       │脂肪基準      │\n├─────────────┼────────┼───────┤\n│蛋類                      │      0.2       │              │\n├─────────────┼────────┼───────┤\n│遠洋魚介類                │      0.5       │              │\n│近海、沿岸魚介類          │      1.0       │可食部份      │\n│淡水、養殖魚介類          │      1.0       │              │\n├─────────────┼────────┼───────┤\n│嬰幼兒食品                │      0.2       │              │\n├─────────────┼────────┼───────┤\n│紙製食品包裝材料          │      5.0       │              │\n│容器包裝                  │                │              │\n└─────────────┴────────┴───────┘"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

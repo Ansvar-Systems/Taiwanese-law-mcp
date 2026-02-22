@@ -5,7 +5,8 @@
  * Official source:
  *   - Taiwan Laws & Regulations Database OpenAPI
  *   - https://law.moj.gov.tw/api/swagger
- *   - Chinese law dataset: https://law.moj.gov.tw/api/ch/law/json (ZIP)
+ *   - Chinese law dataset:   https://law.moj.gov.tw/api/ch/law/json
+ *   - Chinese order dataset: https://law.moj.gov.tw/api/ch/order/json
  */
 
 import { execFileSync } from 'node:child_process';
@@ -18,6 +19,7 @@ import {
   parseOpenApiLawDataset,
   pcodeFromLawUrl,
   type TargetLawConfig,
+  type OpenApiLawRecord,
 } from './lib/parser.js';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -26,9 +28,29 @@ const __dirname = path.dirname(__filename);
 const SOURCE_DIR = path.resolve(__dirname, '../data/source');
 const SEED_DIR = path.resolve(__dirname, '../data/seed');
 
-const CH_LAW_JSON_ZIP_URL = 'https://law.moj.gov.tw/api/ch/law/json';
-const CH_LAW_ZIP_PATH = path.join(SOURCE_DIR, 'ch-law-json.zip');
-const CH_LAW_JSON_PATH = path.join(SOURCE_DIR, 'ChLaw.json');
+interface DatasetConfig {
+  label: string;
+  url: string;
+  zipPath: string;
+  jsonPath: string;
+  zipEntryName: string;
+}
+
+const LAW_DATASET: DatasetConfig = {
+  label: 'law',
+  url: 'https://law.moj.gov.tw/api/ch/law/json',
+  zipPath: path.join(SOURCE_DIR, 'ch-law-json.zip'),
+  jsonPath: path.join(SOURCE_DIR, 'ChLaw.json'),
+  zipEntryName: 'ChLaw.json',
+};
+
+const ORDER_DATASET: DatasetConfig = {
+  label: 'order',
+  url: 'https://law.moj.gov.tw/api/ch/order/json',
+  zipPath: path.join(SOURCE_DIR, 'ch-order-json.zip'),
+  jsonPath: path.join(SOURCE_DIR, 'ChOrder.json'),
+  zipEntryName: 'ChOrder.json',
+};
 
 const KEY_TARGET_LAWS: TargetLawConfig[] = [
   { id: 'tw-pdpa', pcode: 'I0050021', shortName: 'PDPA', fileName: '01-personal-data-protection.json' },
@@ -69,48 +91,47 @@ function clearSeedDirectory(): void {
   }
 }
 
-function extractJsonFromZip(zipPath: string): string {
-  return execFileSync('unzip', ['-p', zipPath, 'ChLaw.json'], {
+function extractJsonFromZip(zipPath: string, zipEntryName: string): string {
+  return execFileSync('unzip', ['-p', zipPath, zipEntryName], {
     encoding: 'utf8',
-    maxBuffer: 128 * 1024 * 1024,
+    maxBuffer: 1024 * 1024 * 1024,
   });
 }
 
-async function loadOpenApiDataset(skipFetch: boolean): Promise<string> {
+async function loadOpenApiDataset(skipFetch: boolean, config: DatasetConfig): Promise<string> {
   ensureDirectories();
 
-  if (skipFetch && fs.existsSync(CH_LAW_JSON_PATH)) {
-    console.log(`Using cached dataset: ${CH_LAW_JSON_PATH}`);
-    return fs.readFileSync(CH_LAW_JSON_PATH, 'utf8');
+  if (skipFetch && fs.existsSync(config.jsonPath)) {
+    console.log(`Using cached ${config.label} dataset: ${config.jsonPath}`);
+    return fs.readFileSync(config.jsonPath, 'utf8');
   }
 
-  console.log(`Fetching OpenAPI dataset: ${CH_LAW_JSON_ZIP_URL}`);
-  const response = await fetchBinaryWithRateLimit(CH_LAW_JSON_ZIP_URL);
+  console.log(`Fetching ${config.label} dataset: ${config.url}`);
+  const response = await fetchBinaryWithRateLimit(config.url);
   if (response.status !== 200) {
-    throw new Error(`OpenAPI download failed: HTTP ${response.status}`);
+    throw new Error(`OpenAPI download failed (${config.label}): HTTP ${response.status}`);
   }
 
-  fs.writeFileSync(CH_LAW_ZIP_PATH, response.body);
-  console.log(`  Saved ZIP cache: ${CH_LAW_ZIP_PATH} (${(response.body.length / 1024 / 1024).toFixed(1)} MB)`);
+  fs.writeFileSync(config.zipPath, response.body);
+  console.log(`  Saved ZIP cache: ${config.zipPath} (${(response.body.length / 1024 / 1024).toFixed(1)} MB)`);
 
-  const jsonText = extractJsonFromZip(CH_LAW_ZIP_PATH);
-  fs.writeFileSync(CH_LAW_JSON_PATH, jsonText);
-  console.log(`  Extracted JSON: ${CH_LAW_JSON_PATH}`);
+  const jsonText = extractJsonFromZip(config.zipPath, config.zipEntryName);
+  fs.writeFileSync(config.jsonPath, jsonText);
+  console.log(`  Extracted JSON: ${config.jsonPath}`);
 
   return jsonText;
 }
 
-function buildTargets(datasetText: string, fullCorpus: boolean): TargetLawConfig[] {
+function buildTargets(records: OpenApiLawRecord[], fullCorpus: boolean): TargetLawConfig[] {
   if (!fullCorpus) {
     return KEY_TARGET_LAWS;
   }
 
-  const dataset = parseOpenApiLawDataset(datasetText);
   const keyOverrides = new Map(KEY_TARGET_LAWS.map(target => [target.pcode, target]));
   const targets: TargetLawConfig[] = [];
 
-  for (const law of dataset.Laws) {
-    const pcode = pcodeFromLawUrl(law.LawURL ?? '');
+  for (const record of records) {
+    const pcode = pcodeFromLawUrl(record.LawURL ?? '');
     if (!pcode) continue;
 
     const override = keyOverrides.get(pcode);
@@ -119,7 +140,7 @@ function buildTargets(datasetText: string, fullCorpus: boolean): TargetLawConfig
       continue;
     }
 
-    const fallbackShortName = (law.EngLawName?.trim() || law.LawName || pcode).slice(0, 80);
+    const fallbackShortName = (record.EngLawName?.trim() || record.LawName || pcode).slice(0, 80);
     targets.push({
       id: `tw-${pcode.toLowerCase()}`,
       pcode,
@@ -137,18 +158,24 @@ async function main(): Promise<void> {
 
   console.log('Taiwanese Law MCP — Real Data Ingestion');
   console.log('=======================================\n');
-  console.log(`Source: ${CH_LAW_JSON_ZIP_URL}`);
+  console.log(`Source (law):   ${LAW_DATASET.url}`);
+  console.log(`Source (order): ${ORDER_DATASET.url}`);
   if (skipFetch) console.log('Mode: --skip-fetch');
   console.log(`Scope: ${fullCorpus ? 'full-corpus' : 'targeted (10 key laws)'}`);
   console.log('');
 
-  const jsonText = await loadOpenApiDataset(skipFetch);
-  const dataset = parseOpenApiLawDataset(jsonText);
-  const targets = buildTargets(jsonText, fullCorpus);
-  const lawsByPcode = new Map<string, (typeof dataset.Laws)[number]>();
-  for (const law of dataset.Laws) {
-    const pcode = pcodeFromLawUrl(law.LawURL ?? '');
-    if (pcode) lawsByPcode.set(pcode, law);
+  const lawJsonText = await loadOpenApiDataset(skipFetch, LAW_DATASET);
+  const orderJsonText = await loadOpenApiDataset(skipFetch, ORDER_DATASET);
+
+  const lawDataset = parseOpenApiLawDataset(lawJsonText);
+  const orderDataset = parseOpenApiLawDataset(orderJsonText);
+  const mergedRecords = [...lawDataset.Laws, ...orderDataset.Laws];
+
+  const targets = buildTargets(mergedRecords, fullCorpus);
+  const recordsByPcode = new Map<string, OpenApiLawRecord>();
+  for (const record of mergedRecords) {
+    const pcode = pcodeFromLawUrl(record.LawURL ?? '');
+    if (pcode) recordsByPcode.set(pcode, record);
   }
 
   clearSeedDirectory();
@@ -160,14 +187,14 @@ async function main(): Promise<void> {
 
   for (let i = 0; i < targets.length; i++) {
     const target = targets[i];
-    const lawRecord = lawsByPcode.get(target.pcode);
-    if (!lawRecord) {
+    const record = recordsByPcode.get(target.pcode);
+    if (!record) {
       missing.push(target);
       console.log(`  [${i + 1}/${targets.length}] MISSING ${target.pcode} -> ${target.fileName}`);
       continue;
     }
 
-    const seed = parseLawToSeed(lawRecord, target);
+    const seed = parseLawToSeed(record, target);
     const outputPath = path.join(SEED_DIR, target.fileName);
     fs.writeFileSync(outputPath, `${JSON.stringify(seed, null, 2)}\n`);
 
@@ -175,21 +202,24 @@ async function main(): Promise<void> {
     totalDefinitions += seed.definitions.length;
     written++;
 
-    if (!fullCorpus || i < 20 || (i + 1) % 100 === 0 || i === targets.length - 1) {
+    if (!fullCorpus || i < 20 || (i + 1) % 250 === 0 || i === targets.length - 1) {
       console.log(
-        `  [${i + 1}/${targets.length}] ${lawRecord.LawName} (${target.pcode}) -> ${target.fileName} ` +
-        `(${seed.provisions.length} provisions, ${seed.definitions.length} definitions)`
+        `  [${i + 1}/${targets.length}] ${record.LawName} (${target.pcode}) -> ${target.fileName} ` +
+        `(${seed.provisions.length} provisions, ${seed.definitions.length} definitions)`,
       );
     }
   }
 
   console.log('\nIngestion summary');
   console.log('-----------------');
-  console.log(`Dataset update date: ${dataset.UpdateDate}`);
-  console.log(`Seed files written: ${written}/${targets.length}`);
-  console.log(`Total provisions:   ${totalProvisions}`);
-  console.log(`Total definitions:  ${totalDefinitions}`);
-  console.log(`Seed output dir:    ${SEED_DIR}`);
+  console.log(`Law dataset update date:   ${lawDataset.UpdateDate}`);
+  console.log(`Order dataset update date: ${orderDataset.UpdateDate}`);
+  console.log(`Law records loaded:        ${lawDataset.Laws.length}`);
+  console.log(`Order records loaded:      ${orderDataset.Laws.length}`);
+  console.log(`Seed files written:        ${written}/${targets.length}`);
+  console.log(`Total provisions:          ${totalProvisions}`);
+  console.log(`Total definitions:         ${totalDefinitions}`);
+  console.log(`Seed output dir:           ${SEED_DIR}`);
 
   if (missing.length > 0) {
     console.log('\nSkipped laws (not found in source dataset):');

@@ -1,0 +1,44 @@
+{
+  "id": "tw-o0040032",
+  "type": "statute",
+  "title": "臺灣地區沿海水區範圍、水體分類及水質標準",
+  "title_en": "臺灣地區沿海水區範圍、水體分類及水質標準",
+  "short_name": "臺灣地區沿海水區範圍、水體分類及水質標準",
+  "status": "repealed",
+  "issued_date": "2000-08-30",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=O0040032",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 廢止法規＞行政院環境保護署. Articles extracted: 5.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1",
+      "content": "一、確保水資源之清潔，以維護生活環境。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2",
+      "content": "二、水區範圍：臺灣本島及澎湖群島、蘭嶼、綠島等離島，由海岸向外延\n    伸之領海範圍。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3",
+      "content": "三、水體分類：依據海域之最佳用途，涵容能力及水質現況，訂定本區內\n    之海域水體分類如下表："
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "4",
+      "content": "四、水質標準：各類海域之水質標準依本署 74.9.25  衛署環字第五四七\n    三二七號令發布水體分類及水質標準之規定。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "5",
+      "content": "五、目標年：十年。"
+    }
+  ],
+  "definitions": []
+}

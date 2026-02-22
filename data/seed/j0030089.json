@@ -1,0 +1,38 @@
+{
+  "id": "tw-j0030089",
+  "type": "statute",
+  "title": "技師證書及執業執照收費標準",
+  "title_en": "The Fee-charging Standards for Professional Engineers Certificate and License",
+  "short_name": "The Fee-charging Standards for Professional Engineers Certificate and License",
+  "status": "in_force",
+  "issued_date": "2011-09-16",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0030089",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞行政院公共工程委員會＞通用目. Articles extracted: 4.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依技師法第五十六條及規費法第十條第一項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "申請技師證書，應依下列規定繳納證書費：\n一、請領技師證書：每張新臺幣八百元。\n二、補發技師證書：每張新臺幣七百元。\n技師證書記載事項變更申請換發者，依前項第二款規定繳納證書費。\n前二項技師證書之申請，經駁回、不受理或自行申請退件者，已繳納之證書費予以退還。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "申請技師執業執照，應依下列規定繳納執照費：\n一、請領技師執業執照：每張新臺幣一千元。\n二、技師執業執照效期屆滿，申請換發技師執業執照：每張新臺幣一千元。\n三、變更技師執業執照：每張新臺幣一千元。\n四、補發技師執業執照：每張新臺幣七百元。\n技師受停止業務處分期滿、技師執業執照經註銷、廢止或撤銷，於原執照效期內恢復執業，申請技師執業執照，依前項第三款規定繳納執照費；原執照效期屆滿後恢復執業，申請技師執業執照，依前項第二款規定繳納執照費。\n前二項技師執業執照之申請，經駁回、不受理或自行申請退件者，已繳納之執照費予以退還。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

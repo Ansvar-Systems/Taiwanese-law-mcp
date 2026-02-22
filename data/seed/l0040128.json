@@ -1,0 +1,56 @@
+{
+  "id": "tw-l0040128",
+  "type": "statute",
+  "title": "食品安全衛生管理法行政罰行為數認定標準",
+  "title_en": "Criteria for Determining the Number of Administrative Penalty of the Act Governing Food Safety and Sanitation",
+  "short_name": "Criteria for Determining the Number of Administrative Penalty of the Act Governi",
+  "status": "in_force",
+  "issued_date": "2015-06-22",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0040128",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞衛生福利部＞食品藥物管理目. Articles extracted: 7.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依食品安全衛生管理法（以下簡稱本法）第五十五條之一規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "依本法有不得製造、加工、調配、包裝、運送、貯存、販賣、輸入、輸出、作為贈品或公開陳列特定物品之義務而違反者，依下列基準判斷其行為數：\n一、不同日之行為。\n二、不同品項之物品。\n三、不同場所之行為或物品。\n四、受侵害對象之個數。\n五、限期改善之期限。\n六、其他經主管機關認定之事項。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "實施違反本法第二十八條廣告限制規定之行為者，依下列基準判斷其行為數：\n一、不同品項之產品。\n二、不同版本之廣告。\n三、不同刊播媒介之個數。\n四、不同日之刊播。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "判斷前二條之行為數時，應斟酌下列各款情事：\n一、違反之動機及目的。\n二、違反之手段。\n三、違反義務之影響程度。\n四、違反義務所致之所生危害及損害。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "依本法有應作為之義務而不作為，其違法狀態持續者，以主管機關裁處行政罰之行政處分送達行為人時，為一行為。\n前項經主管機關裁處並於行政處分送達後，違反義務人仍不作為者，為另一違反義務之行為。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "依本法有容忍主管機關進入製造、加工、調配、包裝、運送、貯存、販賣場所執行現場查核及抽樣檢驗之義務而規避、妨礙或拒絕者，以同一日相同行政目的之查核或檢驗要求所為規避、妨礙或拒絕，為一行為。依不同法規所為相同內容之查核或檢驗要求，亦同。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

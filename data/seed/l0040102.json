@@ -1,0 +1,44 @@
+{
+  "id": "tw-l0040102",
+  "type": "statute",
+  "title": "食用藻類衛生標準",
+  "title_en": "食用藻類衛生標準",
+  "short_name": "食用藻類衛生標準",
+  "status": "repealed",
+  "issued_date": "2013-08-21",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0040102",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 廢止法規＞衛生福利部. Articles extracted: 5.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1",
+      "content": "一  重金屬：20 ppm  以下 (以 Pb 計) 。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2",
+      "content": "二  砷：2 ppm 以下 (以 As 計) 。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3",
+      "content": "三  總生菌數：每公克五萬個以下。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "4",
+      "content": "四  大腸桿菌群細菌：陰性。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "5",
+      "content": "五  脫鎂葉綠酸鹽 (Pheophorbide) 限量：\n (一) 既存脫鎂葉綠酸鹽：\n      綠藻類 60㎎ ％以下。\n      藍藻類 50㎎ ％以下。\n (二) 總脫鎂葉綠酸鹽：\n      綠藻類 80 ㎎％以下。\n      藍藻類 100㎎％以下。\n       (備註) ：1 食用藻類係指水分 7  ％以下之綠藻及藍藻。\n                2 總脫鎂葉綠酸鹽即既存脫鎂葉綠酸鹽與葉綠素分解酵\n                  素活性度之和。\n                3 重金屬、砷及脫鎂葉綠酸鹽限量均以乾重計。\n                4 原「食用綠藻 (含製品) 衛生標準」自公告日起廢止\n                  。"
+    }
+  ],
+  "definitions": []
+}

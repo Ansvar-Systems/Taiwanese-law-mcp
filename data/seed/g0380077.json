@@ -1,0 +1,44 @@
+{
+  "id": "tw-g0380077",
+  "type": "statute",
+  "title": "金融業接受個人資料查詢閱覽製給複製本之程序及收費標準",
+  "title_en": "金融業接受個人資料查詢閱覽製給複製本之程序及收費標準",
+  "short_name": "金融業接受個人資料查詢閱覽製給複製本之程序及收費標準",
+  "status": "repealed",
+  "issued_date": "2013-04-26",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0380077",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 廢止法規＞金融監督管理委員會. Articles extracted: 5.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依電腦處理個人資料保護法 (以下簡稱本法) 第二十六條第二項及\n本法施行細則第八條第二項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "當事人就其個人資料，向金融業請求查詢，閱覽及製給複製本，應提出身\n分證明文件，並填具申請書，向保有其個人資料之金融業提出申請。\n當事人委託他人代為前項申請時，除填具申請書外，應提出當事人之授權\n書及當事人與受託人之身分證明文件。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "金融業除有下列情形之一者外，不得拒絕當事人查詢、閱覽、製給複製本\n之請求：\n一、依本法施行細則第三十九條規定得不公告事項。\n二、有妨礙職務執行之虞者。\n三、有妨害第三人重大利益之虞者。\n金融業因前項各款情事拒絕當事人查詢、閱覽或製給複製本之申請，應於\n當事人申請後三十日內以書面為之。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "金融業依本法接受當事人查詢或閱覽其個人資料或製給複製本得酌收費用\n，惟以具體反映受理查詢、閱覽及製給複製本之成本為限。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

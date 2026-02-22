@@ -1,0 +1,50 @@
+{
+  "id": "tw-l0030030",
+  "type": "statute",
+  "title": "罕見疾病藥物專案申請辦法",
+  "title_en": "罕見疾病藥物專案申請辦法",
+  "short_name": "罕見疾病藥物專案申請辦法",
+  "status": "in_force",
+  "issued_date": "2000-08-08",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0030030",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞衛生福利部＞食品藥物管理目. Articles extracted: 6.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本辦法依罕見疾病防治及藥物法（以下簡稱本法）第十九條第三項及第二十二條規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "罕見疾病藥物未經查驗登記，或持有許可證者無法供應，或該藥物售價經中央主管機關認定顯不合理時，其製造或輸入得由政府機關、醫療機構、罕見疾病病人與家屬及相關基金會、學會、協會，依本法第十九條第一項規定，專案申請中央主管機關許可。\n非罕見疾病藥物依藥事法規定製造或輸入我國確有困難，且經罕見疾病及藥物審議委員會認定有助於特定疾病之醫療者，準用前項之規定。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "依前條規定專案申請罕見疾病藥物，應填具申請書，並檢附下列資料：\n一、由罕見疾病病患或家屬提出申請者：病患身分證明文件影本、醫療機構出具之診斷證明書或處方、該藥物出產國仿單，或有關之安全或療效資料。\n二、由政府機關、醫療機構及相關基金會、學會、協會提出申請者：病患同意書、醫療機構提出之治療計畫書或出具之診斷證明書、該藥物出產國仿單，或有關之安全或療效資料。\n三、由中央主管機關委託或指定之機關、團體提出申請者：病患同意書、醫療機構提出之治療計畫書或出具之診斷證明書、該藥物出產國仿單，或有關之安全或療效資料。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "中央主管機關應於收受專案申請書件三十日內，完成審查作業，並將審查結果以書面通知申請人。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "專案申請藥物，每次以足供一病患二年之用量為限，並得視實際需要分批辦理。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "本辦法自中華民國八十九年八月九日施行。"
+    }
+  ],
+  "definitions": []
+}

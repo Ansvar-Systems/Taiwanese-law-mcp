@@ -1,0 +1,68 @@
+{
+  "id": "tw-g0350063",
+  "type": "statute",
+  "title": "海關實施假扣押或其他保全措施裁量基準及作業辦法",
+  "title_en": "Regulations Governing the Standards and Implementation of the Provisional Seizure or Other Protective Measures",
+  "short_name": "Regulations Governing the Standards and Implementation of the Provisional Seizur",
+  "status": "in_force",
+  "issued_date": "2017-05-18",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0350063",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞財政部＞關務目. Articles extracted: 9.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本辦法依關稅法第四十八條第三項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "納稅義務人或受處分人應繳關稅、滯納金、滯報費、利息、罰鍰或應追繳之貨價，單計或合計在新臺幣五十萬元以上，且稅款繳納證或處分書送達後尚未取得繳納擔保者，海關應將納稅義務人或受處分人之應繳金額資料鍵入電腦控管。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "海關為保全關稅、滯納金、滯報費、利息、罰鍰或應追繳之貨價需要，得請求稅捐稽徵機關協助提供納稅義務人或受處分人之所得申報、稅籍或其他財產資料。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "納稅義務人或受處分人於稅款繳納證或處分書送達後，應繳金額單計或合計在新臺幣五十萬元以上者，海關得就納稅義務人或受處分人相當於應繳金額部分，聲請法院就其財產實施假扣押或其他保全措施，並免提供擔保。但納稅義務人或受處分人已提供相當擔保者，不在此限。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "前條所稱相當擔保，指除現金外，相當於欠繳應繳關稅、滯納金、滯報費、利息、罰鍰或應追繳之貨價金額之下列擔保：\n一、政府發行之公債。\n二、銀行定期存單。\n三、信用合作社定期存單。\n四、信託投資公司一年以上普通信託憑證。\n五、授信機構之保證。\n六、其他經財政部核准，易於變價及保管，且無產權糾紛之財產。\n前項第一款至第四款及第六款之擔保，應依法設定抵押權或質權於海關。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "經假扣押之財產係前條第一項第一款至第四款所定之擔保者，得以假扣押標的物之全部設定擔保予海關。\n前項擔保金額以票面所載金額為準。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "辦理假扣押或其他保全措施之案件，有下列情形之一者，應撤銷其假扣押或解除各項保全措施：\n一、已提供於應追補金額之相當擔保。\n二、經行政救濟撤銷原處分，或變更原處分後致應追補金額低於第四條規定。\n三、公司組織已依法解散、撤銷或廢止登記，並經合法清算完結，且無剩餘財產可資抵繳欠稅及罰鍰。\n四、已依破產法規定之和解或破產程序分配完結。"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "第 8 條",
+      "content": "海關代徵之稅捐、滯納金、利息或違章罰鍰應實施假扣押或其他保全措施者，準用本辦法有關規定辦理。"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "第 9 條",
+      "content": "本辦法自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "tw-s0080026",
+  "type": "statute",
+  "title": "警察人員執行勤務遭受暴力或意外危害致身心障礙及領有勳章獎章加發退休金標準",
+  "title_en": "警察人員執行勤務遭受暴力或意外危害致身心障礙及領有勳章獎章加發退休金標準",
+  "short_name": "警察人員執行勤務遭受暴力或意外危害致身心障礙及領有勳章獎章加發退休金標準",
+  "status": "in_force",
+  "issued_date": "2022-06-08",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=S0080026",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞內政部＞警政目. Articles extracted: 5.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依警察人員人事條例（以下簡稱本條例）第三十五條第三項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "警察人員執行勤務遭受暴力或意外危害致身心障礙者，依本條例第三十五條第一項第二款規定加發退休金之基準如下：\n一、全失能致全身癱瘓或致日常生活無法自理：加發十五個基數之一次退休金。\n二、全失能且日常生活尚能自理：加發十個基數之一次退休金。\n三、半失能：加發五個基數之一次退休金。\n前項失能等級之認定證明，應由中央衛生主管機關評鑑合格醫院依公教人員保險失能給付標準規定出具之。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "警察人員領有勳章、獎章，依本條例第三十五條第一項第三款規定加發退休金之基準如附表。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "警察人員因同一事由依其他法令領有加發退休金、獎勵金等給與者，不得再依本標準請領加發退休金。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

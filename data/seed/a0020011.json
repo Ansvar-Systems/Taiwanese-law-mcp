@@ -1,0 +1,62 @@
+{
+  "id": "tw-a0020011",
+  "type": "statute",
+  "title": "國民大會聽取總統國情報告並檢討國是提供建言實施辦法",
+  "title_en": "國民大會聽取總統國情報告並檢討國是提供建言實施辦法",
+  "short_name": "國民大會聽取總統國情報告並檢討國是提供建言實施辦法",
+  "status": "in_force",
+  "issued_date": "1998-07-28",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0020011",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 國民大會（憲法國民大會章條文已停止適用）. Articles extracted: 8.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本辦法依憲法增修條文第一條第五項及第八項訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "國民大會集會時，由程序委員會排定日程，聽取總統國情報告，並檢討國是，提供建言。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "國民大會檢討國是，提供建言，於總統國情報告完畢後依議程進行。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "代表檢討國是，提供建言，應於檢討國是提供建言議程開始一日前，在辦公時間內以書面向大會秘書處登記。每一代表之發言時間以五分鐘為原則，並以政黨協商決定發言時段及先後順序。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "代表得於檢討國是，提供建言議程結束後三日內，提出書面建言。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "代表檢討國是，提供建言之發言紀錄，由秘書處整理送建言代表校正後，送請總統參考，並應移送有關機關確實處理並具體答復。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "代表檢討國是，提供建言，除本辦法規定外，適用國民大會議事規則之規定。"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "第 8 條",
+      "content": "本辦法經大會通過後施行，修正時亦同。"
+    }
+  ],
+  "definitions": []
+}

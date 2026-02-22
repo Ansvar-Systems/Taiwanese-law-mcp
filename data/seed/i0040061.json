@@ -1,0 +1,56 @@
+{
+  "id": "tw-i0040061",
+  "type": "statute",
+  "title": "跨國接收受刑人適用累進處遇辦法",
+  "title_en": "跨國接收受刑人適用累進處遇辦法",
+  "short_name": "跨國接收受刑人適用累進處遇辦法",
+  "status": "in_force",
+  "issued_date": "2013-07-23",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0040061",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞法務部＞矯正目. Articles extracted: 7.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本辦法依跨國移交受刑人法第十五條第二項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "跨國接收受刑人累進處遇分數之評定，依本辦法之規定辦理；本辦法未規定者，適用行刑累進處遇條例及其施行細則之規定。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "跨國接收受刑人移交前在移交國受執行之紀錄，應由指揮執行之檢察官於執行指揮書上註明已執行刑期，以供累進處遇分數之換算。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "跨國接收受刑人累進處遇分數換算基準如附表。\n依前項換算基準換算之分數，得依移交國執行期間行狀考核紀錄，酌予增減。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "跨國接收受刑人，依前條累進處遇分數換算基準所得分數，得進列適當之級別。但不得進列二級以上。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "跨國接收受刑人取得換算之累進處遇分數後，應經考核與認定，確具悛悔實據，符合陳報假釋之規定者，得由執行之矯正機關報請法務部核准後，假釋出獄。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "本辦法自中華民國一百零二年七月二十三日施行。"
+    }
+  ],
+  "definitions": []
+}

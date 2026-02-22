@@ -1,0 +1,32 @@
+{
+  "id": "tw-l0040097",
+  "type": "statute",
+  "title": "蛋類衛生標準",
+  "title_en": "蛋類衛生標準",
+  "short_name": "蛋類衛生標準",
+  "status": "repealed",
+  "issued_date": "2019-08-15",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0040097",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 廢止法規＞衛生福利部. Articles extracted: 3.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依食品衛生管理法第十七條規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "蛋類之重金屬含量應符合以下限量：\n┌───┬───────┐\n│重金屬│  限量標準    │\n├───┼───────┤\n│  鉛  │0.3ppm  以下  │\n├───┼───────┤\n│  銅  │5ppm  以下    │\n└───┴───────┘"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

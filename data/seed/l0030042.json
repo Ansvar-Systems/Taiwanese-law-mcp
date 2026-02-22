@@ -1,0 +1,38 @@
+{
+  "id": "tw-l0030042",
+  "type": "statute",
+  "title": "外科手術口罩檢驗收費標準",
+  "title_en": "外科手術口罩檢驗收費標準",
+  "short_name": "外科手術口罩檢驗收費標準",
+  "status": "repealed",
+  "issued_date": "2011-12-30",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0030042",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 廢止法規＞行政院衛生署. Articles extracted: 4.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依規費法第十條規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本標準適用範圍為行政院衛生署藥物食品檢驗局受理之外科手術口罩檢驗\n案件。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "外科手術口罩各檢驗項目之收費標準如下：\n┌───────┬─────────────┬────────┐\n│檢驗項目      │收費標準 (新臺幣元／每件) │備註            │\n├───────┼─────────────┼────────┤\n│抗血液穿透性  │二、四○○                │同廠商同日送驗之│\n├───────┼─────────────┤同批號樣品為一件│\n│細菌過濾效率  │一八、○○○              │。              │\n├───────┼─────────────┤                │\n│壓差測試      │二、五○○                │                │\n├───────┼─────────────┤                │\n│尺寸          │一、○○○                │                │\n├───────┼─────────────┤                │\n│鬆緊帶連接點斷│二、三○○                │                │\n│裂強度測試    │                          │                │\n└───────┴─────────────┴────────┘"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

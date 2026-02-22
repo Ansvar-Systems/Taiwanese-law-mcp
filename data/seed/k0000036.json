@@ -1,0 +1,50 @@
+{
+  "id": "tw-k0000036",
+  "type": "statute",
+  "title": "交通部電信總局各區電信管理局所屬各電信局局等劃分標準",
+  "title_en": "交通部電信總局各區電信管理局所屬各電信局局等劃分標準",
+  "short_name": "交通部電信總局各區電信管理局所屬各電信局局等劃分標準",
+  "status": "repealed",
+  "issued_date": "2007-10-23",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0000036",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 廢止法規＞交通部. Articles extracted: 6.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依交通部電信總局所屬各區電信管理局組織通則第八條規定訂定之\n。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "各等級電信局區分為特等、一等甲級、一等乙級、二等甲級、二等乙級及\n三等電信局。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "各等級電信局之劃分標準，按年度結束時市內電話用戶數為計算標準。地\n區情形特殊或業務特繁者得特定其局等。業務較簡者得酌情由鄰近電信局\n管轄之。\n前項劃分標準依附表之規定。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "各電信局局等之調整，由各區電信管理局依前條標準核算，報電信總局核\n准後實施，並送交通部備查。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "依前條核算應降等之局，得暫維原等級，如其市話用戶數較前一次調整局\n等時，呈正成長時，仍可暫維原局等。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

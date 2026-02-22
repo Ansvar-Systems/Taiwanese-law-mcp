@@ -1,0 +1,56 @@
+{
+  "id": "tw-l0040089",
+  "type": "statute",
+  "title": "食品中真菌毒素限量標準",
+  "title_en": "Sanitation Standard for the Tolerance of Mycotoxins in Foods",
+  "short_name": "Sanitation Standard for the Tolerance of Mycotoxins in Foods",
+  "status": "repealed",
+  "issued_date": "2019-08-15",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0040089",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 廢止法規＞衛生福利部. Articles extracted: 7.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依食品衛生管理法第十七條規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "食品中黃麴毒素（Aflatoxin ）限量應符合下列標準：\n┌────────────┬─────────────────┐\n│食品種類                │總黃麴毒素限量                    │\n│                        │（包括 Aflatoxin B1 ，B2，G1，G2）│\n├────────────┼─────────────────┤\n│花生、玉米              │15 ppb  以下                      │\n├────────────┼─────────────────┤\n│米、高粱、豆類、麥類及  │10 ppb  以下                      │\n│堅果類                  │                                  │\n├────────────┼─────────────────┤\n│食用油脂                │10 ppb  以下                      │\n├────────────┼─────────────────┤\n│鮮乳                    │0.5 ppb 以下（以 M1 計）          │\n├────────────┼─────────────────┤\n│乳粉                    │5.0 ppb 以下（以 M1 計）          │\n├────────────┼─────────────────┤\n│其他食品                │10 ppb  以下                      │\n└────────────┴─────────────────┘"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "食品中赭麴毒素 A（Ochratoxin A）限量應符合下列標準：\n┌────────────┬─────────────────┐\n│食品種類                │赭麴毒素 A  限量                  │\n├────────────┼─────────────────┤\n│米、麥類                │5 ppb 以下                        │\n├────────────┼─────────────────┤\n│烘焙咖啡豆及咖啡粉      │5 ppb 以下                        │\n└────────────┴─────────────────┘"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "食品中棒麴毒素（Patulin ）限量應符合下列標準：\n┌────────────┬─────────────────┐\n│食品種類                │棒麴毒素限量                      │\n├────────────┼─────────────────┤\n│蘋果汁、                │50 ppb  以下                      │\n│含蘋果汁的混合飲料      │                                  │\n└────────────┴─────────────────┘"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "食品中橘黴素（Citrinin）限量應符合下列標準：\n┌────────────┬─────────────────┐\n│食品種類                │橘黴素限量                        │\n├────────────┼─────────────────┤\n│紅麴色素                │200 ppb 以下                      │\n├────────────┼─────────────────┤\n│原料用紅麴米            │5 ppm 以下                        │\n├────────────┼─────────────────┤\n│使用紅麴原料製成之食品  │2 ppm 以下                        │\n└────────────┴─────────────────┘"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "嬰兒食品之真菌毒素限量應符合嬰兒食品類衛生標準之規定。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

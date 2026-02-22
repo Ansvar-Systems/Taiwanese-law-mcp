@@ -1,0 +1,50 @@
+{
+  "id": "tw-g0330031",
+  "type": "statute",
+  "title": "酒盛裝容器衛生標準",
+  "title_en": "Hygiene Standards for Alcohol Products Containers",
+  "short_name": "Hygiene Standards for Alcohol Products Containers",
+  "status": "in_force",
+  "issued_date": "2013-12-04",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0330031",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞財政部＞國庫目. Articles extracted: 6.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依菸酒管理法第二十七條第二項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本標準適用於酒類之盛裝容器，包括其蓋子、蓋墊片、瓶塞等封口裝置。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "酒成品之塑膠製盛裝容器不得回收使用。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "酒盛裝容器不得有不良變色、異臭、異味、污染、發霉、含有異物或纖維剝落。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "酒盛裝容器應符合酒盛裝容器試驗標準表（如附表）規定。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "本標準自中華民國九十七年一月一日施行。\n本標準修正條文自發布日施行。但中華民國一百零二年十二月四日修正之第五條附表，自發布後六個月施行。"
+    }
+  ],
+  "definitions": []
+}

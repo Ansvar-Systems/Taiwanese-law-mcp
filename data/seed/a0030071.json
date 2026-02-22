@@ -1,0 +1,68 @@
+{
+  "id": "tw-a0030071",
+  "type": "statute",
+  "title": "採購申訴審議收費辦法",
+  "title_en": "採購申訴審議收費辦法",
+  "short_name": "採購申訴審議收費辦法",
+  "status": "in_force",
+  "issued_date": "2007-03-13",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030071",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞行政院公共工程委員會＞通用目. Articles extracted: 9.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本辦法依政府採購法（以下簡稱本法）第八十條第四項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "採購申訴審議委員會（以下簡稱申訴會）依本法第六章及第一百零二條規定處理廠商之採購申訴（以下簡稱申訴）事件，依本辦法之規定收費。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "廠商提出申訴時，應繳納審議費。其未繳納者，由申訴會通知限期補繳；逾期未補繳者，不受理其申請。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "前條審議費，每一申訴事件為新臺幣三萬元，由申訴廠商以現金、公庫支票、郵政匯票、金融機構簽發之即期本票、支票或保付支票繳納。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "採購履約爭議事件誤提起申訴，經廠商申請改行調解程序者，廠商已繳納之審議費轉為調解費用，並依採購履約爭議調解收費辦法規定計算，與原繳納金額相抵後，多退少補。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "申訴事件經申訴會為不受理之決議者，免予收費。已繳費者，申訴會無息退還所繳審議費之全額。但已通知預審會議期日者，收取審議費新臺幣五千元。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "鑑定費及其他必要之費用，由申訴會通知當事人繳納。"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "第 8 條",
+      "content": "廠商撤回申訴者，已繳審議費用不予退還。但於第一次預審會議期日前撤回者，無息退還二分之一。\n前條廠商已繳納而尚未發生之鑑定費及其他必要費用，應予退還。"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "第 9 條",
+      "content": "本辦法自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

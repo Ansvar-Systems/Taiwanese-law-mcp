@@ -1,0 +1,67 @@
+{
+  "id": "tw-j0110069",
+  "type": "statute",
+  "title": "水源保育與回饋費補助辦法",
+  "title_en": "水源保育與回饋費補助辦法",
+  "short_name": "水源保育與回饋費補助辦法",
+  "status": "in_force",
+  "issued_date": "2005-08-01",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0110069",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞經濟部＞水利目. Articles extracted: 7.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本辦法依自來水法第十二條之二第一項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本辦法用詞，定義如下：\n一、農業使用：指水權狀或臨時用水執照用水標的記載為農業用水者。\n二、補助對象：指水質水量保護區內取用地面水或地下水之水量供作農業使用，應繳交水源保育與回饋費之繳費人。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "中央主管機關應於每年結束後十日內，將水源保育與回饋費補助說明單送達補助對象。\n補助對象應於收到前項通知十日內填妥實際取用水量送交中央主管機關；逾期未送交者，中央主管機關得以其水權狀或臨時用水執照記載之引用水量為實際取用水量。\n水源保育與回饋費補助說明單格式，由中央主管機關定之。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "補助對象所需補助經費，由中央主管機關及中央農業主管機關編列預算補助之。\n前項補助經費應撥入中央主管機關設置之水資源相關基金。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "補助對象之取用水量、用水標的有異動時，應將異動情形以書面告知中央主管機關；補助對象不再需要取用水量時，亦同。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "補助對象取用水量一部或全部之實際用途，與水權狀或臨時用水執照用水標的記載之農業用水不符，經中央主管機關查明屬實者，該不符之取用水量所應繳交之水源保育與回饋費，不予補助；已予補助者，應予追回。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "本辦法自發布日施行。"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "農業使用",
+      "definition": "指水權狀或臨時用水執照用水標的記載為農業用水者。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "補助對象",
+      "definition": "指水質水量保護區內取用地面水或地下水之水量供作農業使用，應繳交水源保育與回饋費之繳費人。",
+      "source_provision": "art2"
+    }
+  ]
+}

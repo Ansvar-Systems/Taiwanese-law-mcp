@@ -1,0 +1,56 @@
+{
+  "id": "tw-j0020021",
+  "type": "statute",
+  "title": "扣留石油價購辦法",
+  "title_en": "扣留石油價購辦法",
+  "short_name": "扣留石油價購辦法",
+  "status": "in_force",
+  "issued_date": "2011-06-13",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0020021",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞經濟部＞能源目. Articles extracted: 7.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本辦法依石油管理法（以下簡稱本法）第五十二條第二項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "被扣留之石油，有減損之虞或不便保管者，得由主管機關逕送受指定之石油煉製業價購。\n前項石油煉製業之指定，以於被扣留石油所在地附近具有儲油或處理設備者為原則。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "受指定之石油煉製業於價購時應製作收據，載明價購石油之名稱、實際磅秤之價購數量、價購地點及時間，並交付主管機關。\n主管機關執行扣留石油價購，必要時，得請受指定之石油煉製業協助辦理查估丈量、留樣或拍照存證、抽取、運輸並製作收據。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "被扣留石油之價購金額，以受指定石油煉製業產製之燃料油批售價格，扣除貨物稅、營業稅及其他附加於燃料油之稅費後之百分之六十計算。\n前項被扣留石油屬液化石油氣時，其價購金額，以受指定石油煉製業產製供家庭用液化石油氣批售價格之百分之七十計算。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "依前三條規定所得價購金額由主管機關保管，於依本法相關規定沒入確定後，繳交公庫；於被扣留石油應發還時，應將其價金發還所有人、持有人、管理人或其他應得之人。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "執行扣留石油價購之費用由主管機關編列預算支付。\n前項執行費用包括扣留石油價購抽取費、運輸費、化驗費及其他有關之費用。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "本辦法自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

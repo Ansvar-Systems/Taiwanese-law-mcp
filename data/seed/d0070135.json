@@ -1,0 +1,50 @@
+{
+  "id": "tw-d0070135",
+  "type": "statute",
+  "title": "建造執照預審辦法",
+  "title_en": "建造執照預審辦法",
+  "short_name": "建造執照預審辦法",
+  "status": "in_force",
+  "issued_date": "1985-06-26",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070135",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞內政部＞國土管理目. Articles extracted: 6.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本辦法依建築法第三十四條之一第三項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "建築物之起造人或受其委託之設計人於申請建造執照前得填具申請書（如附表一）詳細列明預審事項及理由，繳納審查費，檢附工程圖樣及說明書暨其他有關證明文件向直轄市、縣（市）（局）主管建築機關申請預審。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "直轄市、縣（市）（局）主管建築機關為辦理建造執照申請預審案件，得設建造執照預審小組辦理之。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "建造執照預審小組每月月底開會一次，審理該月二十日前申請預審案件。必要時得加開預審會議為不定期審查。\n直轄市、縣（市）（局）主管建築機關應於預審會議之日起十日內，將審定結果製作審定書（如附表二）通知申請人。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "直轄市、縣（市）（局）主管建築機關對申請建造執照預審案件及審定結果，應予統計、分析、按月彙整呈報中央主管建築機關。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "本辦法自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,197 @@
+{
+  "id": "tw-a0030087",
+  "type": "statute",
+  "title": "檔案電子儲存管理實施辦法",
+  "title_en": "The Implementation Regulation for the Management of Electronic Storage of Records",
+  "short_name": "The Implementation Regulation for the Management of Electronic Storage of Record",
+  "status": "in_force",
+  "issued_date": "2012-09-25",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030087",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞國家發展委員會＞通用目. Articles extracted: 22.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本辦法依檔案法（以下簡稱本法）第九條第一項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本辦法用詞定義如下：\n一、電子儲存：指檔案以電腦或自動化機具等電子設備處理，並予數位化儲存之程序。\n二、原始檔案：指供電子儲存作業處理之檔案。\n三、電子媒體：指電子儲存使用之媒介物，包括磁帶、磁碟（片）、光碟片等媒體。\n四、電子影音檔案：指原始檔案數位化為影像或聲音資料，儲存於電子媒體者。\n五、電子影音檔案正版：指直接由原始檔案進行數位化處理並儲存於電子媒體，而用以保存之影像或聲音資料。\n六、電子影音檔案副版：指電子影音檔案正版經軟體處理後儲存於電子媒體，而用以調閱應用之影像或聲音資料。\n七、確認：指檔案管理機關證明電子影音檔案及其複製品與原始檔案內容相同之程序。\n八、加密：指利用數學演算法或其他方法，將電子影音檔案以亂碼方式處理。\n九、備份：指在原有之技術環境下，複製檔案內容至另一儲存媒體。\n十、轉置：指資訊系統之軟硬體過時或失效，需進行軟硬體格式轉換，以便日後可讀取之作業程序。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "檔案之電子儲存作業，應由管理該檔案機關辦理；必要時，得委外為之。\n前項委外辦理檔案之電子儲存作業，應於管理該檔案機關內或其指定場所為之。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "永久保存檔案與定期保存檔案宜分別儲存於不同之電子媒體。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "辦理檔案電子儲存，應參照文書及檔案管理電腦化作業規範有關規定，採用適當之電子媒體及儲存格式，並宜採唯讀方式儲存之。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "紙質類檔案進行電子儲存前，應整理原始檔案，必要時得予拆卷；有破損者，應即修補，並應注意其順序，且於儲存作業完成後恢復原狀。\n辦理前項電子儲存時，應避免影像之歪斜及跳漏頁。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "攝影類檔案進行電子儲存前，應檢查該照片、微縮片、正片、負片或影片之保存現況；有損壞者，應即修復。\n辦理攝影類檔案電子儲存時，應配戴棉質或尼龍手套，並避免留下指印或刮痕。"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "第 8 條",
+      "content": "錄影（音）帶類檔案進行電子儲存前，應進行檢查；有損壞者，應即修復。\n辦理前項電子儲存時，應將錄影（音）帶之防誤抹孔關閉並倒帶至起點，以避免損及內容。"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "第 9 條",
+      "content": "辦理檔案電子儲存，應注意下列事項：\n一、維持影像及聲音之完整清晰。\n二、避免重複作業造成原始檔案之損害。\n三、有錯誤或缺漏者，應立即補正。"
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "第 10 條",
+      "content": "辦理檔案電子儲存時，管理該檔案機關應檢視並確定其內容與原始檔案完全相同；必要時得採電子簽章方式處理，或加密儲存之。"
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "第 11 條",
+      "content": "檔案經電子儲存後，檔案管理人員應將電子媒體編號及原始檔案處理情形等事項，註記於檔案目錄或提供檢索功能。"
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "第 12 條",
+      "content": "檔案經電子儲存後，應於電子媒體中製作電子說明檔，註記「同原檔案」字樣，並記錄下列事項：\n一、檔案管理機關。\n二、電子媒體編號。\n三、製作完成日期。\n四、電子影音檔案清單。\n電子影音檔案副版，應註記「推定其為真正」字樣。"
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "第 13 條",
+      "content": "電子媒體之外包裝應標示下列事項：\n一、檔案管理機關。\n二、電子媒體編號。\n三、製作完成日期。\n電子媒體儲存之內容屬機密檔案者，其外包裝並應依相關規定標示。"
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "第 14 條",
+      "content": "電子影音檔案正版應製作備份，並分置於不同地點保管之。"
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "第 15 條",
+      "content": "實施檔案電子儲存之機關應定期檢討相關軟硬體設施之有效性，必要時應辦理轉置作業。\n前項轉置作業應注意檔案內容之完整及安全，避免不當之增、刪及抽換。"
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "第 16 條",
+      "content": "各機關更換檔案電子儲存作業相關軟硬體設施時，應先製作備份，避免資料流失。轉置時，亦同。"
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "第 17 條",
+      "content": "實施檔案電子儲存之機關應定期查驗電子媒體；有損壞者，應即修復；無法修復時，應予作廢，重行製作；無法製作時，應於檔案目錄註記。\n前項媒體之作廢方法，準用檔案中央主管機關訂定之機關檔案保存年限及銷毀辦法第十三條規定。"
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "第 18 條",
+      "content": "電子媒體之保存場所，應有適當環境控制及安全管制措施，避免損壞或遺失。\n前項措施應參照檔案中央主管機關訂定之檔案庫房設施基準有關規定辦理。"
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "第 19 條",
+      "content": "電子媒體應依媒體種類分別存放；存放時應依電子媒體編號排列，並製作登錄簿，以備查考應用。"
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "第 20 條",
+      "content": "電子影音檔案及其複製品之確認，應由管理該檔案機關檢查並確定其內容與原始檔案完全相同後，始得視同原檔案或推定其為真正。"
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "第 21 條",
+      "content": "電子影音檔案正版需重行製作者，應依本辦法相關規定辦理。"
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "第 22 條",
+      "content": "本辦法自本法施行之日施行。\n本辦法修正條文自發布日施行。"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "電子儲存",
+      "definition": "指檔案以電腦或自動化機具等電子設備處理，並予數位化儲存之程序。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "原始檔案",
+      "definition": "指供電子儲存作業處理之檔案。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "電子媒體",
+      "definition": "指電子儲存使用之媒介物，包括磁帶、磁碟（片）、光碟片等媒體。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "電子影音檔案",
+      "definition": "指原始檔案數位化為影像或聲音資料，儲存於電子媒體者。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "電子影音檔案正版",
+      "definition": "指直接由原始檔案進行數位化處理並儲存於電子媒體，而用以保存之影像或聲音資料。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "電子影音檔案副版",
+      "definition": "指電子影音檔案正版經軟體處理後儲存於電子媒體，而用以調閱應用之影像或聲音資料。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "確認",
+      "definition": "指檔案管理機關證明電子影音檔案及其複製品與原始檔案內容相同之程序。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "加密",
+      "definition": "指利用數學演算法或其他方法，將電子影音檔案以亂碼方式處理。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "備份",
+      "definition": "指在原有之技術環境下，複製檔案內容至另一儲存媒體。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "轉置",
+      "definition": "指資訊系統之軟硬體過時或失效，需進行軟硬體格式轉換，以便日後可讀取之作業程序。",
+      "source_provision": "art2"
+    }
+  ]
+}

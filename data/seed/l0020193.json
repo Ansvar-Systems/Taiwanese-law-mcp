@@ -1,0 +1,50 @@
+{
+  "id": "tw-l0020193",
+  "type": "statute",
+  "title": "驗光所設置標準",
+  "title_en": "驗光所設置標準",
+  "short_name": "驗光所設置標準",
+  "status": "in_force",
+  "issued_date": "2016-09-20",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020193",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞衛生福利部＞醫事目. Articles extracted: 6.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依驗光人員法第十五條第六項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "驗光所應有明顯區隔之獨立作業場所及出入口，其總樓地板面積，不得小於二十平方公尺。但第五條另有規定者，從其規定。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "驗光所應有下列設施：\n一、驗光室：\n（一）明顯區隔之獨立空間，且不得小於五平方公尺。\n（二）空間之直線距離至少五公尺；採鏡子反射法者，直線距離至少二點五公尺。\n（三）驗光必要設備：\n      1.電腦驗光機或檢影鏡。\n      2.角膜弧度儀或角膜地圖儀。\n      3.鏡片試片組或綜合驗度儀。\n      4.鏡片驗度儀。\n      5.視力表。\n二、等候空間。\n三、執行業務紀錄之保存設施。\n四、手部衛生設備。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "教導低視力者使用輔助器具時，應配置相關必要設備。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "眼鏡公司（商號）內設置之驗光所，其總樓地板面積，不得小於五平方公尺，並設有下列設施、設備：\n一、第三條第一款之驗光室。\n二、等候空間及執行業務紀錄之保存設施，並得與眼鏡公司（商號）共用。\n三、手部衛生設備。\n前項驗光所，不以獨立出入口為限。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

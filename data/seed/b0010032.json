@@ -1,0 +1,50 @@
+{
+  "id": "tw-b0010032",
+  "type": "statute",
+  "title": "民事事件委任非律師為訴訟代理人許可準則",
+  "title_en": "民事事件委任非律師為訴訟代理人許可準則",
+  "short_name": "民事事件委任非律師為訴訟代理人許可準則",
+  "status": "in_force",
+  "issued_date": "2006-09-28",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=B0010032",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 司法＞院本部＞民事目. Articles extracted: 6.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本準則依民事訴訟法第六十八條第三項訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "下列之人，審判長得許可其為訴訟代理人：\n一、大學法律系、所畢業者。\n二、現為中央或地方機關所屬人員，經該機關委任為訴訟代理人者。\n三、現受僱於法人或非法人團體從事法務工作，經該法人或非法人團體委任為訴訟代理人者。\n四、經高考法制、金融法務，或其他以法律科目為主之高等考試及格者。\n五、其他依其釋明堪任該事件之訴訟代理人者。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "當事人委任其配偶、三親等內之血親或二親等內之姻親為訴訟代理人者，審判長得許可之。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "（刪除）"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "訴訟進行中，已許可之訴訟代理人有不適任之情形者，審判長應依民事訴訟法第六十八條第二項規定撤銷其許可。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "本準則自中華民國九十二年九月一日施行。"
+    }
+  ],
+  "definitions": []
+}

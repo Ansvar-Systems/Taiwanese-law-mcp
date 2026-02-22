@@ -1,0 +1,32 @@
+{
+  "id": "tw-j0010048",
+  "type": "statute",
+  "title": "經濟部提供統計資訊收費標準",
+  "title_en": "經濟部提供統計資訊收費標準",
+  "short_name": "經濟部提供統計資訊收費標準",
+  "status": "in_force",
+  "issued_date": "2012-03-30",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0010048",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞經濟部＞處務目. Articles extracted: 3.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依規費法第十條規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "申請批次抄錄各類統計資料者，應依下列資料類別收取規費：\n一、統計結果：按統計項目及其複分類計價，每一項目的子類以新臺幣五百元計算。\n二、廠商名錄：每期每次應繳納基本抄錄費新臺幣五千元，抄錄筆數超過五千家者，每增加一筆加收新臺幣一元。\n前項抄錄作業如需外加程式設計或設備投入者，則依各該費用標準加收百分之二十服務費，服務費不足新臺幣二千元以二千元計算。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

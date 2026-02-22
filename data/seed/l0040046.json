@@ -1,0 +1,20 @@
+{
+  "id": "tw-l0040046",
+  "type": "statute",
+  "title": "食品中多氯聯苯限量暫行標準",
+  "title_en": "食品中多氯聯苯限量暫行標準",
+  "short_name": "食品中多氯聯苯限量暫行標準",
+  "status": "repealed",
+  "issued_date": "2005-08-18",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0040046",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 廢止法規＞行政院衛生署. Articles extracted: 1.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1",
+      "content": "┌─────────┬─────┬───────┐\n│類             別 │限量(ppm) │備          註│\n├─────────┼─────┼───────┤\n│鮮  乳            │   0.5    │脂肪基準      │\n│乳製品            │          │              │\n├─────────┼─────┼───────┤\n│肉  類            │   1.0    │脂肪基準      │\n├─────────┼─────┼───────┤\n│蛋  類            │   0.2    │              │\n├─────────┼─────┼───────┤\n│遠洋魚介類        │   0.5    │              │\n│近海、沿岸魚介類  │   1.0    │可食部份      │\n│淡水、養殖魚介類  │   1.0    │              │\n├─────────┼─────┼───────┤\n│嬰幼兒食品        │   0.2    │              │\n├─────────┼─────┼───────┤\n│紙製食品包裝材料  │   5.0    │              │\n│容器包裝          │          │              │\n└─────────┴─────┴───────┘"
+    }
+  ],
+  "definitions": []
+}

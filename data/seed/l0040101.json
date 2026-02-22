@@ -1,0 +1,32 @@
+{
+  "id": "tw-l0040101",
+  "type": "statute",
+  "title": "冷凍食品類微生物衛生標準",
+  "title_en": "Sanitation Standard for the Microorganism in Frozen Foods",
+  "short_name": "Sanitation Standard for the Microorganism in Frozen Foods",
+  "status": "repealed",
+  "issued_date": "2021-06-30",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0040101",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 廢止法規＞衛生福利部. Articles extracted: 3.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依食品安全衛生管理法第十七條規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "冷凍食品之微生物限量：\n┌────────┬───────┬─────┬─────┐\n│          項目  │生菌數        │大腸桿菌群│大腸桿菌  │\n│     ＼         │（cfu/g）     │（MPN/g） │（MPN/g） │\n│       ＼       │              │          │          │\n│         ＼     │              │          │          │\n│類別       ＼   │              │          │          │\n├────────┼───────┼─────┼─────┤\n│冷凍鮮魚介類（但│              │          │          │\n│冷凍生食用魚介類│三百萬以下    │          │10  以下  │\n│除外）          │              │          │          │\n├────────┼───────┼─────┼─────┤\n│冷凍生食用魚介類│十萬以下      │10  以下  │  陰性    │\n│                │              │          │          │\n├────────┼───────┼─────┼─────┤\n│冷凍水果類      │十萬以下      │          │10  以下  │\n├────────┼───────┼─────┼─────┤\n│                │直接供食者：十│          │10  以下  │\n│                │萬以下        │          │          │\n│                ├───────┤          ├─────┤\n│冷凍蔬菜類      │需加熱調理後始│          │10  以下  │\n│                │得供食者：三百│          │          │\n│                │萬以下        │          │          │\n├────────┼───────┼─────┼─────┤\n│其他不需加熱調理│              │          │          │\n│即可供食之冷凍食│十萬以下      │10  以下  │  陰性    │\n│品類            │              │          │          │\n│                │              │          │          │\n├────────┼───────┼─────┼─────┤\n│                │凍結前已加熱處│          │          │\n│                │理者：十萬以下│10  以下  │  陰性    │\n│其他需加熱調理始│              │          │          │\n│得供食之冷凍食品├───────┼─────┼─────┤\n│類              │凍結前未加熱處│          │          │\n│                │理者：三百萬以│          │50  以下  │\n│                │下            │          │          │\n└────────┴───────┴─────┴─────┘"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

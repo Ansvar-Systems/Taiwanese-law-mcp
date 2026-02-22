@@ -1,0 +1,50 @@
+{
+  "id": "tw-k0000013",
+  "type": "statute",
+  "title": "交通部稽查電臺組織規程",
+  "title_en": "交通部稽查電臺組織規程",
+  "short_name": "交通部稽查電臺組織規程",
+  "status": "in_force",
+  "issued_date": "1969-03-03",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0000013",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞交通部＞組織目. Articles extracted: 6.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "交通部為稽查無線電臺通信，有無違規事件，特設稽查電臺。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "稽查電臺直隸交通部，必要時得授權部屬電信總局指揮。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "稽查電臺之任務如左：\n一、稽查部屬各無線電臺之通信工作。\n二、稽查各專用無線電臺通信工作。\n三、臨時交辦之稽查事項。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "稽查電臺應將稽查所得違規事件，通知其主管單位予以糾正，每月分三旬彙編工作報告表呈核，如遇情節重大者應隨時報部核辦。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "稽查電臺設臺長一人，由本部遴派資深電信人員兼任，主持臺務。工作人員四人至八人，由電信人員中調派。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "本規程自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

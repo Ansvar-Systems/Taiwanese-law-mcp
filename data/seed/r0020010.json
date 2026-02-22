@@ -1,0 +1,44 @@
+{
+  "id": "tw-r0020010",
+  "type": "statute",
+  "title": "考試時遇有空襲警報處理辦法",
+  "title_en": "考試時遇有空襲警報處理辦法",
+  "short_name": "考試時遇有空襲警報處理辦法",
+  "status": "repealed",
+  "issued_date": "1994-04-11",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=R0020010",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 廢止法規＞考選部. Articles extracted: 5.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "考試時遇有空襲警報發生，其試務之處理，依本辦法之規定行之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "各科試題發出後，如發生空襲警報，試卷應立即全部收回，其考試時間不\n足二分之一者，全部另予補考，已超過二分之一者，不再補考。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "前條已超過考試時間二分之一之試卷，應另予標記，以備閱卷給分之參考\n。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "補考應於全部科目依照日程考畢後定期舉行。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本辦法自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "tw-m0060016",
+  "type": "statute",
+  "title": "飼料添加物使用準則",
+  "title_en": "飼料添加物使用準則",
+  "short_name": "飼料添加物使用準則",
+  "status": "in_force",
+  "issued_date": "2015-08-04",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0060016",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞農業部＞畜牧目. Articles extracted: 3.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本準則依飼料管理法第三條之一第三項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "飼料添加物之使用對象、用量、用途及其他應遵行事項如附件。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本準則自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

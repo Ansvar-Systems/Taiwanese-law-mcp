@@ -1,0 +1,128 @@
+{
+  "id": "tw-o0020034",
+  "type": "statute",
+  "title": "移動污染源燃料成分管制標準",
+  "title_en": "Amendment to the Standards for the Composition of Mobile pollution source Fuels",
+  "short_name": "Amendment to the Standards for the Composition of Mobile pollution source Fuels",
+  "status": "in_force",
+  "issued_date": "2020-03-20",
+  "in_force_date": "2024-01-01",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=O0020034",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞環境部＞大氣環境目. Articles extracted: 7.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依空氣污染防制法第三十九條第三項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本標準用詞，定義如下：\n一、汽油成分：指汽油之物理及化學性質，足以影響汽油引擎移動污染源污染排放者，包括苯含量、芳香烴含量、烯烴含量、硫含量、氧含量及蒸氣壓。\n二、柴油成分：指柴油之物理及化學性質，足以影響柴油引擎移動污染源污染排放者，包括硫含量、多環芳香烴含量及十六烷指數。\n三、苯含量：指汽油中含苯之總量。\n四、硫含量：指汽柴油、船舶燃油及航空燃油中含硫及其化合物之總量。\n五、蒸氣壓：指汽油揮發度表示方法之一種，指汽油在攝氏三十七點八度（華氏一百度），蒸氣油料體積比為四比一時之蒸氣壓。\n六、氧含量：指汽油添加之含氧化合物之總含氧量重量百分比，常使用之含氧化合物為甲基第三丁基醚、乙基第三丁基、第三戊甲基醚、異丙醚、乙醇及甲醇等。\n七、芳香烴含量：指汽油中含苯、甲苯、乙苯、二甲苯及 C9 以上之芳香烴化合物之總量。\n八、烯烴含量：指汽油中含烯烴之總量。\n九、十六烷指數：指柴油著火性能表示方法之一種，由密度及蒸餾溫度計算而得，計算方法依中華民國國家標準（ CNS）12016 號或 12761  號規定。\n十、多環芳香烴含量：指柴油中除單環芳香烴以外之總芳香烴含量。\n十一、酒精汽油：指以化石汽油摻配燃料乙醇或直接使用未經摻配化石汽油之變性燃料乙醇為燃料者。\n十二、生質柴油：指以化石柴油摻配脂肪酸甲酯或直接使用未經摻配化石柴油之脂肪酸甲酯為燃料者。\n十三、船舶燃油：指任何船舶引擎、鍋爐或其他燃燒設備所使用之燃料，包括海運輕柴油、海運重柴油、漁業動力用油及燃料油。\n十四、航空燃油：指商用航空器所添加之航空煤油及航空汽油。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "汽油（含 E3 酒精汽油）成分管制標準如下：\n一、中華民國一百零一年一月一日起施行之汽油成分標準，如下表：\n二、中華民國一百零九年七月一日起施行之汽油成分標準，如下表：\n三、中華民國一百十三年一月一日起施行之汽油成分標準，如下表："
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "柴油（含生質柴油）成分管制標準如下：\n一、中華民國一百年七月一日起施行之柴油成分標準，如下表：\n二、中華民國一百零九年七月一日起施行之柴油成分標準，如下表："
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "船舶燃油成分管制標準如下："
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "航空燃油成分管制標準如下："
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "本標準除另定施行日期者外，自發布日施行。"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "汽油成分",
+      "definition": "指汽油之物理及化學性質，足以影響汽油引擎移動污染源污染排放者，包括苯含量、芳香烴含量、烯烴含量、硫含量、氧含量及蒸氣壓。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "柴油成分",
+      "definition": "指柴油之物理及化學性質，足以影響柴油引擎移動污染源污染排放者，包括硫含量、多環芳香烴含量及十六烷指數。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "苯含量",
+      "definition": "指汽油中含苯之總量。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "硫含量",
+      "definition": "指汽柴油、船舶燃油及航空燃油中含硫及其化合物之總量。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "蒸氣壓",
+      "definition": "指汽油揮發度表示方法之一種，指汽油在攝氏三十七點八度（華氏一百度），蒸氣油料體積比為四比一時之蒸氣壓。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "氧含量",
+      "definition": "指汽油添加之含氧化合物之總含氧量重量百分比，常使用之含氧化合物為甲基第三丁基醚、乙基第三丁基、第三戊甲基醚、異丙醚、乙醇及甲醇等。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "芳香烴含量",
+      "definition": "指汽油中含苯、甲苯、乙苯、二甲苯及 C9 以上之芳香烴化合物之總量。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "烯烴含量",
+      "definition": "指汽油中含烯烴之總量。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "十六烷指數",
+      "definition": "指柴油著火性能表示方法之一種，由密度及蒸餾溫度計算而得，計算方法依中華民國國家標準（ CNS）12016 號或 12761 號規定。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "多環芳香烴含量",
+      "definition": "指柴油中除單環芳香烴以外之總芳香烴含量。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "酒精汽油",
+      "definition": "指以化石汽油摻配燃料乙醇或直接使用未經摻配化石汽油之變性燃料乙醇為燃料者。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "生質柴油",
+      "definition": "指以化石柴油摻配脂肪酸甲酯或直接使用未經摻配化石柴油之脂肪酸甲酯為燃料者。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "船舶燃油",
+      "definition": "指任何船舶引擎、鍋爐或其他燃燒設備所使用之燃料，包括海運輕柴油、海運重柴油、漁業動力用油及燃料油。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "航空燃油",
+      "definition": "指商用航空器所添加之航空煤油及航空汽油。",
+      "source_provision": "art2"
+    }
+  ]
+}

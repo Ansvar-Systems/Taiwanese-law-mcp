@@ -1,0 +1,44 @@
+{
+  "id": "tw-l0030089",
+  "type": "statute",
+  "title": "化粧品產品供應來源及流向資料管理辦法",
+  "title_en": "Regulations Governing the Source and the Flow Data of Cosmetic Products",
+  "short_name": "Regulations Governing the Source and the Flow Data of Cosmetic Products",
+  "status": "in_force",
+  "issued_date": "2019-05-22",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0030089",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞衛生福利部＞食品藥物管理目. Articles extracted: 5.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本辦法依化粧品衛生安全管理法（以下簡稱本法）第十一條第二項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "化粧品製造或輸入業者，依本法第十一條第一項規定建立之直接供應來源及流向資料，其範圍、項目及內容如下：\n一、製造或輸入資訊及憑證：\n（一）產品名稱、產品登錄號碼或許可證字號、包裝規格及淨重或容量。\n（二）批號。\n（三）數量。\n（四）輸入之報關日期及進口報單號碼。\n二、流向資訊及憑證：\n（一）供應對象之名稱、地址及聯絡人姓名、電話。\n（二）產品名稱、產品登錄號碼或許可證字號、包裝規格及淨重或容量。\n（三）批號。\n（四）數量。\n（五）交貨日期。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "化粧品販賣業者，依本法第十一條第一項規定建立之直接供應來源及流向資料，其範圍、項目及內容如下：\n一、供應來源資訊及憑證：\n（一）供應者之名稱、地址及聯絡人姓名、電話。\n（二）產品名稱、產品登錄號碼或許可證字號、包裝規格及淨重或容量。\n（三）批號。\n（四）數量。\n（五）收貨日期。\n二、流向資訊及憑證：\n（一）供應對象之名稱、地址及聯絡人姓名、電話。\n（二）產品名稱、產品登錄號碼或許可證字號、包裝規格及淨重或容量。\n（三）批號。\n（四）數量。\n（五）交貨日期。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "化粧品業者應就前二條資料，詳實記錄，並以書面或電子文件建檔，併同憑證保存；其保存期間，自製造、輸入或供應日之次日起至少五年。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本辦法自中華民國一百零八年七月一日施行。"
+    }
+  ],
+  "definitions": []
+}

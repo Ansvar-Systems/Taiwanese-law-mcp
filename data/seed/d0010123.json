@@ -1,0 +1,32 @@
+{
+  "id": "tw-d0010123",
+  "type": "statute",
+  "title": "內政部電信信令人口統計資料收費標準",
+  "title_en": "內政部電信信令人口統計資料收費標準",
+  "short_name": "內政部電信信令人口統計資料收費標準",
+  "status": "in_force",
+  "issued_date": "2022-07-27",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0010123",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞內政部＞處務目. Articles extracted: 3.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依政府資訊公開法第二十二條第二項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "申請內政部電信信令人口統計資料，每單元依下列規定收費：\n一、自然人申請，收取服務費新臺幣五百元及代收權利金新臺幣一千五百元，合計收費新臺幣二千元。\n二、法人申請，收取服務費新臺幣五百元及代收權利金新臺幣九千元，合計收費新臺幣九千五百元。\n前項所稱單元，依下列規定：\n一、最小統計區：指內政部公布之統計區分類系統資料標準之最小統計範圍。\n二、村（里）：指地方行政區域之村或里。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

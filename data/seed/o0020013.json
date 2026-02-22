@@ -1,0 +1,56 @@
+{
+  "id": "tw-o0020013",
+  "type": "statute",
+  "title": "固定污染源空氣污染防制規費收費標準",
+  "title_en": "固定污染源空氣污染防制規費收費標準",
+  "short_name": "固定污染源空氣污染防制規費收費標準",
+  "status": "in_force",
+  "issued_date": "2019-10-07",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=O0020013",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞環境部＞大氣環境目. Articles extracted: 7.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依空氣污染防制法（以下簡稱本法）第九十一條第二項及規費法第十條第一項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "公私場所申請附表之審查項目，應依附表所列費額向審核機關繳納審查費。\n公私場所同時提出數項申請文件者，除附表另有規定外，其應繳納之審查費應分開計算，再合併繳費。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "審核機關受理前條申請，除其他法規另有規定外，應通知公私場所於七日內繳納審查費。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本標準所規定之各項費用繳納後，除有誤繳或溢繳情形，得依規費法相關規定辦理者外，不得以任何理由要求退費或保留。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "依本法申請核發固定污染源設置或操作許可證、燃料使用許可證、易致空氣污染之物質使用許可證時，應繳納證書費新臺幣五百元；申請換發或補發許可證時，亦同。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "本標準所定審核機關，於公私場所依本法規定申請、變更、異動、展延各項許可證或申請其他空氣污染防制審查項目時，除其他法規另有規定外，指直轄市、縣（市）主管機關或中央主管機關委託之機關。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

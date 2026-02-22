@@ -1,0 +1,38 @@
+{
+  "id": "tw-m0100021",
+  "type": "statute",
+  "title": "政府撥款農田水利事業作業基金計算標準",
+  "title_en": "政府撥款農田水利事業作業基金計算標準",
+  "short_name": "政府撥款農田水利事業作業基金計算標準",
+  "status": "in_force",
+  "issued_date": "2020-09-23",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0100021",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞農業部＞農田水利目. Articles extracted: 4.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依農田水利法第二十四條第二項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "主管機關年度預算撥款至農田水利事業作業基金之運作，以農田水利事業區域每公頃補助新臺幣六千元至一萬二千元為原則，並得參考下列因素酌予調整：\n一、灌溉區域變化、操作維護成本及管理需求。\n二、基金年度收支短絀數。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本標準每五年由中央主管機關參照中央主計機關發布之最近一年消費者物價指數較前次調整之前一年消費者物價指數成長率調整之。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本標準自本法施行之日施行。"
+    }
+  ],
+  "definitions": []
+}

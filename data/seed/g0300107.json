@@ -1,0 +1,20 @@
+{
+  "id": "tw-g0300107",
+  "type": "statute",
+  "title": "財政部編制表",
+  "title_en": "財政部編制表",
+  "short_name": "財政部編制表",
+  "status": "in_force",
+  "issued_date": "2013-01-04",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0300107",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞財政部＞組織目. Articles extracted: 1.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1",
+      "content": "編      註：本編制表依據財政部組織法第 7  條訂定，內容請參閱相關\n            圖表附檔。"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "tw-n0060072",
+  "type": "statute",
+  "title": "管制性化學品許可申請收費標準",
+  "title_en": "管制性化學品許可申請收費標準",
+  "short_name": "管制性化學品許可申請收費標準",
+  "status": "in_force",
+  "issued_date": "2020-11-10",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060072",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞勞動部＞職業安全衛生目. Articles extracted: 5.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依職業安全衛生法（以下簡稱本法）第五十三條及規費法第十條第一項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "中央主管機關辦理本法第十四條規定之管制性化學品許可之文件審查及證書核發，應收取規費。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本標準收費項目及其基準如下：\n一、許可申請之審查：審查費新臺幣三千六百元。\n二、許可證書之核發、變更或補發：證書費新臺幣二百元。\n前項第一款之許可申請，涉及變更運作者名稱、負責人、運作場所名稱或地址者，免收取審查費。\n中央主管機關因業務需要，通知運作者換發第一項第二款證書者，免收取審查費及證書費。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "依本標準收取之規費，除規費法第十八條及第十九條規定外，不予退還。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

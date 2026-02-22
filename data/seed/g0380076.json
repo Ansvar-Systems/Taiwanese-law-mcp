@@ -1,0 +1,86 @@
+{
+  "id": "tw-g0380076",
+  "type": "statute",
+  "title": "金融業個人資料檔案安全維護計畫標準",
+  "title_en": "金融業個人資料檔案安全維護計畫標準",
+  "short_name": "金融業個人資料檔案安全維護計畫標準",
+  "status": "repealed",
+  "issued_date": "2014-01-13",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0380076",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 廢止法規＞金融監督管理委員會. Articles extracted: 12.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依據電腦處理個人資料保護法第二十條第五項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "金融業保有個人資料檔案，應依相關法令辦理安全維護事項，其安全維護\n措施並應能達成左列目的：\n一、電腦或自動化機器設備之操作應確保個人資料能正確、合法之處理。\n二、電腦或自動化機器設備之管理應防止外界不當侵入。\n三、程式設計及管理應避免資料遭不當使用。\n四、檔案管理應防止個人資料遭不當存取。\n五、媒體保管及移轉應防止個人資料外洩。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "金融業應建立個人資料檔案稽核制度，並得視需要設置稽核人員，定期或\n不定期稽核個人資料檔案管理情形。\n稽核人員為實施稽核，得調閱有關資料，並請作業人員提供說明。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "金融業應指定專人負責管理電腦或自動化設備，並加強安全防護措施。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "金融業對個人資料檔案之主機、週邊設備及相關設施等電腦設備，應加強\n天然災害及其他意外災害之防護。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "金融業對電腦或自動化設備之操作，應加強管理措施，並應留存操作紀錄\n。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "金融業對電腦程式之新增、更正、刪除應加強管理措施。"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "第 8 條",
+      "content": "金融業對於儲藏個人資料檔案之磁碟、磁帶等媒體，應責成專人管理，並\n建立備援制度。"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "第 9 條",
+      "content": "金融業處理各項個人資料之建檔、更新、更正或刪除，應由專人管理。"
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "第 10 條",
+      "content": "金融業對個人資料之輸出入，均應建立識別碼、通行碼之管理制度；對重\n要之個人資料，並應加設資料存取控制。\n前項識別碼及通行碼，應視其需要經常更新。"
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "第 11 條",
+      "content": "金融業應定期或不定期實施資料安全防護教育訓練及其他必要措施。"
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "第 12 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

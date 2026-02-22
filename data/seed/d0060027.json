@@ -1,0 +1,80 @@
+{
+  "id": "tw-d0060027",
+  "type": "statute",
+  "title": "界標管理辦法",
+  "title_en": "界標管理辦法",
+  "short_name": "界標管理辦法",
+  "status": "in_force",
+  "issued_date": "2025-05-07",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0060027",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞內政部＞地政目. Articles extracted: 11.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本辦法依土地法第四十四條之一第二項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "界標按功能分土地界標及輔助界標。\n前項土地界標指位於土地界址點位者，輔助界標指位於土地經界線上者。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "界標按材料分鋼釘界標、水泥界標及塑膠界標。\n前項鋼釘界標、水泥界標及塑膠界標之規格如附圖。\n前二項界標之材料及規格，直轄市、縣（市）政府得斟酌地籍測量或土地複丈實地狀況調整，並報中央地政機關核定。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "界標應按下列情形埋設之：\n一、位於泥土地面者，埋設塑膠界標或水泥界標。\n二、位於水泥、柏油、硬質地面、建築物或固定工作物者，埋設鋼釘界標。\n實施地籍測量時，除有第七條規定之情形外，直轄市或縣（市）地政機關應按前項各款情形提供適當界標，由土地所有權人或管理人埋設之。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "界標埋設原則如下：\n一、於平坦地者，應沒入與地面平。\n二、於山坡地者，得露出地面十公分。\n三、於建築物或固定工作物者，應沒入建築物或固定工作物。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "直轄市或縣（市）地政機關應儲存界標，列冊管理，並得提供受委託辦理地籍測量業務之測繪業者購買。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "實施地籍測量時，有下列情形之一者，土地所有權人或管理人得不埋設界標：\n一、界址點在建築物、工作物或障礙物內。\n二、界址點在水溝、池沼、河川、行水區域內、懸崖或絕壁邊緣。\n三、以明顯之永久性建築物或固定工作物為界址。"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "第 8 條",
+      "content": "相鄰土地間之界標，土地所有權人或管理人應會同到場之鄰地所有權人或管理人埋設之。"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "第 9 條",
+      "content": "土地所有權人或管理人應對界標妥為維護管理，永久保存，並不得任意移動或毀損。"
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "第 10 條",
+      "content": "辦理地籍調查時，應將實地埋設界標之種類、相關界標間之距離及與附近固定物之關係查註於地籍調查表內。如有第七條所列情形者，應於地籍調查表內註明其原因。\n前項於地籍調查表查註界標與附近固定物之關係，得以現場影像或其他適當測量方法所得成果紀錄為之。"
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "第 11 條",
+      "content": "本辦法自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

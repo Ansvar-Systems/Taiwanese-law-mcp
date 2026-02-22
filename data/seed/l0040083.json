@@ -1,0 +1,56 @@
+{
+  "id": "tw-l0040083",
+  "type": "statute",
+  "title": "農藥殘留容許量標準",
+  "title_en": "Standards for Pesticide Residue Limits in Foods",
+  "short_name": "Standards for Pesticide Residue Limits in Foods",
+  "status": "in_force",
+  "issued_date": "2025-11-26",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0040083",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞衛生福利部＞食品藥物管理目. Articles extracted: 7.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依食品安全衛生管理法第十五條第二項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本標準所稱容許量及實測殘留農藥量，均以市售型態之重量為計算基準。\n殘留農藥之檢驗包括農藥本身及其代謝產物在內。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "動物產品除外之食品中農藥殘留量，應符合農藥殘留容許量標準表及外源性農藥殘留容許量標準表，詳如附表一及附表二。該表中未列者，均不得檢出。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "附表三所列農藥之安全性高，得免訂容許量，毋需檢驗其殘留量。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "農藥主管機關公告禁止使用之農藥，除另有規定外，不得檢出殘留量，其農藥名稱詳如附表四。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "農藥殘留容許量標準表中之作物分類詳如附表五。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "本標準自發布日施行。\n本標準中華民國一百十三年三月二十九日修正發布之第三條附表一、第六條附表五，自一百十三年四月一日施行。"
+    }
+  ],
+  "definitions": []
+}

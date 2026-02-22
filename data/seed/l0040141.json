@@ -1,0 +1,50 @@
+{
+  "id": "tw-l0040141",
+  "type": "statute",
+  "title": "液蛋衛生標準",
+  "title_en": "Sanitation standard forliquid eggs",
+  "short_name": "Sanitation standard forliquid eggs",
+  "status": "repealed",
+  "issued_date": "2021-06-30",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0040141",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 廢止法規＞衛生福利部. Articles extracted: 6.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依食品安全衛生管理法第十七條規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "能使用作為液蛋之殼蛋型態：\n一、蛋殼完整無裂痕。\n二、裂殼蛋：蛋殼受損而蛋殼膜完整，無外在污垢黏附且內容物無洩漏之蛋品。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "破殼蛋不得作為液蛋原料蛋之使用。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "殺菌液蛋不得檢出沙門氏菌。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "未殺菌液蛋之生菌數限量為106CFU／g以下。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "本標準自中華民國一百零九年一月一日施行。"
+    }
+  ],
+  "definitions": []
+}

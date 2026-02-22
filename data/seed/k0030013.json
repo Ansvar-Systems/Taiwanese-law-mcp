@@ -1,0 +1,122 @@
+{
+  "id": "tw-k0030013",
+  "type": "statute",
+  "title": "電線經過鐵路裝置規則",
+  "title_en": "電線經過鐵路裝置規則",
+  "short_name": "電線經過鐵路裝置規則",
+  "status": "repealed",
+  "issued_date": "2015-11-27",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0030013",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 廢止法規＞交通部. Articles extracted: 18.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "電線經過鐵路裝置，依本規則規定。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本規則所稱電線，指供電、電信及其他電線。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "電線須經過鐵路時，應繕具圖說，函請該鐵路管理機構認可後方得施工。\n但國營事業機關之緊急工程，得於通知鐵路管理機構後，即行施工。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "電線跨越軌道，應在站場範圍以外。但工程上確有需要時，得由雙方商定\n之。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "電線跨越鐵路時，不得附掛於鐵路電桿上，並應擇適宜地點，儘量與軌道\n成直角。電線與軌頂間之垂直距離不得小於六公尺。但電壓等級較高者，\n應酌予提高。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "軌道兩旁之電桿板樁、板線等，不得設立於鐵路堤塹坡上，如為填土，應\n距堤腳二公尺以上；如為挖土，應距坡頂水溝二公尺以上。坡頂無水溝者\n，應距塹頂三五公尺以上；如在平道，應距最近鋼軌三．○公尺以上。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "電線跨越鐵路時所用之導線，應為銅線或其他具有同等張力而不易鏽蝕者\n，其截面不得小於附表之規定。供電線所受實際張力，應在導線極限張力\n百分之五十以內。在跨越一段內之導線，不得有接頭或分枝。但壓接頭不\n在此限。"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "第 8 條",
+      "content": "電線不依前條規定裝置時，應於電桿橫擔下裝有接地之護欄或護網。其與\n軌頂間之垂直距離不得小於六公尺。"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "第 9 條",
+      "content": "電線跨越軌道與鐵路所設之電線交叉時，電壓較高之線應站較高地位，其\n兩導線間之最小距離，依架空電信及供電線路平行交叉並置規則之規定。"
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "第 10 條",
+      "content": "電線在鐵路所設較高電壓線之上跨越而過時，其建築強度，至少須與被跨\n越電線之強度相等。"
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "第 11 條",
+      "content": "在跨越鐵路一段線路，其兩端電桿橫擔及礙子須能支持導線總拉力三分之\n一或各導線最強一條之拉力。又電桿強度不足時，可用拉線補足之。"
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "第 12 條",
+      "content": "在跨越鐵路一段內之電桿上，除裝置通常之電線護網護欄外，不得附裝其\n他設備。"
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "第 13 條",
+      "content": "通過軌道下之電纜，應裝於適當之地管內，電纜裝置之頂面，應在鐵路所\n屬地面下至少有一公尺之深度。"
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "第 14 條",
+      "content": "人井 (人孔) 之位置與最近鋼軌間之距離，不得少於三．五公尺。"
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "第 15 條",
+      "content": "在鐵路地段內敷設電線時，一切工程應受該鐵路管理機構之檢查。"
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "第 16 條",
+      "content": "在鐵路地段內敷設電線及一切裝置，每年應會同該鐵路管理機構檢查一次\n，鐵路管理機構如認為有改善之必要時，得隨時以書面通知即時改善之。"
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "第 17 條",
+      "content": "在鐵路地段內敷設電線，如違背本規則之規定，鐵路局得用書面通知拆除\n或改正之。"
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "第 18 條",
+      "content": "本規則自公布日施行。"
+    }
+  ],
+  "definitions": []
+}

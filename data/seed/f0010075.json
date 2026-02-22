@@ -1,0 +1,51 @@
+{
+  "id": "tw-f0010075",
+  "type": "statute",
+  "title": "官兵權益保障會復審文書使用收費標準",
+  "title_en": "官兵權益保障會復審文書使用收費標準",
+  "short_name": "官兵權益保障會復審文書使用收費標準",
+  "status": "in_force",
+  "issued_date": "2025-08-04",
+  "in_force_date": "2025-08-06",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0010075",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞國防部＞人事目. Articles extracted: 6.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依軍人權益事件處理法（以下簡稱本法）第三十四條第五項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "復審人或復審代理人依本法第三十四條第二項規定，向受理復審地方軍事法院官兵權益保障會（以下簡稱權保會）申請閱覽、抄錄、影印或攝錄復審事件卷宗內文書，或原處分機關提出於權保會據以處分之證據資料者，每二小時收取使用費新臺幣二十元；不足二小時，以二小時計算。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "復審人或其代理人重製或複製前條之文書資料，依復審文書重製或複製收費標準表（如附表），收取費用。但自備手機、照相機或攝影機等設備，經權保會同意翻拍或攝影復審文書者，不收取本項費用。\n前項收費標準表未明定之項目，按重製或複製工本費，收取費用。\n重製或複製文書資料，以權保會現有設備製作提供之。\n重製或複製前條之文書資料，如另需提供郵寄服務，其郵遞費用以實支數額計算。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "再申訴人或其代理人依本法第六十八條，準用同法第三十四條第二項規定申請者，其收費標準，依前二條規定。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本標準所定之費用，其收取應依預算程序辦理。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "本標準自本法施行之日施行。"
+    }
+  ],
+  "definitions": []
+}

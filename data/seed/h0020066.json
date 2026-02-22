@@ -1,0 +1,44 @@
+{
+  "id": "tw-h0020066",
+  "type": "statute",
+  "title": "國立編譯館館藏圖書資料複印收費標準",
+  "title_en": "國立編譯館館藏圖書資料複印收費標準",
+  "short_name": "國立編譯館館藏圖書資料複印收費標準",
+  "status": "repealed",
+  "issued_date": "2013-03-15",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0020066",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 廢止法規＞教育部. Articles extracted: 5.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依規費法第十條第一項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "複印館藏圖書資料，收費數額如下：\n一、複印尺寸為 A3 者，黑白每張新臺幣二元，彩色每張新臺幣十二元。\n二、複印尺寸為 B4 （含）以下者，黑白每張新臺幣一點五元，彩色每張\n    新臺幣九元。\n依上項數額結算之總複印費用，採無條件進位至整數。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "依據館際合作組織協定，提供館藏圖書資料複印服務，收費數額如下：\n一、複印尺寸為 A3 者，黑白每張新臺幣三元，彩色每張新臺幣十三元。\n二、複印尺寸為 B4 （含）以下者，黑白每張新臺幣二元，彩色每張新臺\n    幣十元。\n館際合作申請案每件加收手續費新臺幣二十元，郵資以實支數額計算。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "申請複印館藏圖書資料屬規費法第十二條第一款所定辦理業務或教育宣導\n資料者，得免費提供。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

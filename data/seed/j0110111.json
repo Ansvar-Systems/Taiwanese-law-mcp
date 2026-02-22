@@ -1,0 +1,38 @@
+{
+  "id": "tw-j0110111",
+  "type": "statute",
+  "title": "市政公共用水優待辦法",
+  "title_en": "市政公共用水優待辦法",
+  "short_name": "市政公共用水優待辦法",
+  "status": "in_force",
+  "issued_date": "2022-06-21",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0110111",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞經濟部＞水利目. Articles extracted: 4.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本辦法依自來水法第六十七條規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本辦法所稱市政公共用水，指自來水法施行細則第十條第二項所列之用水。\n前項市政公共用水，由用戶按自來水事業營業章程所定方式向自來水事業申請用水優待；市政公共用水屬防疫用水者，用戶應自中央流行疫情指揮中心成立日起至解散後三十日之期間內提出申請。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "市政公共用水之水費，減收百分之五十。\n前項市政公共用水屬防疫用水者，每一水號每月減收水費上限為新臺幣一萬元。但有大量防疫用水事實並經主管機關認定者，不在此限。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本辦法自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

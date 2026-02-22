@@ -1,0 +1,38 @@
+{
+  "id": "tw-l0040094",
+  "type": "statute",
+  "title": "食品藥物化粧品檢驗封緘及對照標準品供應收費標準",
+  "title_en": "Fee-Charging Standards for Lot Release, Reference Materials, and Testing of Foods, Drugs and Cosmetics",
+  "short_name": "Fee-Charging Standards for Lot Release, Reference Materials, and Testing of Food",
+  "status": "in_force",
+  "issued_date": "2024-07-11",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0040094",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞衛生福利部＞食品藥物管理目. Articles extracted: 4.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依食品安全衛生管理法第五十八條、藥事法第一百零四條之二第二項、醫療器材管理法第七十六條第二項、化粧品衛生安全管理法第三十條及規費法第十條規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本標準收費項目及收費數額如附表。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "基於人道、救濟並鼓勵善舉，有關國際組織、國家或廠商捐贈生物製劑（附表編號D類）供為無償使用，經中央主管機關核准者，得免繳納檢驗費及封緘費。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

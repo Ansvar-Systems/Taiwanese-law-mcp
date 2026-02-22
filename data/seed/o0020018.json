@@ -1,0 +1,112 @@
+{
+  "id": "tw-o0020018",
+  "type": "statute",
+  "title": "玻璃業空氣污染物排放標準",
+  "title_en": "玻璃業空氣污染物排放標準",
+  "short_name": "玻璃業空氣污染物排放標準",
+  "status": "in_force",
+  "issued_date": "2014-11-14",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=O0020018",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞環境部＞大氣環境目. Articles extracted: 7.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依空氣污染防制法第二十條第二項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本標準適用於平板玻璃、玻璃纖維、容器玻璃、玻璃基板、影像管、光學、色版、燈罩、電器用玻璃、水玻璃、玻璃釉料及其他玻璃製造用熔融爐。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本標準用詞及符號，定義如下：\n一、新設熔融爐：指自中華民國一百零三年十一月十四日起設立之熔融爐。\n二、既存熔融爐：指中華民國一百零三年十一月十四日前已完成建造、建造中、完成工程招標程序或未經招標程序已訂立工程施作契約之熔融爐。但既存熔融爐符合固定污染源設置與操作許可證管理辦法第三條規定之變更條件者，以新設熔融爐論。\n三、純氧助燃：指助燃氣體含氧量大於或等於百分之九十之燃燒方式。\n四、富氧分段燃燒：指降低熔融爐內第一階段燃燒進氣量，並在熔融爐後端通入富氧空氣，完成第二階段完全燃燒之分段燃燒方式。\n五、熔融玻璃量：指由熔融爐生產之熔融量、抽絲設備之生產量或其他經主管機關認可之替代計量方式。\n六、C ：經校正或依法令不需校正之污染物排放濃度，單位為 ppm  或 mg/Nm3 。\n七、Cs：依中央主管機關所定測定方法測得之污染物排放濃度，單位為 ppm 或 mg/Nm3 。\n八、Os：排氣中含氧百分率之實測值，單位為％，如超過百分之二十，則以百分之二十計算之。\n九、EF：熔融爐生產每公噸熔融玻璃量之氮氧化物排放量，單位為公斤／公噸（kg/ton）。\n十、Eh：檢測期間之氮氧化物排放量，單位為公斤／小時（kg/hr） 。\n十一、As：檢測期間之熔融爐生產熔融玻璃量，單位為公噸／小時（ton/hr）。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "玻璃業空氣污染物排放標準規定值如附表。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本標準各種污染物之濃度計算，均以凱氏溫度二百七十三度及一大氣壓下未經稀釋之乾燥排氣體積為計算基準，除使用電力、純氧助燃及富氧分段燃燒者以未經稀釋之排氣含氧實測值為參考基準外，並以排氣含氧量百分之十五為參考基準。\n空氣污染物濃度依下列公式計算校正之：\n    21-15\nC＝————‧Cs\n    21-Os\n使用電力、純氧助燃及富氧分段燃燒者，氮氧化物排放標準依下列公式計算之：\n    Eh\nEF＝—\n    As"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "二以上既存熔融爐合由同一排放管道排放空氣污染物，任一既存熔融爐屬純氧助燃者，其氮氧化物排放適用純氧助燃之排放標準。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "本標準除另定施行日期者外，自發布日施行。"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "新設熔融爐",
+      "definition": "指自中華民國一百零三年十一月十四日起設立之熔融爐。",
+      "source_provision": "art3"
+    },
+    {
+      "term": "既存熔融爐",
+      "definition": "指中華民國一百零三年十一月十四日前已完成建造、建造中、完成工程招標程序或未經招標程序已訂立工程施作契約之熔融爐。但既存熔融爐符合固定污染源設置與操作許可證管理辦法第三條規定之變更條件者，以新設熔融爐論。",
+      "source_provision": "art3"
+    },
+    {
+      "term": "純氧助燃",
+      "definition": "指助燃氣體含氧量大於或等於百分之九十之燃燒方式。",
+      "source_provision": "art3"
+    },
+    {
+      "term": "富氧分段燃燒",
+      "definition": "指降低熔融爐內第一階段燃燒進氣量，並在熔融爐後端通入富氧空氣，完成第二階段完全燃燒之分段燃燒方式。",
+      "source_provision": "art3"
+    },
+    {
+      "term": "熔融玻璃量",
+      "definition": "指由熔融爐生產之熔融量、抽絲設備之生產量或其他經主管機關認可之替代計量方式。",
+      "source_provision": "art3"
+    },
+    {
+      "term": "C",
+      "definition": "經校正或依法令不需校正之污染物排放濃度，單位為 ppm 或 mg/Nm3 。",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Cs",
+      "definition": "依中央主管機關所定測定方法測得之污染物排放濃度，單位為 ppm 或 mg/Nm3 。",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Os",
+      "definition": "排氣中含氧百分率之實測值，單位為％，如超過百分之二十，則以百分之二十計算之。",
+      "source_provision": "art3"
+    },
+    {
+      "term": "EF",
+      "definition": "熔融爐生產每公噸熔融玻璃量之氮氧化物排放量，單位為公斤／公噸（kg/ton）。",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Eh",
+      "definition": "檢測期間之氮氧化物排放量，單位為公斤／小時（kg/hr） 。",
+      "source_provision": "art3"
+    },
+    {
+      "term": "As",
+      "definition": "檢測期間之熔融爐生產熔融玻璃量，單位為公噸／小時（ton/hr）。",
+      "source_provision": "art3"
+    }
+  ]
+}

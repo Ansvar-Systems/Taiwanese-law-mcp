@@ -1,0 +1,50 @@
+{
+  "id": "tw-g0440001",
+  "type": "statute",
+  "title": "中央銀行發行新臺幣辦法",
+  "title_en": "Regulations Governing the Issuance of New Taiwan Dollars by the Central Bank of China",
+  "short_name": "Regulations Governing the Issuance of New Taiwan Dollars by the Central Bank of ",
+  "status": "in_force",
+  "issued_date": "2000-01-26",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0440001",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞中央銀行＞發行目. Articles extracted: 6.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "中央銀行（以下簡稱本行）為依中央銀行法第十三條第一項規定發行中華民國貨幣，特訂定本辦法。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "中華民國貨幣為新臺幣，除適用中央銀行法關於國幣之規定外，依本辦法之規定。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本行於必要時，得委託適當之銀行經理新臺幣發行業務相關事宜；其辦法，由本行定之。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "凡持有新臺幣者，得依政府公布之外匯管理法令結購外匯。其攜帶入出國之限額，由本行訂定並公告之。超過限額者，應向本行申請核准，持憑查驗放行。\n新臺幣不得以郵件寄送入出國。但經本行專案核准寄送者，不在此限。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "新臺幣不得偽造、變造、故意毀損，亦不得仿造或販賣、公開陳列其仿造品；其硬幣並不得意圖營利予以銷毀。違者，依妨害國幣及其他有關規定處罰。\n違反第四條對攜帶及寄送新臺幣入出國之規定者，其超額攜帶及違禁寄送部分，應予退運。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "本辦法自中華民國八十九年七月一日施行。"
+    }
+  ],
+  "definitions": []
+}

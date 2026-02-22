@@ -1,0 +1,44 @@
+{
+  "id": "tw-l0020257",
+  "type": "statute",
+  "title": "申請再生醫療及刊播廣告審查費收費標準",
+  "title_en": "申請再生醫療及刊播廣告審查費收費標準",
+  "short_name": "申請再生醫療及刊播廣告審查費收費標準",
+  "status": "amended",
+  "issued_date": "2025-12-11",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020257",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞衛生福利部＞醫事目. Articles extracted: 5.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依規費法第十條第一項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "醫療機構依再生醫療技術及指定製劑管理辦法，向中央主管機關申請執行再生醫療技術者，每一申請案應繳納之審查費如下：\n一、申請核准：新臺幣八萬元。\n二、申請展延：新臺幣八萬元。\n三、申請變更：新臺幣四萬元。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "醫療機構依再生醫療技術及指定製劑管理辦法，向中央主管機關申請使用指定再生製劑者，每類申請案應繳納之審查費如下：\n一、申請核准：新臺幣三千元。\n二、申請展延：新臺幣三千元。\n三、申請變更：新臺幣一千元。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "醫療機構、細胞保存庫設置機構及受中央主管機關委託之機構，依再生醫療廣告及招募廣告刊播辦法，向中央主管機關申請再生醫療廣告及招募廣告刊播者，每一申請案應繳納之審查費如下：\n一、申請核准：新臺幣二萬元。\n二、申請展延：新臺幣五千元。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本標準自再生醫療法施行之日施行。"
+    }
+  ],
+  "definitions": []
+}

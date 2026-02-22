@@ -1,0 +1,50 @@
+{
+  "id": "tw-m0040044",
+  "type": "statute",
+  "title": "森林火災潛勢資料公開辦法",
+  "title_en": "森林火災潛勢資料公開辦法",
+  "short_name": "森林火災潛勢資料公開辦法",
+  "status": "in_force",
+  "issued_date": "2026-01-30",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0040044",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞農業部＞林業及自然保育目. Articles extracted: 6.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本辦法依災害防救法第二十二條第四項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本辦法所稱森林火災潛勢資料，指依森林區域內之氣象、地形、植被、災害紀錄及其他相關基本資料，分析模擬區域內各處災害潛勢，劃分成不同等級之預警資料。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "前條基本資料由農業部（以下簡稱本部）洽請下列各目的事業主管機關提供或更新：\n一、氣象：交通部。\n二、地形：內政部。\n三、災害紀錄及其他相關基本資料：各中央有關機關、直轄市或縣（市）政府。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "依本辦法公開之森林火災潛勢資料種類如下：\n一、森林區域燃料型。\n二、森林火災頻度。\n三、森林火災潛勢區域圖資。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本部接獲第三條基本資料後，應予彙整分析，必要時應實地調查分析或專案委託研究，並邀請專家學者及有關機關進行審查；審查通過後，建置森林火災潛勢資料庫，適時更新並依法公開。\n森林火災潛勢資料公開後，本部視森林火災實際發生情形及影響程度，依前項規定審查後，進行資料庫之維護或更新。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "本辦法自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

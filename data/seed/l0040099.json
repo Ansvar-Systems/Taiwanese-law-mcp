@@ -1,0 +1,50 @@
+{
+  "id": "tw-l0040099",
+  "type": "statute",
+  "title": "食用油脂類衛生標準",
+  "title_en": "食用油脂類衛生標準",
+  "short_name": "食用油脂類衛生標準",
+  "status": "repealed",
+  "issued_date": "2019-08-15",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0040099",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 廢止法規＞衛生福利部. Articles extracted: 6.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依食品衛生管理法第十七條規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "重金屬及芥酸之最大容許量：\n┌──────┬────────┐\n│種        類│  最大容許量    │\n├──────┼────────┤\n│    銅      │    0.4 ppm     │\n├──────┼────────┤\n│    汞      │    0.05 ppm    │\n├──────┼────────┤\n│    砷      │    0.1 ppm     │\n├──────┼────────┤\n│    鉛      │    0.1 ppm     │\n├──────┼────────┤\n│  芥  酸    │    5.0 ％      │\n└──────┴────────┘"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "添加油脂之食品，其芥酸含量應為該食品中油脂含量之 5.0％以下。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "使用食品添加物時，應符合食品添加物使用範圍及限量之規定。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "食用油脂之黃麴毒素限量應符合食品中黃麴毒素限量標準之規定。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

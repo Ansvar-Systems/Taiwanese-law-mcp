@@ -1,0 +1,44 @@
+{
+  "id": "tw-o0020043",
+  "type": "statute",
+  "title": "移動污染源違反空氣污染防制法裁罰準則",
+  "title_en": "移動污染源違反空氣污染防制法裁罰準則",
+  "short_name": "移動污染源違反空氣污染防制法裁罰準則",
+  "status": "in_force",
+  "issued_date": "2024-10-28",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=O0020043",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞環境部＞大氣環境目. Articles extracted: 5.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本準則依空氣污染防制法（以下簡稱本法）第八十五條第二項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "主管機關對違反本法之行為，其裁量罰鍰額度除依附表一及附表二規定辦理外，並應審酌違反本法上義務行為應受責難程度、所生影響，並得考量受處罰者之資力。\n前項罰鍰額度計算公式如下：\n罰鍰額度＝A x B x（1+C）x罰鍰下限\n前項公式符號定義如下：\n（一）A：指移動污染源類型。\n（二）B：指違規情節。\n（三）C：指得加重或減輕裁罰事項。屬得加重裁罰事項之C為正值；屬得減輕裁罰事項之C為負值。\n第二項罰鍰額度之計算取至新臺幣元，小數點後無條件捨去。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "依前條規定計算應處罰鍰額度逾法定罰鍰額度上限者，以該法定罰鍰額度上限裁處之；低於該法定罰鍰額度下限者，以該法定罰鍰額度下限裁處之。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本準則汽車之類型，依道路交通安全規則之規定。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本準則自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

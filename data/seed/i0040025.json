@@ -1,0 +1,68 @@
+{
+  "id": "tw-i0040025",
+  "type": "statute",
+  "title": "感化教育作業規則",
+  "title_en": "感化教育作業規則",
+  "short_name": "感化教育作業規則",
+  "status": "in_force",
+  "issued_date": "1973-04-06",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0040025",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞法務部＞矯正目. Articles extracted: 9.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本規則依保安處分執行法第四十五條第二項之規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "感化教育作業，應斟酌受處分人之處分期間、興趣、健康、知識、技能及出院後之謀生需要定之。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "受處分人之作業時間，應依保安處分執行法第三十七條第二項之規定酌定之。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "停止作業日如左：\n一、例假日。\n二、直系血親尊親屬及配偶之喪期。\n三、其他認為必要時。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "作業收入除作業支出外，如有盈餘，以百分之四十充作勞作金，百分之二十充作全院學生福利，百分之二十充作作業基金，百分之二十充作獎勵之用。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "受處分人之作業成績特別優良者，除給與勞作金外，得酌給獎金。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "受處分人因作業受傷罹病或致死亡者，酌給撫慰金，其辦法另定之。"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "第 8 條",
+      "content": "受處分人死亡時，其勞作金或撫慰金，應交付本人之最近親屬。"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "第 9 條",
+      "content": "本規則自發布之日施行。"
+    }
+  ],
+  "definitions": []
+}

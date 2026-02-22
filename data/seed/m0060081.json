@@ -1,0 +1,91 @@
+{
+  "id": "tw-m0060081",
+  "type": "statute",
+  "title": "寵物食品病原微生物與有害健康物質種類及安全容許量標準",
+  "title_en": "Standards for types and tolerance levels of pathogenic microorganisms and health-hazard materials in pet food",
+  "short_name": "Standards for types and tolerance levels of pathogenic microorganisms and health",
+  "status": "in_force",
+  "issued_date": "2025-04-24",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0060081",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞農業部＞動物保護目. Articles extracted: 11.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依動物保護法第二十二條之四第二項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本標準用詞，定義如下：\n一、黃麴毒素含量：指B1、B2、G1及G2含量總合。\n二、ppm：指每公斤所含毫克數。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "寵物食品不得含有下列病原微生物：\n一、沙門氏菌（Salmonella）\n二、李斯特菌（Listeria monocytogenes）\n三、致病性大腸桿菌（Pathogenic Escherichia coli）\n四、產氣莢膜梭菌（Clostridium perfringens）"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "寵物食品之黴菌毒素含量不得超過下列基準：\n一、黃麴毒素：0.02 ppm。\n二、嘔吐毒素：\n（一）2 ppm（犬用）。\n（二）5 ppm（貓用）。\n三、伏馬毒素：5 ppm。\n四、玉米赤霉烯酮：0.2 ppm。\n五、赭麴毒素：0.01 ppm。\n六、T2毒素：0.05 ppm（貓用）。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "寵物食品之重金屬含量不得超過下列基準：\n一、砷：\n（一）含有水產動物或藻類及其產品者，於百分之十二含水率時：無機砷2ppm，總砷10 ppm。\n（二）未含前目產品者：總砷2 ppm。\n二、鎘：2 ppm。\n三、鉛：5 ppm。\n四、汞：0.3 ppm。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "寵物食品之農藥殘留含量不得超過下列基準：\n一、阿特靈及地特靈（Aldrin and Dieldrin） ：0.01 ppm。\n二、蟲必死（BHC） ：0.01 ppm。\n三、滴滴涕（DDT） ：0.1  ppm。\n四、安特靈（Endrin）：0.01 ppm。\n五、飛佈達（Heptachlor）：0.01 ppm。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "寵物食品之保存劑及抗氧化劑含量不得超過下列基準：\n一、衣索金（Ethoxyquin）、丁羥甲苯（Butylated hydroxytol-uene, BHT）及丁羥甲醚（Bu-tylatedhydroxyanisole,BHA）含量總和：150ppm，且衣索金不得超過 75  ppm。\n二、亞硝酸鈉：100  ppm。"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "第 8 條",
+      "content": "寵物食品之有害化學物質含量不得超過下列基準：\n一、三聚氰胺：2.5  ppm。\n二、丙二醇：貓用之寵物食品不得檢出。"
+    },
+    {
+      "provision_ref": "art8-1",
+      "section": "8-1",
+      "title": "第 8-1 條",
+      "content": "寵物食品之銫一三四與銫一三七之輻射量總和（Cs-134+Cs-137） 不得超過每公斤六百貝克（600Bq/kg）。"
+    },
+    {
+      "provision_ref": "art8-2",
+      "section": "8-2",
+      "title": "第 8-2 條",
+      "content": "本標準中華民國一百十四年四月二十四日修正發布之第四條及第五條規定，適用於一百十四年四月二十六日以後產製之寵物食品。"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "第 9 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "黃麴毒素含量",
+      "definition": "指B1、B2、G1及G2含量總合。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "ppm",
+      "definition": "指每公斤所含毫克數。",
+      "source_provision": "art2"
+    }
+  ]
+}

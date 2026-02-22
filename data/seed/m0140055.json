@@ -1,0 +1,44 @@
+{
+  "id": "tw-m0140055",
+  "type": "statute",
+  "title": "植物診療機構設置標準",
+  "title_en": "植物診療機構設置標準",
+  "short_name": "植物診療機構設置標準",
+  "status": "in_force",
+  "issued_date": "2025-04-18",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0140055",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞農業部＞動植物防檢疫目. Articles extracted: 5.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依植物診療師法第十九條第二項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "植物診療機構設置應符合土地法及建築法相關規定，且應為獨立空間，並與住家或其他非診療相關設施之空間區隔。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "植物診療機構應設置符合下列規定之設施、設備：\n一、診療室：\n（一）診療台，應採用滅菌或消毒之材質。\n（二）保存診療紀錄之設備：應具備電腦、列印及備份設備，並配置具備防範資料洩漏之適當安全防護系統、措施或加密機制。\n二、檢驗室：\n（一）顯微鏡檢查設備。\n（二）診斷鑑定設備。\n（三）無菌操作台。\n（四）滅菌消毒設備。\n植物診療機構得視業務需要，於前項第二款之檢驗室設置下列設備：\n一、農業資材、器械存放設備。\n二、昆蟲飼養設備。\n三、恆溫箱或植物生長箱。\n四、試驗藥品或生物檢體保存設備。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "植物診療機構應具下列防範機構內植物有害生物逃逸、蔓延及防治之措施：\n一、植物感染性廢棄物移出前，應經滅菌消毒。\n二、對外門窗應常閉，或設有紗門、落地門簾或紗窗。\n三、操作區應於每次診療或檢驗操作前後經適當清潔或消毒。\n四、栽培罹染有害生物植物者，應與其他植物間具適當間距或隔離。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

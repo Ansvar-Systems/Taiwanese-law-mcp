@@ -1,0 +1,38 @@
+{
+  "id": "tw-m0030083",
+  "type": "statute",
+  "title": "糧商登記規費收費標準",
+  "title_en": "糧商登記規費收費標準",
+  "short_name": "糧商登記規費收費標準",
+  "status": "in_force",
+  "issued_date": "2014-10-24",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0030083",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞農業部＞農糧目. Articles extracted: 4.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依糧食管理法第二十一條規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "行政院農業委員會對於申請辦理糧商設立登記、變更登記或申請核發糧商登記事項證明文件之糧商，每件徵收業務規費為新臺幣三百元整。但因行政區域調整辦理門牌號碼變更者，免徵收之。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本標準所定收費金額，每三年應辦理定期檢討一次。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本標準自中華民國一百零三年十二月十八日施行。"
+    }
+  ],
+  "definitions": []
+}

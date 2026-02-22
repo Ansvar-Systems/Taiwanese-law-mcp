@@ -1,0 +1,38 @@
+{
+  "id": "tw-d0070158",
+  "type": "statute",
+  "title": "墾丁國家公園管理處核發土地使用證明規費收費標準",
+  "title_en": "墾丁國家公園管理處核發土地使用證明規費收費標準",
+  "short_name": "墾丁國家公園管理處核發土地使用證明規費收費標準",
+  "status": "in_force",
+  "issued_date": "2023-01-18",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070158",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞內政部＞國家公園目. Articles extracted: 4.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依規費法第十條第一項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "墾丁國家公園管理處核發土地使用證明規費收費數額如下：\n一、土地使用分區證明：每筆土地新臺幣一百元整。\n二、農業用地證明：每筆土地新臺幣一百元整。\n申請前項證明不限筆數。但每筆以核發三份為限。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "前條收費數額，應依成本變動、消費者物價指數等因素，至少每三年檢討一次。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

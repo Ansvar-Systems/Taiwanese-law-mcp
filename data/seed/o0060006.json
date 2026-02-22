@@ -1,0 +1,38 @@
+{
+  "id": "tw-o0060006",
+  "type": "statute",
+  "title": "環境用藥管理法施行細則",
+  "title_en": "Environmental Agents Control Act Enforcement Rules",
+  "short_name": "Environmental Agents Control Act Enforcement Rules",
+  "status": "in_force",
+  "issued_date": "2006-08-29",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=O0060006",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞環境部＞化學物質管理目. Articles extracted: 4.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本細則依環境用藥管理法（以下簡稱本法）第五十九條規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "依本法第二十四條第一項規定按月記錄環境用藥之製造、加工、輸出、輸入、販賣及使用數量，應於次月十日前完成紀錄。\n本法第二十四條第二項所稱必要時，指有因應下列情形之一者：\n一、國內發生重大疫情。\n二、環境用藥污染事件。\n三、環境用藥消費者保護事件。\n四、環境用藥社會公共安全事件。\n五、為反應國內外環境用藥輿情報導。\n六、主管機關為辦理環境用藥管理、查驗及取締。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本法第二十六條所稱置放，指以陳列販賣或使用為目的之放置行為。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本細則自中華民國九十五年十一月十日施行。"
+    }
+  ],
+  "definitions": []
+}

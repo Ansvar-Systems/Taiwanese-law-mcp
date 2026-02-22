@@ -1,0 +1,56 @@
+{
+  "id": "tw-l0050019",
+  "type": "statute",
+  "title": "屍體解剖喪葬費用補助標準",
+  "title_en": "Standards for Subsidies for Funeral Costs of Human Remains Subject to Autopsy",
+  "short_name": "Standards for Subsidies for Funeral Costs of Human Remains Subject to Autopsy",
+  "status": "in_force",
+  "issued_date": "2013-10-24",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0050019",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞衛生福利部＞疾病管制目. Articles extracted: 7.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依傳染病防治法第五十條第五項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "因傳染病或疑似傳染病致死屍體，經中央主管機關施行病理解剖檢驗者，每一個案給付喪葬補助費新臺幣三十萬元。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "前條喪葬補助費之請求權人，依下列順序定之：\n一、配偶。\n二、直系血親卑親屬。\n三、父母。\n四、兄弟姊妹。\n五、祖父母。\n六、曾祖父母或三親等旁系血親。\n七、一親等直系姻親。\n前項請求權人如為二人以上者，應推由一人代表領取。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "請求權人申請喪葬補助費，應填具申請書，並檢附下列文件，向死者戶籍所在地之主管機關提出申請：\n一、個案之死亡證明書或屍體相驗證明書正本。\n二、戶籍證明文件（證明請求權人與死者之親屬關係）。\n三、屍體病理解剖檢驗通知書正本。\n四、其他中央主管機關指定之文件。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "地方主管機關受理前條申請案後，應於一個月內就所附文件進行初審，並將初審結果作成報告，連同補助費申請書及相關證明資料，轉陳中央主管機關審核。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "中央主管機關接獲前條申請案後，應將審定結果以書面通知請求權人。\n前項審定結果，同意補助喪葬費用者，應於二個月內完成補助費用之撥付，並副知個案戶籍所在地之主管機關。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

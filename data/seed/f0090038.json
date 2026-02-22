@@ -1,0 +1,75 @@
+{
+  "id": "tw-f0090038",
+  "type": "statute",
+  "title": "軍事演習訓練場域通報辦法",
+  "title_en": "Regulations Governing the Notification of Military Exercise and Training Field Areas",
+  "short_name": "Regulations Governing the Notification of Military Exercise and Training Field A",
+  "status": "in_force",
+  "issued_date": "2025-07-29",
+  "in_force_date": "2025-08-01",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0090038",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞國防部＞軍備後勤目. Articles extracted: 10.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本辦法依軍事營區安全維護條例（以下簡稱本條例）第三條第三項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本條例第三條第一項第一款所稱相關機關，包含政府機關（構）、公法人及法人團體（以下合稱受通報機關）。\n軍事演習或軍事訓練（以下合稱演訓）場域屬私有者，軍事機關通報前，應取得場域管理人或所有權人同意。\n演訓場域之空域範圍，另依國防、民航主管機關規定辦理。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "軍事機關為本條例第三條第一項第一款之通報，應製作演訓場域通報單，於演訓十五日前，通知並送達受通報機關。但有下列情形之一者，不在此限：\n一、因臨時軍事任務需要之演訓，於七十二小時前送達。\n二、因防護領空、領海等緊急需要之演訓，得於演訓開始後一定時間內送達。\n國防部依全民防衛動員準備法第二十七條第二項規定，會同內政部公告設立之演習區域，得依本辦法通報受通報機關。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "演訓場域通報單，應記載下列事項：\n一、通報之法規依據。\n二、通報之軍事機關。\n三、演訓場域。\n四、演訓期間。\n五、受通報機關。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "演訓場域之公告，經軍事機關通報受通報機關以下列全部或一部方式為之：\n一、發布飛航公告或航船布告。\n二、使用廣播或無線電通信。\n三、交通管制告示或布設臨時交通管制設施。\n四、其他適當方式。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "軍事機關應於演訓場域之周邊公有空地或開放公共區域明顯處所設置告示，並揭示下列事項：\n一、演訓場域。\n二、演訓期間。\n三、禁止事項及其違反之處罰。\n四、其他必要資訊。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "軍事機關得於演訓場域設置警戒處所，由各級主官或其授權之人，指揮值勤軍官、士官或衛哨兵實施警戒。"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "第 8 條",
+      "content": "軍事機關因故停止、提前結束或取消全部或一部演訓場域及期間，應即通知受通報機關。"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "第 9 條",
+      "content": "外交部接獲外國專案船舶、艦艇或航空器申請行經我國海域或空域，應將行經時間及航道或航線通知國防部。"
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "第 10 條",
+      "content": "本辦法自本條例施行之日施行。"
+    }
+  ],
+  "definitions": []
+}

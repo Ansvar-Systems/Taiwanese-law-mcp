@@ -1,0 +1,33 @@
+{
+  "id": "tw-d0060086",
+  "type": "statute",
+  "title": "地政士證照費收費標準",
+  "title_en": "地政士證照費收費標準",
+  "short_name": "地政士證照費收費標準",
+  "status": "in_force",
+  "issued_date": "2025-09-17",
+  "in_force_date": "2025-11-01",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0060086",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞內政部＞地政目. Articles extracted: 3.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依地政士法第五十六條及規費法第十條第一項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "申請核發或補（換）發地政士證書或地政士開業執照者，應繳納證照費，其費額如下：\n一、電子證照：每張新臺幣七百元。\n二、紙本證照：每張新臺幣一千二百元。\n因不可歸責申請人事由未能發給電子證照而改發給紙本證照者，依前項第一款規定計收之。\n申請以於原紙本開業執照加註延長有效期限方式換發地政士開業執照者，應繳納加註費，每次新臺幣八百元。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本標準施行日期由內政部定之。"
+    }
+  ],
+  "definitions": []
+}

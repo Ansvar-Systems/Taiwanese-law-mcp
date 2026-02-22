@@ -1,0 +1,56 @@
+{
+  "id": "tw-j0110084",
+  "type": "statute",
+  "title": "經濟部水利署提供水文資訊收費標準",
+  "title_en": "經濟部水利署提供水文資訊收費標準",
+  "short_name": "經濟部水利署提供水文資訊收費標準",
+  "status": "repealed",
+  "issued_date": "2025-08-18",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0110084",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 廢止法規＞經濟部. Articles extracted: 7.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依政府資訊公開法第二十二條第二項及規費法第十條第一項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本標準所稱水文資訊，指由經濟部水利署（以下簡稱本署）產製及儲存，並經本署完成檢核程序之地面水、地下水、近海水文及河川大斷面等電子資訊。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "申請水文資訊時，除符合第四條及第五條規定者外，依附表之收費基準，計算其應收費用。\n申請之水文資訊，遇有缺測之部分時，其應收費用按未缺測部分數量佔申請水文資訊全部數量之比例計之，以新臺幣元為單位四捨五入至整數。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "有下列情事之一，檢具證明文件經本署同意，得依附表收費基準之單價減收百分之七十，並以新臺幣元為單位四捨五入至整數計算其應收費用：\n一、供學術研究需要者。\n二、執行行政院國家科學委員會計畫者。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "有下列情事之一，檢具證明文件經本署同意，得免收費用：\n一、基於本署或本署所屬機關業務需要，簽定有合作契約、協議、計畫或公文書件者。\n二、基於本署或本署所屬機關業務需要，同意將雙方產製之水文資訊對等互惠且免費提供者。\n三、各級政府機關因辦理業務需要，請本署或本署所屬機關提供水文資訊協助者。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "依本標準申請水文資訊所衍生之金融機構手續費，由申請者負擔。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

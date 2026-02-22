@@ -1,0 +1,38 @@
+{
+  "id": "tw-m0080008",
+  "type": "statute",
+  "title": "農業科技園區下水道可容納排入之下水水質標準",
+  "title_en": "農業科技園區下水道可容納排入之下水水質標準",
+  "short_name": "農業科技園區下水道可容納排入之下水水質標準",
+  "status": "in_force",
+  "issued_date": "2023-12-14",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0080008",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞農業部＞農業科技園區目. Articles extracted: 4.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依下水道法第二十五條第一項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "下列物質禁止排入下水道：\n一、汽油、苯、揮發性油類、溶劑、燃料油或其他任何可能引發燃燒或爆炸之物質。\n二、足以影響下水道之水流或影響處理設備運轉之廢棄物質，如鋸屑、金屬、玻璃、羽毛、破布、塑膠製品、木材、紙製品及製程廢料等。\n三、放射性物質或有毒物質。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "園區下水道可容納排入之水質基準，其水質項目及限值如附表。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

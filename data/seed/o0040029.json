@@ -1,0 +1,78 @@
+{
+  "id": "tw-o0040029",
+  "type": "statute",
+  "title": "海域環境分類及海洋環境品質標準",
+  "title_en": "Marine Environment Classification and Marine Environment Quality Standards",
+  "short_name": "Marine Environment Classification and Marine Environment Quality Standards",
+  "status": "in_force",
+  "issued_date": "2024-04-25",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=O0040029",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞海洋委員會＞海洋資源目. Articles extracted: 8.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依海洋污染防治法第八條第一項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本標準用詞，定義如下：\n一、一級水產用水：指可供嘉臘魚及紫菜類培養用水之水源。\n二、二級水產用水：指可供虱目魚、烏魚、龍鬚菜及其他食用海藻培養用水之水源。\n三、工業用水：指可供冷卻用水之水源。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "海域環境分為甲、乙、丙三類，其適用性質如下：\n一、甲類：適用於一級水產用水、二級水產用水、工業用水、游泳及環境保育。\n二、乙類：適用於二級水產用水、工業用水及環境保育。\n三、丙類：適用於環境保育。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "保護人體健康之海洋環境品質標準，適用於甲、乙、丙三類海域環境，其水質項目及標準值如附表一。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "保護生活環境之海洋環境品質標準，依甲、乙、丙三類海域環境，其水質項目及標準值如附表二。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "臺灣地區沿海海域環境分類，以臺灣本島及澎湖群島、蘭嶼、綠島等離島，由海岸向外延伸之領海為範圍。\n依據海域之最佳用途、涵容能力及水質狀況，訂定臺灣地區沿海海域範圍及海域分類如附表三。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "海域環境經自淨後達到相關海洋環境品質標準時，即不得降低其海域環境分類及相關環境標準值。\n中央主管機關得於每三年檢討修正本標準。"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "第 8 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "一級水產用水",
+      "definition": "指可供嘉臘魚及紫菜類培養用水之水源。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "二級水產用水",
+      "definition": "指可供虱目魚、烏魚、龍鬚菜及其他食用海藻培養用水之水源。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "工業用水",
+      "definition": "指可供冷卻用水之水源。",
+      "source_provision": "art2"
+    }
+  ]
+}

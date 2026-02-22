@@ -1,0 +1,56 @@
+{
+  "id": "tw-m0030089",
+  "type": "statute",
+  "title": "行政院農業委員會種苗改良繁殖場受託辦理基因轉殖植物及植物病原檢測收費標準",
+  "title_en": "行政院農業委員會種苗改良繁殖場受託辦理基因轉殖植物及植物病原檢測收費標準",
+  "short_name": "行政院農業委員會種苗改良繁殖場受託辦理基因轉殖植物及植物病原檢測收費標準",
+  "status": "repealed",
+  "issued_date": "2024-03-13",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0030089",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 廢止法規＞農業部. Articles extracted: 7.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依規費法第十條第一項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "檢測基因轉殖植物之收費基準如下：\n一、以聚合酶連鎖反應法（PCR） 定性檢測者，每樣品新臺幣一千元。\n二、以即時聚合酶連鎖反應法（Real-time PCR） 定量檢測者，每樣品新臺幣一千二百元。\n採用前項以外之其他檢測方法者，依聚合酶連鎖反應法定性檢測之收費基準收費。\n前二項檢測收費，不包含取樣費用；每樣品以檢測三個轉殖品項為限，超過者視為另一樣品。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "檢測植物病原之收費基準如下：\n一、以反轉錄聚合酶連鎖反應法（RT-PCR）檢測者，每樣品、每病原新臺幣一千五百元。\n二、以聚合酶連鎖反應法（PCR） 檢測者，每樣品、每病原新臺幣一千元。\n三、以酵素連結免疫吸附法（ELISA） 檢測者，每樣品、每病原新臺幣五十元。\n採用前項以外之其他檢測方法者，依聚合酶連鎖反應法之收費基準收費。前二項檢測收費，不包含取樣費用。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "辦理外出取樣之收費基準如下：\n一、取樣樣品四件以下，每次取樣費用為新臺幣三千五百元。\n二、取樣樣品五件至八件，每次取樣費用為新臺幣六千元；超過八件，每增加一件加收新臺幣六百元。\n外出取樣人員所需交通費及住宿費，另由行政院農業委員會種苗改良繁殖場（以下簡稱本場）參照中央機關國內出差旅費報支要點所定基準收取之。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "委託進行基因轉殖植物或植物病原檢測時，需先與本場聯繫填寫「樣品委託檢驗單」，並完成相關費用繳納之程序後，始得進行檢測。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "本標準未明列之收費事項，由本場與委託人另行約定。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

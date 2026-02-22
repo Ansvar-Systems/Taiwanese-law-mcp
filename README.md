@@ -23,7 +23,7 @@ npx @ansvar/taiwanese-law-mcp
 
 ## Data Sources
 
-Official Taiwan Laws & Regulations Database OpenAPI (`https://law.moj.gov.tw/api/ch/law/json`), ingested as full central-law corpus seed data.
+Official Taiwan Laws & Regulations Database OpenAPI (`https://law.moj.gov.tw/api/ch/law/json` and `https://law.moj.gov.tw/api/ch/order/json`), ingested as full central legislation corpus seed data.
 
 ## License
 

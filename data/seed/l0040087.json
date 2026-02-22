@@ -1,0 +1,38 @@
+{
+  "id": "tw-l0040087",
+  "type": "statute",
+  "title": "嬰兒食品類微生物衛生標準",
+  "title_en": "Sanitation Standard for the Microorganism in Infant Foods",
+  "short_name": "Sanitation Standard for the Microorganism in Infant Foods",
+  "status": "repealed",
+  "issued_date": "2021-06-30",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0040087",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 廢止法規＞衛生福利部. Articles extracted: 4.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依食品安全衛生管理法第十七條規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本標準適用於可替代人乳且符合十二個月以下嬰兒營養需求之粉狀或液狀嬰兒與較大嬰兒配方食品，以及含百分之二十五以上（以乾重計）榖類及豆類等成分之嬰兒穀物類輔助食品。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "嬰兒食品之微生物限量：\n┌──────┬─────┬──────┬──────────┐\n│            │採樣計畫  │    限量    │                    │\n│項目        │（1）     │    （2）   │      備註          │\n│            ├──┬──┼───┬──┤                    │\n│            │n   │c   │m     │M   │                    │\n├──────┼──┼──┼───┼──┼──────────┤\n│大腸桿菌群  │5   │2   │ （3）│10  │在 n 個樣品中，允許 │\n│（Coliform）│    │    │＜3   │    │有≦ c 個樣品其微生 │\n│MPN/g       │    │    │      │    │物檢驗值介於 m 和 M │\n│            │    │    │      │    │之間，但不允許檢驗值│\n│            │    │    │      │    │≧ M。              │\n├──────┼──┼──┼───┴──┼──────────┤\n│阪崎腸桿菌  │    │    │            │僅規範粉狀嬰兒配方食│\n│（Enterobac-│    │    │            │品                  │\n│ter sakazak-│    │    │            │                    │\n│ii, Cronoba-│10  │0   │    陰性    │                    │\n│cter species│    │    │            │                    │\n│）          │    │    │            │                    │\n├──────┼──┼──┼──────┼──────────┤\n│沙門氏菌    │    │    │            │                    │\n│（Salmonella│10  │0   │    陰性    │                    │\n│spp.）      │    │    │            │                    │\n├──────┼──┼──┼──────┼──────────┤\n│李斯特菌    │    │    │            │                    │\n│（Listeria  │10  │0   │    陰性    │                    │\n│monocytogen-│    │    │            │                    │\n│es）        │    │    │            │                    │\n├──────┴──┴──┴──────┴──────────┤\n│（1） n ＝同一批次產品應採的樣品件數                        │\n│      c ＝允許超過 m  值的最大樣品數                        │\n│（2） m ＝可接受的微生物限量值                              │\n│      M ＝最大安全限量值                                    │\n│（3） m 值＝「＜ 3 」 為依據大腸桿菌群檢驗結果最確數表之表示│\n│            方式。                                          │\n└──────────────────────────────┘"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

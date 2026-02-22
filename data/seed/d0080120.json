@@ -1,0 +1,44 @@
+{
+  "id": "tw-d0080120",
+  "type": "statute",
+  "title": "民防團隊編組人員服勤津貼發給標準",
+  "title_en": "民防團隊編組人員服勤津貼發給標準",
+  "short_name": "民防團隊編組人員服勤津貼發給標準",
+  "status": "in_force",
+  "issued_date": "2002-11-20",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0080120",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞內政部＞警政目. Articles extracted: 5.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依民防法（以下簡稱本法）第八條第一項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "民防團隊編組人員參加服勤期間，辦理機關（構）得依公告基本工資按日核計發給服勤津貼（以下簡稱本津貼）。\n參加民防團隊編組人員，已依其本職身分或其他法令規定領取津貼者，不得領取本津貼。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "民防團隊編組人員參加服勤日數之計算，自報到之日起至解除服勤召集之日止，依實際服勤日數核計。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "辦理機關（構）應於民防團隊編組人員解除服勤召集二個月內，以現金、公庫支票或劃入金融機構帳號方式發給本津貼。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本標準自本法施行之日施行。"
+    }
+  ],
+  "definitions": []
+}

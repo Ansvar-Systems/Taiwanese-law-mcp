@@ -1,0 +1,38 @@
+{
+  "id": "tw-l0020095",
+  "type": "statute",
+  "title": "醫事放射所設置標準",
+  "title_en": "醫事放射所設置標準",
+  "short_name": "醫事放射所設置標準",
+  "status": "in_force",
+  "issued_date": "2002-12-26",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020095",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞衛生福利部＞醫事目. Articles extracted: 4.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依醫事放射師法（以下簡稱本法）第十八條第二項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "醫事放射所之設施，應符合下列規定：\n一、應有明顯區隔之獨立作業場所。\n二、總樓地板面積，不得小於三十平方公尺。其並設置醫事檢驗部門者，總樓地板面積，不得小於五十平方公尺。\n三、應有下列設備：\n（一）診斷型Ｘ光設備一部。\n（二）影像處理設備一套。\n（三）防護用鉛衣及男女生殖器防護屏各一套。\n（四）更衣室。\n醫事放射所並設置醫事檢驗部門者，其設置並應符合醫事檢驗所設置標準之規定。\n前項醫事放射所，其市招得註明設置醫事檢驗部門。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "醫事放射所之游離輻射設備或物質之設置與管理，應符合游離輻射法規相關規定。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

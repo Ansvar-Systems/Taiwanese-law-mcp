@@ -1,0 +1,32 @@
+{
+  "id": "tw-l0040100",
+  "type": "statute",
+  "title": "冰類微生物衛生標準",
+  "title_en": "Sanitation Standard for the Microorganism in Ice Products",
+  "short_name": "Sanitation Standard for the Microorganism in Ice Products",
+  "status": "repealed",
+  "issued_date": "2021-06-30",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0040100",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 廢止法規＞衛生福利部. Articles extracted: 3.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依食品安全衛生管理法第十七條規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "冰類之微生物限量：\n┌───────────┬──────┬─────┬─────┐\n│    內    容          │  生菌數    │大腸桿菌群│大腸桿菌  │\n│                      │（cfu/mL）  │（MPN/mL）│（MPN/mL）│\n├───────────┼──────┼─────┼─────┤\n│一、食用冰塊。        │（融解水）  │（融解水）│    －    │\n│                      │100 以下    │陰性      │          │\n├───────────┼──────┼─────┼─────┤\n│二、刨冰、冰棒、冰磚及│            │          │          │\n│    其他類似製品：    │            │          │          │\n│    1.含有果實水、果實│（融解水）  │（融解水）│（融解水）│\n│      汁、果實香精及其│  5         │100 以下  │陰性      │\n│      他類似製品。    │10  以下    │          │          │\n│    2.含有咖啡、可可、│            │          │          │\n│      穀物、紅豆、綠豆│            │          │          │\n│      、花生或其他植物│            │          │          │\n│      性原料者。      │            │          │          │\n├───────────┼──────┼─────┼─────┤\n│三、冷凍冰果：        │            │          │          │\n│    1.含有乾果、蜜餞、│            │          │          │\n│      糕點等冷品與冰混│            │          │          │\n│      製之各種液體冷凍│            │          │          │\n│      冰果。          │            │          │          │\n│    2.含有鮮果實、鮮果│            │          │          │\n│      醬之各種冷凍冰果│            │          │          │\n│      。              │            │          │          │\n├───────────┼──────┼─────┼─────┤\n│四、含有乳成分或乳製品│            │          │          │\n│    之各種冰類製品與冷│            │          │          │\n│    凍冰果。          │            │          │          │\n└───────────┴──────┴─────┴─────┘"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,56 @@
+{
+  "id": "tw-g0450008",
+  "type": "statute",
+  "title": "外匯管制辦法",
+  "title_en": "Regulations Governing Foreign Exchange Control",
+  "short_name": "Regulations Governing Foreign Exchange Control",
+  "status": "in_force",
+  "issued_date": "1997-07-02",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0450008",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞中央銀行＞外匯目. Articles extracted: 7.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本辦法依管理外匯條例（以下簡稱本條例）第十九條之一第二項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "有本條例第十九條之一第一項所列各款情形之一時，行政院得決定並公告於一定期間內採取下列措施之全部或一部：\n一、停止或限制外匯期貨及遠期外匯交易。\n二、停止或限制對外證券投資所需外匯之結購。\n三、停止或限制國外貸款本息所需外匯之結購。\n四、停止或限制對外直接投資所需外匯之結購。\n五、停止或限制其他資本交易所需外匯之結購。\n六、停止或限制第一款至第五款有關資本交易之外匯存款匯出。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "有本條例第十九條之一第一項所列各款情形之一時，行政院除得依前條所列各款辦理外，於必要時並得公告於一定期間內一併採取下列措施之全部或一部：\n一、命令全部或部分外匯收入結售中央銀行或其指定銀行，或存入指定銀行。\n二、規定進口貨品、勞務、所得或無償性移轉交易所需外匯之支付，未經核准不得為之。\n三、關閉外匯市場。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "第二條及第三條第二款規定採取之措施，其處置對象為在中華民國境內辦理外匯支出或交易之公司、行號、團體及個人。\n第三條第一款規定採取之措施，其處置對象為在中華民國境內之公司、行號、團體及個人。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "第二條及第三條所稱一定期間，不得超過一個月。\n依前項規定所定一定期間，如遇立法院休會時，以二十日為限。\n依第二條及第三條規定所採取之各項措施及本條規定所定之一定期間，應於決定後十日內送請立法院追認，如立法院不同意時，該決定應即失效。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "故意違反依本辦法所為之措施者，依本條例第十九條之二第一項規定處罰。但立法院不同意追認依本辦法所為之措施時，免罰。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "本辦法自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

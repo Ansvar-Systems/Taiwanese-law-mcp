@@ -1,0 +1,50 @@
+{
+  "id": "tw-l0040070",
+  "type": "statute",
+  "title": "食品用洗潔劑衛生標準（96.09.20訂定）",
+  "title_en": "Sanitation Standards for Food Cleansers",
+  "short_name": "Sanitation Standards for Food Cleansers",
+  "status": "in_force",
+  "issued_date": "2024-09-11",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0040070",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞衛生福利部＞食品藥物管理目. Articles extracted: 6.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依食品安全衛生管理法第十七條規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本標準所稱食品用洗潔劑，指用於消毒或洗滌食品、食品器具、食品容器或包裝之物質。作為商業滅菌用途之食品用洗潔劑，不適用本標準。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "食品用洗潔劑之衛生應符合下列標準：\n一、砷：0.05ppm 以下（以 As2O3  計）；依產品標示，於稀釋後使用時之溶液濃度為基準。\n二、重金屬：1ppm  以下（以 Pb 計）；依產品標示，於稀釋後使用時之溶液濃度為基準。\n三、甲醇含量：1mg/mL  以下。\n四、壬基苯酚類界面活性劑（nonylphenol 及 nonylphenolethoxylate）：百分之 0.1（重量比）以下。\n五、螢光增白劑：不得檢出。\n六、香料及著色劑，應以准用之食品添加物為限。\n前項規定，僅適用於以合成界面活性劑為主成分之液態洗潔劑，供餐具自動洗淨機使用之洗潔劑，不適用之。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "用於清洗食品器具、容器及包裝等食品接觸面之主要消毒成分，使用後不再經清水沖洗，且列於附表一者，應符合附表一之使用規定。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "用於清洗食品之主要消毒成分，除該成分為合法食品原料者外，其成分限制、殘留濃度及使用範圍，依附表二之規定。\n為使前項殘留濃度符合規定，必要時，使用後得再經飲用水清洗或其他適當處理。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

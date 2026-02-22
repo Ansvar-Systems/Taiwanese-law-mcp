@@ -1,0 +1,62 @@
+{
+  "id": "tw-g0400150",
+  "type": "statute",
+  "title": "公開發行公司股東分別行使表決權作業及遵行事項辦法",
+  "title_en": "Regulations Governing the Operation of and Compliance Requirements for Split Voting by Shareholders of Public Companies",
+  "short_name": "Regulations Governing the Operation of and Compliance Requirements for Split Vot",
+  "status": "in_force",
+  "issued_date": "2012-04-13",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0400150",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞金融監督管理委員會＞證券暨期貨管理目  . Articles extracted: 8.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本辦法依公司法第一百八十一條第四項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "公開發行公司（以下簡稱公司）召開股東會，股東係為他人持有股份，並主張分別行使表決權者，應依本辦法之規定辦理。但信託業依信託業法第二十條之一規定得分別行使表決權者，不在此限。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "依本辦法主張分別行使表決權之股東，係指為二人以上持有股份，並具備下列資格條件之一：\n一、依華僑及外國人投資證券管理辦法規定投資國內證券之各類基金，依當地政府法令及契約或公司章程規定，得依各實質投資人之指示分別行使表決權者，或因投資策略委請二人以上外部經理人操作、授權外部經理人代為行使表決權且經臺灣證券交易所股份有限公司完成交易帳戶登記者。\n二、依華僑及外國人投資證券管理辦法規定投資國內證券之國外金融機構，依當地政府法令及契約規定得以其名義受託投資，並依各實質投資人之指示分別行使表決權者。\n三、海外存託憑證之存託機構，依當地政府法令及存託契約規定得依各存託憑證持有人之指示分別行使表決權者。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "股東申請分別行使表決權者，應於股東會開會五日前，以書面或依電子簽章法規定之方式向公司提出。\n股東主張撤銷或終止分別行使表決權者，應於股東會開會五日前以書面或依電子簽章法規定之方式向公司提出。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "股東申請分別行使表決權者，其內容應載明下列事項：\n一、公司名稱。\n二、股東戶名及統一編號。\n三、股東有委託代理人者，其代理人之姓名或名稱。\n四、符合第三條所定資格條件之聲明文件。\n五、其他主管機關規定之事項。\n股東對行使表決權內容之相關徵詢文件，其保存期限至少為一年。但經提起訴訟者，應保存至訴訟終結為止。\n股東對證明其符合第三條所定資格條件之文件，應永久保存，備供查核。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "股東申請分別行使表決權者，除其申請書件有不完備之情事外，公司應於股東名簿註記股東得分別行使表決權。股東經公司註記得分別行使表決權者，除依第四條第二項規定撤銷或終止外，嗣後股東會均免再向公司提出申請。\n股東之申請書件有不完備者，公司應於收到申請後二日內通知其限期補正。股東逾期未補正者，公司至遲應於股東會開會二日前退回其申請，並將退回之理由通知股東。\n股東對公司退回其申請有疑義時，公司應予說明。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "公司對於股東申請、撤銷或終止分別行使表決權之相關書表文件及媒體資料，於其存續期間，應永久保存，並得以電子媒體形式儲存。"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "第 8 條",
+      "content": "本辦法自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "tw-l0040023",
+  "type": "statute",
+  "title": "牛羊豬及家禽可食性內臟重金屬限量標準",
+  "title_en": "Standard for the Tolerance of Heavy Metals in Edible Offal of Cattle, Sheep, Pig and Poultry",
+  "short_name": "Standard for the Tolerance of Heavy Metals in Edible Offal of Cattle, Sheep, Pig",
+  "status": "repealed",
+  "issued_date": "2019-08-15",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0040023",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 廢止法規＞衛生福利部. Articles extracted: 3.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依食品衛生管理法第十七條規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "重金屬限量：\n┌─────┬────────┐\n│項      目│限    量（濕重）│\n├─────┼────────┤\n│    鉛    │0.5ppm          │\n└─────┴────────┘"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

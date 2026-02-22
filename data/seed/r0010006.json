@@ -1,0 +1,39 @@
+{
+  "id": "tw-r0010006",
+  "type": "statute",
+  "title": "考選部國家考場大樓地下停車場收費標準",
+  "title_en": "考選部國家考場大樓地下停車場收費標準",
+  "short_name": "考選部國家考場大樓地下停車場收費標準",
+  "status": "in_force",
+  "issued_date": "2025-12-12",
+  "in_force_date": "2026-01-01",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=R0010006",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 考試＞考選部＞組織目. Articles extracted: 4.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依規費法第十條第一項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本標準依定期停車、臨時停車分別訂定汽車及機車收費基準如附表。但符合規費法第十二條各款規定者得免徵、減徵或停徵應徵收之規費。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "前條收費基準，視物價、市場行情變動或成本變動等影響因素，每三年至少應辦理檢討一次。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本標準施行日期，除中華民國一百十四年十二月十二日修正發布之第二條附表，自一百十五年一月一日施行外，自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

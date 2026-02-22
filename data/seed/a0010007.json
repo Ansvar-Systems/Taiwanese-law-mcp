@@ -1,0 +1,68 @@
+{
+  "id": "tw-a0010007",
+  "type": "statute",
+  "title": "國民大會宣言起草委員會組織規程",
+  "title_en": "國民大會宣言起草委員會組織規程",
+  "short_name": "國民大會宣言起草委員會組織規程",
+  "status": "in_force",
+  "issued_date": "1990-03-03",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0010007",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 國民大會（憲法國民大會章條文已停止適用）. Articles extracted: 9.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本規程依國民大會組織法第七條之規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "國民大會宣言起草委員會（以下簡稱本委員會）設委員十九人至二十三人，其人選由主席團提請大會決定之。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本委員會設召集人一人至三人，由各委員互推之。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本委員會開會時，由召集人互推一人為主席。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本委員會得設置執筆小組及總執筆一人，其人選由召集人提請本委員會決定之。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "本委員會開會時，得邀請有關人員列席說明並提供有關資料。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "本委員會通過大會宣言草案後，送經主席團提請大會決定之。"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "第 8 條",
+      "content": "本委員會配置顧問、秘書、幹事及其他人員，均由秘書處派充之。"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "第 9 條",
+      "content": "本規程由國民大會主席團會議通過，提報大會後施行。"
+    }
+  ],
+  "definitions": []
+}

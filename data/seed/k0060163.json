@@ -1,0 +1,38 @@
+{
+  "id": "tw-k0060163",
+  "type": "statute",
+  "title": "行動寬頻專用電信網路規費收費標準",
+  "title_en": "Regulations Governing Mobile Broadband Dedicated Telecommunications Network Fee-Charging Standards",
+  "short_name": "Regulations Governing Mobile Broadband Dedicated Telecommunications Network Fee-",
+  "status": "in_force",
+  "issued_date": "2023-06-01",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0060163",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞數位發展部＞數位產業目. Articles extracted: 4.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依電信管理法第九十二條規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "行動寬頻專用電信網路設置之審查、審驗與執照之核發、換發、補發，其審查費、審驗費、執照費之費額如附表。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "申請人依本標準規定繳納規費後，除有溢繳、誤繳或法規另有規定者外，不得申請退費。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

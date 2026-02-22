@@ -1,0 +1,62 @@
+{
+  "id": "tw-i0050025",
+  "type": "statute",
+  "title": "法務部及所屬機關電腦處理個人資料管理辦法",
+  "title_en": "法務部及所屬機關電腦處理個人資料管理辦法",
+  "short_name": "法務部及所屬機關電腦處理個人資料管理辦法",
+  "status": "repealed",
+  "issued_date": "2001-05-23",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0050025",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 廢止法規＞法務部. Articles extracted: 8.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "法務部 (以下簡稱本部) 及所屬機關為依電腦處理個人資料保護法 (以下\n簡稱本法) 管理個人資料，特訂定本辦法。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本部及所屬機關對個人資料之蒐集、電腦處理或利用，須符合本法第七條\n及第八條規定。\n個人資料為特定目的外之利用或為國際傳遞及利用時，應由各該資料檔案\n承辦單位簽報首長或其授權之人核准後行之。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本部及所屬機關應分別指定專人辦理本法第四條及第十條事項。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "當事人向本部或所屬機關行使本法第四條所定權利時，應填具申請書，並\n檢附應備文件為之。\n前條指定之專人受理前項案件之申請後，處理程序如左：\n一、審查書件內容，如發現有遺漏或欠缺時，應通知限期補正。\n二、書件內容無遺漏或欠缺時，應會辦各資料檔案承辦單位，並簽報首長\n    或其授權之人後為准駁之處理。屬准予查詢、閱覽或製給複製本者，\n    由該專人處理。屬准予補充、更正、刪除或停止電腦處理及利用者，\n    移請資料檔案承辦單位執行。\n當事人閱覽其個人資料時，應於前項之專人陪同下為之。\n第一項申請案件應於三十日內處理之。未能於期限內處理時，應將其原因\n以書面通知申請人。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "申請案件有左列情形之一者，應以書面附具理由駁回其申請：\n一、申請書件未齊備，經通知補正逾期未補正者。\n二、有本法第十二條但書各款情形之一者。\n三、有本法第十三條第二項但書或第三項但書情形者。\n四、其他與法令規定不符者。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "當事人查詢或請求閱覽個人資料者，免費。請求製給複製本者，每份新台\n幣十元。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "個人資料檔案之安全維護事項，應依行政院所屬機關電腦設備安全暨資訊\n機密維護準則及法務部暨所屬各機關資訊作業安全機密維護實施要點辦理\n。"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "第 8 條",
+      "content": "本辦法自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

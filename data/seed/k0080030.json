@@ -1,0 +1,84 @@
+{
+  "id": "tw-k0080030",
+  "type": "statute",
+  "title": "基隆港國內航線或港區工程用之中華民國船舶不適用強制引水辦法",
+  "title_en": "基隆港國內航線或港區工程用之中華民國船舶不適用強制引水辦法",
+  "short_name": "基隆港國內航線或港區工程用之中華民國船舶不適用強制引水辦法",
+  "status": "in_force",
+  "issued_date": "2000-09-15",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0080030",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞交通部＞港務目. Articles extracted: 9.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本辦法依據引水法第六條第二項規定訂定。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本辦法所用名詞定義如下：\n一、國內航線船舶：指在本國各港口間經營客貨運送之船舶。\n二、港區工程用船舶：指從事港區工作或海事工程之船舶。\n三、高度危險品：指化學危險品、放射性、爆炸性物質，或經行政院環保署公告之毒性物質。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本辦法所稱不適用強制引水之船舶，應符合下列條件：\n一、航行國內航線或從事港區工程之本國籍船舶。\n二、總噸位未滿八千總噸。\n三、未裝載高度危險品。\n四、未載運旅客。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "符合前條規定之船舶，應由船舶所有人或船長填具申請書（如附件），檢具下列文件申請核准：\n一、船長合格執業證書。\n二、船長於最近二年內進出本港達六航次以上證明文件（船員名單或船員服務手冊）。\n三、船舶噸位證書。\n四、其他證明文件。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "第三條或第四條之申請條件變更時，應重新提出申請核准。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "本辦法核准之船舶，由船長指揮進出本港或移泊，但船長仍可視情況僱用引水人，引水人無正當理由，不得拒領。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "經核准不適用強制引水船舶，如有下列情事之一者，得廢止其核准。\n一、進出港或移泊時發生海事事故。\n二、申報文件不實。\n三、不遵守港口管制規定。\n四、不遵守船席指泊規定。\n五、其他。\n經前項規定廢止核准者，一年內不得再提出申請。"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "第 8 條",
+      "content": "航行蘇澳港或台北港區域不適用強制引水船舶之申請，準用本辦法規定。"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "第 9 條",
+      "content": "本辦法經報請交通部核定後實施，修正時亦同。"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "國內航線船舶",
+      "definition": "指在本國各港口間經營客貨運送之船舶。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "港區工程用船舶",
+      "definition": "指從事港區工作或海事工程之船舶。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "高度危險品",
+      "definition": "指化學危險品、放射性、爆炸性物質，或經行政院環保署公告之毒性物質。",
+      "source_provision": "art2"
+    }
+  ]
+}

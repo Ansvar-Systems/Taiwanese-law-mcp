@@ -1,0 +1,20 @@
+{
+  "id": "tw-h0000169",
+  "type": "statute",
+  "title": "文化部編制表",
+  "title_en": "文化部編制表",
+  "short_name": "文化部編制表",
+  "status": "in_force",
+  "issued_date": "2025-09-05",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0000169",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞文化部＞組織目. Articles extracted: 1.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1",
+      "content": "編      註：本編制表依據文化部組織法第 7 條訂定，內容請參閱相關圖表附檔。"
+    }
+  ],
+  "definitions": []
+}

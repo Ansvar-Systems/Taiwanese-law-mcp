@@ -20,16 +20,16 @@ beforeAll(() => {
 });
 
 describe('Database integrity', () => {
-  it('should have at least 1000 legal documents (excluding EU cross-refs)', () => {
+  it('should have at least 11000 legal documents (excluding EU cross-refs)', () => {
     const row = db.prepare(
       "SELECT COUNT(*) as cnt FROM legal_documents WHERE id != 'eu-cross-references'"
     ).get() as { cnt: number };
-    expect(row.cnt).toBeGreaterThanOrEqual(1000);
+    expect(row.cnt).toBeGreaterThanOrEqual(11000);
   });
 
-  it('should have at least 45000 provisions', () => {
+  it('should have at least 200000 provisions', () => {
     const row = db.prepare('SELECT COUNT(*) as cnt FROM legal_provisions').get() as { cnt: number };
-    expect(row.cnt).toBeGreaterThanOrEqual(45000);
+    expect(row.cnt).toBeGreaterThanOrEqual(200000);
   });
 
   it('should have FTS index', () => {
@@ -47,6 +47,14 @@ describe('Article retrieval', () => {
     ).get() as { content: string } | undefined;
     expect(row).toBeDefined();
     expect(row!.content.length).toBeGreaterThan(50);
+  });
+
+  it('should retrieve an order provision by document_id and section', () => {
+    const row = db.prepare(
+      "SELECT content FROM legal_provisions WHERE document_id = 'tw-a0000006' AND section = '1'"
+    ).get() as { content: string } | undefined;
+    expect(row).toBeDefined();
+    expect(row!.content.length).toBeGreaterThan(20);
   });
 });
 

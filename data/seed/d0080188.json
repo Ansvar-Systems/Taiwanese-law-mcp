@@ -1,0 +1,38 @@
+{
+  "id": "tw-d0080188",
+  "type": "statute",
+  "title": "志願自費鑑定血緣關係收費標準",
+  "title_en": "志願自費鑑定血緣關係收費標準",
+  "short_name": "志願自費鑑定血緣關係收費標準",
+  "status": "in_force",
+  "issued_date": "2009-12-21",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0080188",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞內政部＞警政目. Articles extracted: 4.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依規費法第十條第一項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "鑑定項目如下：\n一、以具多型性之人類染色體短相連重複序列（簡稱 DNA-STR）為主要項目。\n二、視必要性增加人類 Y  染色體短相連重複序列（簡稱 Y-STR）及粒線體DNA等輔助鑑定系統。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "內政部警政署刑事警察局受理申請志願自費鑑定血緣關係，其收費數額如下：\n一、依前條第一款主要項目鑑定者，每一受驗人收費新臺幣七千元。\n二、依前條第二款增加輔助鑑定系統鑑定者，每一受驗人每增加一項，加收新臺幣一千五百元。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

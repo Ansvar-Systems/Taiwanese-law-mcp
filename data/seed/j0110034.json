@@ -1,0 +1,38 @@
+{
+  "id": "tw-j0110034",
+  "type": "statute",
+  "title": "水利事業穿越私有土地之上空或地下地上權徵收補償辦法",
+  "title_en": "水利事業穿越私有土地之上空或地下地上權徵收補償辦法",
+  "short_name": "水利事業穿越私有土地之上空或地下地上權徵收補償辦法",
+  "status": "in_force",
+  "issued_date": "2019-08-13",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0110034",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞經濟部＞水利目. Articles extracted: 4.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本辦法依土地徵收條例（以下簡稱本條例）第五十七條第四項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本辦法適用於依本條例第三條第四款興辦之水利事業。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "地上權之補償費，應依下列規定辦理：\n一、穿越土地之上空者：地上權補償費等於徵收補償地價乘以穿越地上高度補償率（如附表一）。\n二、穿越土地之下方者：地上權補償費等於徵收補償地價乘以穿越地下深度補償率（如附表二）。\n穿越土地之土地改良物需一併拆遷時，其補償比照本條例徵收土地改良物之規定辦理。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本辦法自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

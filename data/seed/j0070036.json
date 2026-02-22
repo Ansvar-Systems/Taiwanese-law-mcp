@@ -1,0 +1,38 @@
+{
+  "id": "tw-j0070036",
+  "type": "statute",
+  "title": "專利師證書收費標準",
+  "title_en": "專利師證書收費標準",
+  "short_name": "專利師證書收費標準",
+  "status": "in_force",
+  "issued_date": "2008-01-02",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0070036",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞經濟部＞智慧財產權目. Articles extracted: 4.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依規費法第十條第一項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "申請核發、補發或換發專利師證書者，應繳納證書費，每張新臺幣一千五百元。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "申請補發或換發專利代理人證書者，應繳納證書費，每張新臺幣一千五百元。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本標準自中華民國九十七年一月十一日施行。"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "tw-d0120056",
+  "type": "statute",
+  "title": "危險性救災行動認定標準",
+  "title_en": "危險性救災行動認定標準",
+  "short_name": "危險性救災行動認定標準",
+  "status": "in_force",
+  "issued_date": "2020-04-22",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0120056",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞內政部＞消防目. Articles extracted: 5.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依消防法（以下簡稱本法）第二十條之一第二項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本標準用詞，定義如下：\n一、各級搶救人員：指消防人員、義勇消防人員、災害防救團體及災害防救組織編組成員。\n二、無人命危害之虞：指下列情形之一者：\n（一）確認無人命需救援或疏散。\n（二）受災民眾已無生還可能。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "災害搶救現場有下列各款情形之一者，認定為本法第二十條之一所稱危險性救災行動：\n一、進入核生化災害現場熱區。\n二、進入爆竹煙火、公共危險物品或可燃性高壓氣體製造、儲存、處理、販賣場所、毒性化學物質運作場所等危險場所。\n三、進入輕量型鋼結構建築物、印刷電路板（PCB） 製造場所。\n四、進入長隧道、地下軌道、地下建築物或船艙內。\n五、進入有倒塌、崩塌之虞之建築物內。\n六、其他經現場各級搶救人員充分綜合分析研判後，認定之危險行動。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "經現場消防指揮人員充分綜合分析研判，災害現場無人命危害之虞，不執行危險性救災行動時，應改採其他適當之搶救作為，並向救災救護指揮中心回報。\n各級搶救人員進入災害現場，遇閃（爆）燃前兆現象、倒塌等危急狀況者，即可採取撤離行動，並適時回報緊急求救口令。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "各級搶救人員",
+      "definition": "指消防人員、義勇消防人員、災害防救團體及災害防救組織編組成員。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "無人命危害之虞",
+      "definition": "指下列情形之一者： （一）確認無人命需救援或疏散。 （二）受災民眾已無生還可能。",
+      "source_provision": "art2"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "tw-j0110041",
+  "type": "statute",
+  "title": "溫泉標準",
+  "title_en": "溫泉標準",
+  "short_name": "溫泉標準",
+  "status": "in_force",
+  "issued_date": "2008-05-28",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0110041",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞經濟部＞水利目. Articles extracted: 6.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依溫泉法（以下簡稱本法）第三條第二項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "符合本標準之溫水，指地下自然湧出或人為抽取之泉溫為攝氏三十度以上且泉質符合下列款、目之一者：\n一、溶解固體量：總溶解固體量（TDS） 在五百（mg/L）以上。\n二、主要含量陰離子：\n（一）碳酸氫根離子（HCO3-） 二百五十（mg/L）以上。\n（二）硫酸根離子（SO4=）二百五十（mg/L）以上。\n（三）氯離子（含其他鹵族離子）Cl-，including other halide） 二百五十（mg/L）以上。\n三、特殊成分：\n（一）游離二氧化碳（CO2） 二百五十（mg/L）以上。\n（二）總硫化物（Total sulfide） 零點一（mg/L）以上。但在溫泉使用事業之使用端出水口，不得低於零點零五（mg/L）。\n（三）總鐵離子（Fe+2+Fe+3） 大於十（mg/L）。\n（四）鐳（Ra）大於一億分之一（curie/L） 。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本標準之冷水，指地下自然湧出或人為抽取之泉溫小於攝氏三十度且其游離二氧化碳為五百（mg/L）以上者。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本標準之地熱（蒸氣），指地下自然湧出或人為抽取之蒸氣或水或其混合流體，符合第二條泉溫及泉質規定者。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本標準之檢測注意事項，由中央主管機關公告並刊登政府公報，其中檢測方法為最低之標準。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "本標準自本法施行日施行。"
+    }
+  ],
+  "definitions": []
+}

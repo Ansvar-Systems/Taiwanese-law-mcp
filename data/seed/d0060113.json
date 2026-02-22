@@ -1,0 +1,74 @@
+{
+  "id": "tw-d0060113",
+  "type": "statute",
+  "title": "標準地名譯寫準則",
+  "title_en": "Regulations of Translating the Standardized Geographic Names",
+  "short_name": "Regulations of Translating the Standardized Geographic Names",
+  "status": "in_force",
+  "issued_date": "2009-11-09",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0060113",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞內政部＞地政目. Articles extracted: 10.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本準則依國土測繪法第三十條規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "標準地名之譯寫，以音譯為原則。\n標準地名含有屬性名稱時，該屬性名稱採英文意譯方式譯寫。\n屬性名稱與標準地名整體視為一專有名稱時，仍採音譯方式譯寫。\n前項屬性名稱，指描述標準地名性質之名稱。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "標準地名中具有方向性者，採英文意譯方式譯寫；具有代碼或序數者，以阿拉伯數字譯寫。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "標準地名之譯寫，因當地歷史、語言、風俗習慣、宗教信仰、國際慣用或其他特殊原因，經中央主管機關核定者，不受第二條之限制。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "標準地名之譯寫，採第一個字母大寫，其餘字母小寫，除下列情形外，各單字間應以連續不間斷之方式書寫：\n一、非首字之中文譯寫後第一個字母為 a、o、e  時，與前單字間以隔音符號「’」連接。\n二、採音譯與意譯不同方式譯寫時，單字間以空格相隔。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "行政區域及行政編組屬性名稱之譯寫方式，例示如下：\n一、省：Province。\n二、市：City。\n三、縣：County。\n四、鄉、鎮：Township。\n五、區：District。\n六、村（里）：Village 。\n七、鄰：Neighborhood。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "自然地理實體屬性名稱之譯寫方式，例示如下：\n一、平原：Plain 。\n二、盆地：Basin 。\n三、島嶼：Island。\n四、群島：Islands 。\n五、列嶼：Archipelago 。\n六、礁：Reef。\n七、沙洲：Sand Bar。\n八、岬角： Cape 。\n九、山：Mountain。\n十、山脈：Mountains 。\n十一、峰：Peak。\n十二、河、溪：River 。\n十三、湖、潭：Lake。"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "第 8 條",
+      "content": "街道屬性名稱之譯寫方式，例示如下：\n一、大道：Boulevard 或縮寫為 Blvd.。\n二、路：Road  或縮寫為 Rd.。\n三、街：Street  或縮寫為 St.。\n四、巷：Lane  或縮寫為 Ln.。"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "第 9 條",
+      "content": "具地標意義公共設施屬性名稱之譯寫方式，例示如下：\n一、政府：Hall。\n二、公所、事務所：Office。\n三、橋：Bridge。\n四、寺、廟、庵、觀、堂、宮、道院：Temple。\n五、教堂：Church。\n六、祠：Shrine。\n七、機場：Airport 。\n八、港：Port。\n九、水庫：Reservoir 。\n十、車站：Station 。\n十一、停車場：Parking Lot 。\n十二、醫院：Hospital。\n十三、公園：Park。\n十四、圳：Canal 。\n十五、溝：Ditch 。\n十六、池、塘、埤、陂： Pond 。"
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "第 10 條",
+      "content": "本準則自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

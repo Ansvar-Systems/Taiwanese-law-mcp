@@ -1,0 +1,44 @@
+{
+  "id": "tw-j0020030",
+  "type": "statute",
+  "title": "土石採取區域採取深度標準",
+  "title_en": "土石採取區域採取深度標準",
+  "short_name": "土石採取區域採取深度標準",
+  "status": "in_force",
+  "issued_date": "2005-06-17",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0020030",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞經濟部＞地礦目. Articles extracted: 5.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依土石採取法第七條第二項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "河川及水域土石採取區域之採取深度，由水利管理機關依河川治理計畫高程及核定土石採取計畫之採取深度為標準。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "濱海及海域土石採取區域之採取深度以由海床直下五公尺為限。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "陸上土石採取區域包括平地土石採取區域及坡地土石採取區域，其採取深度如下：\n一、平地土石採取區域之採取深度，視現場土石賦存情形，其採取深度以十五公尺為限。\n二、坡地土石採取區域採取深度，視現場土石賦存情形，不須實施環境影響評估者應符合附表之布置原則，並以核定土石採取計畫之採取高程為限；須實施環境影響評估者，應符合陸上土石採取環境影響評估審議規範之規定，並依核定之土石採取計畫書圖辦理。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

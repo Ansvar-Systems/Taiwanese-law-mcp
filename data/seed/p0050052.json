@@ -1,0 +1,38 @@
+{
+  "id": "tw-p0050052",
+  "type": "statute",
+  "title": "衛星廣播電視節目起迄時間認定與廣告播送方式及數量分配辦法",
+  "title_en": "Regulations on the Duration of Programs and the Distribution and Number of Advertisements of Satellite Broadcasting Businesses",
+  "short_name": "Regulations on the Duration of Programs and the Distribution and Number of Adver",
+  "status": "in_force",
+  "issued_date": "2024-03-20",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=P0050052",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞國家通訊傳播委員會＞傳播目. Articles extracted: 4.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本辦法依衛星廣播電視法（以下簡稱本法）第三十六條第四項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本法第三十六條第四項所稱節目起迄時間認定，係自播送節目名稱或其他可資辨識節目開始之畫面、聲音或文字起，至下一節目名稱或其他可資辨識節目開始之畫面、聲音或文字播送前止。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "節目播送時間達三十分鐘者，得播送廣告三次；逾三十分鐘達六十分鐘者，得播送廣告六次；逾六十分鐘者，依前述原則計算之。\n現場實況轉播，廣告播送得選擇適當時機為之。\n第一項播送廣告次數之計算含節目前後播出及中間插播之廣告。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本辦法自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

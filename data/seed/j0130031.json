@@ -1,0 +1,55 @@
+{
+  "id": "tw-j0130031",
+  "type": "statute",
+  "title": "白熾燈泡耗用能源效率標準",
+  "title_en": "白熾燈泡耗用能源效率標準",
+  "short_name": "白熾燈泡耗用能源效率標準",
+  "status": "in_force",
+  "issued_date": "2009-03-02",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0130031",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞經濟部＞能源目. Articles extracted: 5.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依能源管理法第十四條第一項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本標準適用於額定消耗電功率在二十五瓦特以上之白熾燈泡。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本標準用詞定義如下：\n一、白熾燈泡：指依國家標準 CNS 298  電燈泡（普通照明用）或 CNS 11006家庭用小型電燈泡所涵蓋之產品。\n二、發光效率（lm/W）：指白熾燈燈泡之初期光束及消耗電功率之比。\n前項白熾燈燈泡初期光束及消耗電功率比值之測試方法，依其燈泡種類分別適用國家標準CNS3891電燈泡（普通照明用）檢驗法或CNS11006家庭用小型電燈泡規定之產品測試方法。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "白熾燈泡依額定消耗功率範圍，其實測之發光效率不得小於下表基準值，並應在產品標示值百分之九十五以上：\n┌──────────┬───────────┐\n│額定消耗電功率（W） │發光效率基準值（1m/W）│\n├──────────┼───────────┤\n│二十五以上，低於四十│十五‧○              │\n├──────────┼───────────┤\n│四十以上，低於六十  │十八‧○              │\n├──────────┼───────────┤\n│六十以上，低於一○○│二十‧○              │\n├──────────┼───────────┤\n│一○○以上          │二十二‧○            │\n└──────────┴───────────┘"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本標準自中華民國一百零一年一月一日施行。"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "白熾燈泡",
+      "definition": "指依國家標準 CNS 298 電燈泡（普通照明用）或 CNS 11006家庭用小型電燈泡所涵蓋之產品。",
+      "source_provision": "art3"
+    },
+    {
+      "term": "發光效率（lm/W）",
+      "definition": "指白熾燈燈泡之初期光束及消耗電功率之比。 前項白熾燈燈泡初期光束及消耗電功率比值之測試方法，依其燈泡種類分別適用國家標準CNS3891電燈泡（普通照明用）檢驗法或CNS11006家庭用小型電燈泡規定之產品測試方法。",
+      "source_provision": "art3"
+    }
+  ]
+}

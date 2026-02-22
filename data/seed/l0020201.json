@@ -1,0 +1,38 @@
+{
+  "id": "tw-l0020201",
+  "type": "statute",
+  "title": "細胞治療技術審查費收費標準",
+  "title_en": "細胞治療技術審查費收費標準",
+  "short_name": "細胞治療技術審查費收費標準",
+  "status": "repealed",
+  "issued_date": "2026-01-20",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020201",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 廢止法規＞衛生福利部. Articles extracted: 4.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依規費法第十條第一項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "醫療機構依特定醫療技術檢查檢驗醫療儀器施行或使用管理辦法（以下簡稱本辦法）規定，向中央主管機關申請施行細胞治療技術者，每一申請案應繳納之審查費如下：\n一、申請核准：新臺幣八萬元。\n二、申請展延：新臺幣八萬元。\n三、申請變更：新臺幣四萬元。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "細胞製備場所所屬機構，依本辦法規定向中央主管機關申請該場所認可、展延或變更者，每一申請案應繳納之審查費如下：\n一、申請認可或場所遷移、擴建或新增細胞治療技術項目（適應症）：新臺幣十二萬元。\n二、申請展延：新臺幣十二萬元。\n三、申請變更機構或場所名稱、地址、專責人員或減少細胞治療技術項目（適應症）：新臺幣一萬元。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

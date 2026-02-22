@@ -1,0 +1,44 @@
+{
+  "id": "tw-o0060041",
+  "type": "statute",
+  "title": "毒性及關注化學物質災害潛勢資料公開辦法",
+  "title_en": "毒性及關注化學物質災害潛勢資料公開辦法",
+  "short_name": "毒性及關注化學物質災害潛勢資料公開辦法",
+  "status": "in_force",
+  "issued_date": "2022-12-14",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=O0060041",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞環境部＞化學物質管理目. Articles extracted: 5.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本辦法依災害防救法第二十二條第四項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本辦法所定災害潛勢資料公開種類如下：\n一、毒性及關注化學物質災害防救手冊。\n二、毒性及關注化學物質危害預防及應變計畫作業辦法所定應公開之相關資料。\n前項第一款所稱毒性及關注化學物質，指依毒性及關注化學物質管理法公告列管之物質。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "中央主管機關應編撰毒性及關注化學物質災害防救手冊，登載於主管機關網站並定期更新，其內容如下：\n一、物質辨識資料表。\n二、物性、化性與災害資料。\n三、防災設備。\n四、中毒之症狀。\n五、急救方式。\n六、救災方式及災後處理。\n新增公告之列管毒性及關注化學物質，中央主管機關應於公告後半年內，編撰該新增毒性及關注化學物質之防救資料，並登載於主管機關網站。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "第二條第一項第二款之公開內容、方式，依毒性及關注化學物質危害預防及應變計畫作業辦法第九條規定辦理。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本辦法自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": "tw-f0030052",
+  "type": "statute",
+  "title": "軍人權益事件復審扣除在途期間辦法",
+  "title_en": "軍人權益事件復審扣除在途期間辦法",
+  "short_name": "軍人權益事件復審扣除在途期間辦法",
+  "status": "in_force",
+  "issued_date": "2025-07-31",
+  "in_force_date": "2025-08-06",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0030052",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞國防部＞人事目. Articles extracted: 7.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本辦法依軍人權益事件處理法（以下簡稱本法）第三十二條第二項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "復審人住居於臺灣地區者，其在途期間如附表一。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "復審人住居於大陸地區者，其在途期間三十七日。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "復審人住居於香港或澳門者，其在途期間三十七日。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "復審人住居或服役於國外者，其在途期間如附表二。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "再申訴人提起再申訴，且不在地方軍事法院官兵權益保障會所在地住居或服役者，其住居或服役於臺灣地區、大陸地區、香港、澳門或於國外者，計算本法第六十二條第二項所定二十日，準用前四條規定。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "本辦法自本法施行之日施行。"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "tw-h0170539",
+  "type": "statute",
+  "title": "國立臺灣文學館典藏數位圖像使用收費標準",
+  "title_en": "國立臺灣文學館典藏數位圖像使用收費標準",
+  "short_name": "國立臺灣文學館典藏數位圖像使用收費標準",
+  "status": "in_force",
+  "issued_date": "2022-09-02",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0170539",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞文化部＞建設目. Articles extracted: 3.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依規費法第十條第一項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "使用國立臺灣文學館典藏品之圖像資料，每次使用收費以每張圖檔為計費單位，收費基準如下：\n一、圖檔規格300dpi以下，收費新臺幣四百元。\n二、圖檔規格逾300dpi，收費新臺幣八百元。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

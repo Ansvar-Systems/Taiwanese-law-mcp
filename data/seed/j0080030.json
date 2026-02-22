@@ -1,0 +1,38 @@
+{
+  "id": "tw-j0080030",
+  "type": "statute",
+  "title": "電子遊戲機分類標準",
+  "title_en": "電子遊戲機分類標準",
+  "short_name": "電子遊戲機分類標準",
+  "status": "repealed",
+  "issued_date": "2019-01-02",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0080030",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 廢止法規＞經濟部. Articles extracted: 4.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依據電子遊戲場業管理條例第四條第三項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "電子遊戲機之分類如下：\n一、益智類。\n二、鋼珠類 (柏青哥) 。\n三、娛樂類。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "電子遊戲機依據畫面之暴露、暴力、血腥、恐怖程度及操作結果分類如下\n：\n一、暴露程度\n (一) 益智類：內容中無任何暴露畫面，且無任何渲染妨害風化者屬之。\n (二) 娛樂類及鋼珠類：內容中有暴露畫面，但不涉及妨害風化者屬之。\n二、暴力、血腥或恐怖程度\n (一) 益智類：內容中無任何過激暴力、血腥或恐怖者屬之。\n (二) 娛樂類及鋼珠類：內容中涉及暴力、血腥或恐怖者屬之。\n三、操作結果\n (一) 益智類：其操作結果所得之分數僅得作為兌換獎品之憑證，不得作\n      為轉押注使用者屬之。\n (二) 鋼珠類：操縱鋼珠發射以產生鋼珠者屬之。\n (三) 娛樂類：其操作結果具射倖性，且所得之分數得作為兌換獎品之憑\n      證或作為轉押注使用者屬之。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

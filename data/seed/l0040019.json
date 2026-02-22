@@ -1,0 +1,56 @@
+{
+  "id": "tw-l0040019",
+  "type": "statute",
+  "title": "食品器具容器包裝衛生標準",
+  "title_en": "Sanitation Standards for Food Utensils, Containers and Packages",
+  "short_name": "Sanitation Standards for Food Utensils, Containers and Packages",
+  "status": "in_force",
+  "issued_date": "2023-01-11",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0040019",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞衛生福利部＞食品藥物管理目. Articles extracted: 7.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依食品安全衛生管理法第十七條規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "塑膠製食品容器及包裝不得回收後，再重複包裝食品販賣。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "食品器具、容器或包裝不得有不良變色、異臭、異味、污染、發霉、含有異物或纖維剝落。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "專供三歲以下嬰幼兒使用之食品器具及容器，不得添加鄰苯二甲酸二（2-乙基己基）酯（DEHP）、鄰苯二甲酸二正辛酯（DNOP）、鄰苯二甲酸二丁酯（DBP）及鄰苯二甲酸丁苯甲酯（BBP）四種塑化劑。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "嬰幼兒奶瓶不得使用含雙酚A（Bisphenol A）之塑膠材質。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "食品器具、容器、包裝應符合下列試驗標準：\n一、一般規定，如附表一。\n二、塑膠材質，除應符合一般規定外，另應符合附表二之規定。\n三、乳品用容器、包裝材質，除應符合一般規定外，另應符合附表三之規定。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "tw-d0070174",
+  "type": "statute",
+  "title": "九十八年國民住宅出售出租對象家庭收入標準",
+  "title_en": "九十八年國民住宅出售出租對象家庭收入標準",
+  "short_name": "九十八年國民住宅出售出租對象家庭收入標準",
+  "status": "repealed",
+  "issued_date": "2009-12-31",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070174",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 廢止法規＞內政部. Articles extracted: 4.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依國民住宅條例第二條第二項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "九十八年國民住宅出售出租對象家庭收入之基準，規定如下︰\n┌───┬─────────┬───────┐\n│      │出售              │出租          │\n├───┼─────────┼───────┤\n│臺灣省│九十六萬元以下    │五十三萬元以下│\n├───┼─────────┼───────┤\n│臺北市│一百四十七萬元以下│九十萬元以下  │\n├───┼─────────┼───────┤\n│高雄市│一百零五萬元以下  │六十一萬元以下│\n└───┴─────────┴───────┘\n　　　　　　　　　　　　　　　（單位：新臺幣）"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "臺灣省之市、臺北縣縣轄市以外之鄉（鎮）地區及高雄縣縣轄市，得比照\n高雄市之基準辦理；臺北縣縣轄市，得比照臺北市之基準辦理。\n金門及馬祖地區，比照臺灣省之基準辦理。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本標準自中華民國九十八年一月一日施行，至九十八年十二月三十一日止\n。"
+    }
+  ],
+  "definitions": []
+}

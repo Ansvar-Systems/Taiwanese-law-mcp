@@ -1,0 +1,44 @@
+{
+  "id": "tw-g0380175",
+  "type": "statute",
+  "title": "大陸地區發行之貨幣進出入臺灣地區許可辦法",
+  "title_en": "大陸地區發行之貨幣進出入臺灣地區許可辦法",
+  "short_name": "大陸地區發行之貨幣進出入臺灣地區許可辦法",
+  "status": "in_force",
+  "issued_date": "2008-06-27",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0380175",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞金融監督管理委員會＞銀行目. Articles extracted: 5.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本辦法依臺灣地區與大陸地區人民關係條例（以下簡稱本條例）第三十八條第二項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "大陸地區發行之貨幣（以下稱人民幣），得在本條例第三十八條第一項規定之限額內，進出入臺灣地區。\n旅客或隨交通工具服務之人員，攜帶人民幣進出入臺灣地區超過限額者，應自動向海關申報；超過部分，由旅客自行封存於海關，出境時准予攜出。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "違反前條規定，經相關機關查獲者，其人民幣，移請海關依本條例第九十二條第一項規定沒入之。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "旅客或隨交通工具服務之人員，攜帶人民幣進出入臺灣地區之限額，不計入攜帶外幣之額度內。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本辦法自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,85 @@
+{
+  "id": "tw-i0040063",
+  "type": "statute",
+  "title": "被告資料調查辦法",
+  "title_en": "Regulations Governing Investigation of Defendant’s Information",
+  "short_name": "Regulations Governing Investigation of Defendant’s Information",
+  "status": "in_force",
+  "issued_date": "2020-07-15",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0040063",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞法務部＞矯正目. Articles extracted: 10.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本辦法依羈押法（以下簡稱本法）第九條第三項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本辦法用詞定義如下：\n一、看守所：指法務部矯正署所屬看守所，及看守所設置之分所、女所。\n二、看守所長官：指前款看守所之首長，及其授權之人。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "依本法第九條第一項所定，調查與被告有關之資料範圍如下：\n一、名籍資料。\n二、身心狀況。\n三、犯罪前科及狀況。\n四、社會、心理及家庭狀況。\n五、社會福利、保護及扶助需求。\n六、其他依法規應調查之事項。\n七、其他可作為生活輔導參考事項。\n前項調查資料，於被告移送監獄執行時，除依本法第一百零八條規定應附送者外，得依情節將相關資料一併移交監獄作為調查之參酌。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "被告依其志願參加作業者，其職業、知識、技能狀況及其相關資料之調查，應取得被告之同意。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "看守所應設調查小組，由輔導、作業、衛生、戒護、總務等業務人員組成。由主管輔導業務科長或經看守所長官指定之主管人員擔任組長。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "看守所於被告入所時，應調查與被告有關之資料，期間不得逾一個月。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "前條調查事項依下列方法為之：\n一、直接調查：由調查小組人員以觀察或晤談之方式實施調查，記錄於調查表，並由實施調查者簽名。\n二、間接調查：向相關機關（構）、法人、團體、個人查詢，或請求提供相關資料。\n三、心理測驗：施以智力、行為及情緒等測驗。\n前項心理測驗項目得依調查需求擇定之，施測人員應具備相關測驗之資格或經專業訓練合格。\n被告係經法院或檢察官命具保，因覓保中而受羈押者，或羈押未達七日者，第一項調查得以簡式方式為之。\n第一項第一款、第二款之調查及前項簡式調查之格式，由監督機關定之。"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "第 8 條",
+      "content": "入所調查完畢後，應作成調查資料，並提交審議。修正時，亦同。\n前項審議由看守所長官指派業務科室主管以上之人員，以書面審議之。"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "第 9 條",
+      "content": "看守所應依前條審議結果安排被告生活輔導、管理事宜，並依被告志願安排作業及宗教活動。"
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "第 10 條",
+      "content": "本辦法自中華民國一百零九年七月十五日施行。"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "看守所",
+      "definition": "指法務部矯正署所屬看守所，及看守所設置之分所、女所。",
+      "source_provision": "art2"
+    },
+    {
+      "term": "看守所長官",
+      "definition": "指前款看守所之首長，及其授權之人。",
+      "source_provision": "art2"
+    }
+  ]
+}

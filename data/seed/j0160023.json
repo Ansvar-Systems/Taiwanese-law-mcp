@@ -1,0 +1,74 @@
+{
+  "id": "tw-j0160023",
+  "type": "statute",
+  "title": "游離輻射防護管制收費標準",
+  "title_en": "Standards of Fees Collection for Ionizing Radiation Protection Control",
+  "short_name": "Standards of Fees Collection for Ionizing Radiation Protection Control",
+  "status": "in_force",
+  "issued_date": "2008-11-12",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0160023",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞核能安全委員會＞原子能目. Articles extracted: 10.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依游離輻射防護法（以下簡稱本法）第五十二條規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "依本法申請許可、登記備查或申請核發、換發或補發證照、證書或執照，應繳納證照費、審查費或檢查費。\n前項證照係指認可證及許可證；證書係指認可證書及安全證書。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "申請許可、登記備查或申請核發證照、證書或執照者，應繳納之各項費額，如附表一。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "效期屆滿申請展延許可或申請換發證照、證書或執照者，應繳納之各項費額，如附表二。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "申請換發下列證照者，應繳納之各項費額，如附表三：\n一、改裝放射性物質或可發生游離輻射設備。\n二、增加非密封放射性物質之使用場所、核種數量或活度。\n三、變更放射性物質生產及其設施或可發生游離輻射設備製造設施。\n四、變更銷售許可證之持有項目。\n前項申請如係放射性物質活度減少者，免繳納審查費。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "證照、證書或執照遺失、損毀或登載事項變更，申請換發或補發者，除有前條規定之情形外，免繳納審查費、檢查費。但應繳納證照費。\n前項登載事項變更，係因行政區域調整或門牌改變者，申請換發免繳納審查費及證照費。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "申請商品添加放射性物質許可者，應繳納審查費新臺幣五萬四千元。\n申請清理計畫審查者，應繳納審查費新臺幣二萬元。"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "第 8 條",
+      "content": "申請參加主管機關輻射防護人員認可或操作人員之輻射安全證書測驗者，應繳納審查費新臺幣一千元。\n申請參加主管機關高強度輻射設施或放射性物質生產設施運轉人員測驗者，應繳納審查費新臺幣二千元。"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "第 9 條",
+      "content": "申請核發或換發證照、證書或執照，已依本標準規定繳納各項費用後，於證照、證書或執照核發前，申請變更審查項目或內容者，應再依規定繳納審查費、檢查費。"
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "第 10 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

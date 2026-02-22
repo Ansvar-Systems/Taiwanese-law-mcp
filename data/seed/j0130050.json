@@ -1,0 +1,62 @@
+{
+  "id": "tw-j0130050",
+  "type": "statute",
+  "title": "公用天然氣事業重新申請供氣許可辦法",
+  "title_en": "公用天然氣事業重新申請供氣許可辦法",
+  "short_name": "公用天然氣事業重新申請供氣許可辦法",
+  "status": "in_force",
+  "issued_date": "2011-08-01",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0130050",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞經濟部＞能源目. Articles extracted: 8.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本辦法依天然氣事業法（以下簡稱本法）第六十八條第三項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "公用天然氣事業符合下列各款規定者，得依本辦法申請供氣許可並核發供氣營業執照：\n一、依本法第六十八條第一項規定，取得公用天然氣事業臨時供氣營業執照。\n二、未受主管機關廢止公用天然氣事業臨時供氣營業執照之處分。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "公用天然氣事業符合前條資格者，應於中華民國一百零一年二月一日至一百零三年一月三十一日提出申請。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "依前條規定提出申請者應檢具下列文件，報經直轄市、縣（市）主管機關轉請中央主管機關申請供氣許可：\n一、公司登記證明文件。\n二、負責人身分證明文件。\n三、實收資本額證明文件。\n四、各供氣區域用戶數統計表。\n五、各供氣區域管線埋設長度彙整表。\n六、比例尺不得小於一萬分之一之供氣區域地圖三份。\n七、輸儲設備配置位址圖。\n八、臨時供氣營業執照影本。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "申請者應檢具之文件不全或記載不完備時，中央主管機關應通知申請者於三十日內補正；逾期未補正或補正不完備者，應予駁回。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "申請者有下列情形之一者，中央主管機關得駁回該供氣區域申請供氣之許可，並通知直轄市、縣（市）主管機關：\n一、輸氣管線未通達該供氣區域之主要街道。\n二、該供氣區域無已供氣之家庭、商業及服務業用戶。\n三、未依本法第六十七條規定之期限補正，經主管機關依本法相關規定通知限期改善，仍未改善。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "依本辦法獲發供氣營業執照者，應繳回臨時供氣營業執照正本。"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "第 8 條",
+      "content": "本辦法自發布日起施行。"
+    }
+  ],
+  "definitions": []
+}

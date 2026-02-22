@@ -1,0 +1,44 @@
+{
+  "id": "tw-h0170070",
+  "type": "statute",
+  "title": "國立臺灣博物館規費收費標準",
+  "title_en": "國立臺灣博物館規費收費標準",
+  "short_name": "國立臺灣博物館規費收費標準",
+  "status": "in_force",
+  "issued_date": "2021-10-27",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0170070",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞文化部＞建設目. Articles extracted: 5.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依規費法第十條第一項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "使用國立臺灣博物館（以下簡稱本館）各場地，應遵守本館場地使用要點，其收費基準如附表一。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "使用本館圖像資料，應遵守本館圖像資料使用要點，其收費基準如附表二。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "使用本館拉曼光譜儀，應遵守本館拉曼光譜儀使用要點，其收費基準如附表三。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

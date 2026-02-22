@@ -1,0 +1,39 @@
+{
+  "id": "tw-d0090075",
+  "type": "statute",
+  "title": "海洋保育法海洋庇護區申請案件收費標準",
+  "title_en": "海洋保育法海洋庇護區申請案件收費標準",
+  "short_name": "海洋保育法海洋庇護區申請案件收費標準",
+  "status": "in_force",
+  "issued_date": "2025-06-30",
+  "in_force_date": "2025-07-01",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0090075",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞海洋委員會＞海洋資源目. Articles extracted: 4.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依規費法第十條第一項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "中央主管機關依海洋保育法（以下簡稱本法）第十條第一項第四款、第十一條第一項第三款至第五款及第十二條規定，受理海洋庇護區之申請案，應依附表逐案收取審查費。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "審查費經繳納後，除依規費法之規定得申請退還外，不得以任何理由要求退費或保留。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本標準自中華民國一百十四年七月一日施行。"
+    }
+  ],
+  "definitions": []
+}

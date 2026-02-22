@@ -1,0 +1,44 @@
+{
+  "id": "tw-l0040142",
+  "type": "statute",
+  "title": "食品中微生物衛生標準",
+  "title_en": "Sanitation Standards for Microorganisms in Foods",
+  "short_name": "Sanitation Standards for Microorganisms in Foods",
+  "status": "in_force",
+  "issued_date": "2020-10-06",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0040142",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞衛生福利部＞食品藥物管理目. Articles extracted: 5.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依食品安全衛生管理法（以下簡稱本法）第十七條規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本標準之訂定範圍，包括食品微生物及其毒素或代謝物，不包括真菌及其毒素。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "食品中之微生物及其毒素或代謝物限量，應符合附表之規定。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "食品有本法第十五條第一項第四款及本法施行細則第六條規定情事者，依違反本法第十五條第一項規定辦理。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本標準自中華民國一百十年七月一日施行。"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,86 @@
+{
+  "id": "tw-a0030150",
+  "type": "statute",
+  "title": "立法院職員考勤規則",
+  "title_en": "立法院職員考勤規則",
+  "short_name": "立法院職員考勤規則",
+  "status": "repealed",
+  "issued_date": "2016-09-01",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030150",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 廢止法規＞立法. Articles extracted: 12.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "立法院（以下簡稱本院）職員考勤，除法令另有規定外，依本規則之規定。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本院上班時間如下：\n（一）上午：自八時三十分起至十二時止。\n（二）下午：自一時三十分起至六時止。\n前項時間，必要時簽報院長調整之。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本院職員均應按規定時間親自簽到及簽退，不得預簽或代簽。如經發現有預簽、代簽等情事，立即簽報處理。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本院人事處（以下簡稱人事處）於上班前應將簽到簿送達各單位辦公室；上班後二十分鐘收回，從嚴檢查。凡遲到、早退、曠職者，應分別加蓋戳記。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "上班時間開始半小時後仍未簽到者為遲到，逾一小時仍未簽到者為曠職；下班前半小時離開者為早退、一小時離開者為曠職。但有職務上之理由或其他特殊情形，經查屬實並簽報核准者，不在此限。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "人事處於每日下班前二十分鐘將簽退簿送達各單位，以便簽退；簽退簿收回時間星期一至星期五當日下午六時三十分。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "本院職員平時勤惰，應由單位主管負責監督考核，並專置外出登記簿由單位主管保管或指定之專人保管。辦公時間內，因公離開院區，應將事由、時間、地點詳填於外出登記簿。\n如有擅自外出院區或早退，單位主管應予查明通知人事處依規定論處。"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "第 8 條",
+      "content": "辦公時間內，由人事處主管會同單位主管查勤，無故不在勤者，以曠職論。"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "第 9 條",
+      "content": "因事因病等情形不克到公者，應依規定辦理請假手續，如因特殊情形須補辦請假者，應於次日辦理，逾期以曠職論。"
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "第 10 條",
+      "content": "一年內遲到、早退累計五次者，以曠職一次論；曠職二次者，以曠職一日計，並依規定處罰。"
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "第 11 條",
+      "content": "本院職員差假勤惰資料，由人事處按月呈報秘書長轉呈院長核閱，並為年終考績之依據。"
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "第 12 條",
+      "content": "本規則經院長核定後施行。"
+    }
+  ],
+  "definitions": []
+}

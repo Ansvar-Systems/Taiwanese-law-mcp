@@ -1,0 +1,44 @@
+{
+  "id": "tw-l0020158",
+  "type": "statute",
+  "title": "醫院緊急醫療能力分級標準",
+  "title_en": "醫院緊急醫療能力分級標準",
+  "short_name": "醫院緊急醫療能力分級標準",
+  "status": "in_force",
+  "issued_date": "2012-10-30",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020158",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞衛生福利部＞醫事目. Articles extracted: 5.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依緊急醫療救護法（以下簡稱本法）第三十八條第二項規定定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "醫院之緊急醫療處理能力（以下稱醫院緊急醫療能力），依其提供之緊急醫療種類、人力設施、作業量能，區分為重度級、中度級、一般級。其評級項目，如附表。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "醫院於評定後，因條件異動顯有影響其分級者，中央衛生主管機關得予重新評定。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "醫院緊急醫療能力未符附表規定，經地方衛生主管機關認有因應特殊緊急醫療需求之必要者，得評定其為暫准中度級或暫准一般級。\n中央及地方衛生主管機關對前項評定之醫院，應加強輔導改善。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本辦法自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

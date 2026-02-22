@@ -1,0 +1,56 @@
+{
+  "id": "tw-g0350019",
+  "type": "statute",
+  "title": "原子能設備進口關稅減免辦法",
+  "title_en": "原子能設備進口關稅減免辦法",
+  "short_name": "原子能設備進口關稅減免辦法",
+  "status": "in_force",
+  "issued_date": "2024-11-05",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0350019",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞財政部＞關務目. Articles extracted: 7.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本辦法依原子能法第二十條規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "研究及事業機構進口原子能科學與技術研究發展所需之設備，包括核子原料、核子燃料或放射性物質，免徵關稅。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "事業機構進口探勘開採核子原料及提煉生產核子燃料或放射性物質所需之設備，免徵關稅。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "事業機構進口原子能發電有關設備，包括核子原料、核子燃料或放射性物質，免徵關稅。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "研究及事業機構因放射性偵測、警示、分析與化驗等工作所需進口之輻射防護有關設備，免徵關稅。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "依本辦法規定進口各項原子能設備減免關稅案件，應經核能安全委員會核明函轉進口地海關辦理。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "本辦法自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

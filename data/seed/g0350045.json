@@ -1,0 +1,56 @@
+{
+  "id": "tw-g0350045",
+  "type": "statute",
+  "title": "海關查扣著作權或製版權侵害物實施辦法",
+  "title_en": "Implementation Regulations for Suspension of Release of Goods Infringing on Copyright or Plate Rights by Customs Authorities",
+  "short_name": "Implementation Regulations for Suspension of Release of Goods Infringing on Copy",
+  "status": "in_force",
+  "issued_date": "2005-01-27",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0350045",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞經濟部＞智慧財產權目. Articles extracted: 7.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本辦法依著作權法（以下簡稱本法）第九十條之二規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "著作權人或製版權人依本法第九十條之一第一項規定對輸入或輸出侵害其著作權或製版權之物申請查扣者，應提供相當於海關核估該進口貨物完稅價格或出口貨物離岸價格之保證金，作為被查扣人因查扣所受損害之賠償擔保，並以書面敘明下列事項，向貨物輸入或輸出地海關申請之：\n一、享有著作權或製版權。\n二、足以辨認侵害物之描述。\n三、侵害事實。\n前項第一款及第三款事項應釋明之。\n第一項之保證金，得以下列擔保代之：\n一、政府發行之公債。\n二、銀行定期存單。\n三、信用合作社定期存單。\n四、信託投資公司一年以上普通信託憑證。\n五、授信機構之保證。\n前項第一款至第四款之擔保，應設定質權於海關。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "海關就查扣之申請，經審核符合本法第九十條之一第二項及前條規定者，應即為查扣。\n查扣之申請須補正者，海關應即通知申請人補正。於補正前，通關程序不受影響。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "（刪除）"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "申請人或被查扣人依本法第九十條之一第四項規定申請檢視被查扣物者，應以書面向貨物輸入或輸出地海關為之。\n前項檢視，應依海關指定之時間、處所及方法為之。\n海關為前項指定時，應注意不損及被查扣物機密資料之保護。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "被查扣之物，經法院確定判決認屬侵害著作權或製版權之物者，海關得應申請人之書面申請，將被查扣物之數量及其發貨人、進口人及收貨人之姓名或名稱及地址，告知申請人。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "本辦法自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

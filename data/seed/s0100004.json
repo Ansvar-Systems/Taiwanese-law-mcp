@@ -1,0 +1,38 @@
+{
+  "id": "tw-s0100004",
+  "type": "statute",
+  "title": "銓敘案件同姓名處理規則",
+  "title_en": "銓敘案件同姓名處理規則",
+  "short_name": "銓敘案件同姓名處理規則",
+  "status": "repealed",
+  "issued_date": "2021-04-30",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=S0100004",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 廢止法規＞銓敘部. Articles extracted: 4.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "銓敘機關審查各類案件遇有同姓名者，通知送審在後之人員以字行。如同時送審，通知職務較低者；職務相同，通知出生在後者。無字者退還原件。\n前項被退還原件人之送審人，應限期令其檢呈銓敘機關通知書，逕向內政部為更名之申請。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "以字行核定後，應由銓敘部或各省銓敘處，呈由銓敘部咨內政部備案。\n送核人員為考試及格或中等以上學校畢業者，並分別咨考選委員會或教育部備案。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "以字行或改名之案件，經審定後，應於有關證書文件敘明緣由，附註原名。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本規則自公布日施行。"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,68 @@
+{
+  "id": "tw-o0020028",
+  "type": "statute",
+  "title": "熱風乾燥機粒狀污染物排放標準",
+  "title_en": "熱風乾燥機粒狀污染物排放標準",
+  "short_name": "熱風乾燥機粒狀污染物排放標準",
+  "status": "in_force",
+  "issued_date": "1999-03-17",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=O0020028",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞環境部＞大氣環境目. Articles extracted: 9.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本辦法依空氣污染防制法第二十條第二項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本標準未規定事項依相關規定辦理。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本標準專用名詞及符號定義依固定污染源空氣污染物排放標準之規定。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本標準所稱熱風乾燥機，係指利用燃料燃燒之高溫氣體及大量空氣混合之熱氣流與含水份之物料直接接觸，以乾燥物料為目的之設備，其排氣含氧量為十三‧五％以上者。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本標準適用對象包括化工製品業之磷酸二鈣工場氣流乾燥機及三聚磷酸鈉工場培燒機。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "本標準規定值如附表。"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "第 7 條",
+      "content": "本標準濃度值計算均以凱氏溫度二七三度及一大氣壓下未經稀釋之乾燥排氣體積為計算基準。\n污染物濃度 C  及排氣量 Q  校正計算公式如左：\n   21-On\nC＝───‧Cs\n   21-Os\n   21-Os\nQ＝───‧Qs\n   21-On"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "第 8 條",
+      "content": "污染物採樣及測定方法依中央主管機關公告之方法。"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "第 9 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

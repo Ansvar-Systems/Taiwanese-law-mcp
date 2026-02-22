@@ -1,0 +1,38 @@
+{
+  "id": "tw-j0110115",
+  "type": "statute",
+  "title": "水文資訊收費標準",
+  "title_en": "水文資訊收費標準",
+  "short_name": "水文資訊收費標準",
+  "status": "in_force",
+  "issued_date": "2025-07-04",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0110115",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞經濟部＞水利目. Articles extracted: 4.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依政府資訊公開法第二十二條第二項及規費法第十條第一項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本標準所稱水文資訊，指由經濟部（以下簡稱本部）產製並經完成檢核程序之地面水、地下水、近海水文及河川大斷面等電子資訊。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本部提供之水文資訊，依附表之收費基準計算其應收費用。\n本部受理申請之水文資訊，遇有缺測部分致無法提供者，其應收費用按未缺測部分數量占申請水文資訊全部數量比例計之，以新臺幣元為單位四捨五入至整數。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

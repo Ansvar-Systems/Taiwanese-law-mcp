@@ -1,0 +1,38 @@
+{
+  "id": "tw-d0070262",
+  "type": "statute",
+  "title": "內政部受理查詢國家公園計畫範圍案件收費標準",
+  "title_en": "內政部受理查詢國家公園計畫範圍案件收費標準",
+  "short_name": "內政部受理查詢國家公園計畫範圍案件收費標準",
+  "status": "in_force",
+  "issued_date": "2017-12-12",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070262",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞內政部＞國家公園目. Articles extracted: 4.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依規費法第十條第一項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "申請查詢國家公園計畫範圍（含特別景觀區、生態保護區、史蹟保存區、一般管制區及遊憩區），其查詢土地筆數十筆以下者，每件繳納新臺幣三百五十元；超過十筆者，每超過十筆加計新臺幣六十元，不足十筆者，以十筆計算。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本標準所定規費經繳納後，除有溢繳或誤繳情形，得依規費法相關規定辦理外，不得申請退費。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本標準自發布日實施。"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "tw-j0020029",
+  "type": "statute",
+  "title": "載運少量土石認定標準",
+  "title_en": "載運少量土石認定標準",
+  "short_name": "載運少量土石認定標準",
+  "status": "in_force",
+  "issued_date": "2003-06-25",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0020029",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞經濟部＞地礦目. Articles extracted: 3.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依土石採取法（以下簡稱本法）第三十五條第四項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本法所指載運少量土石，指載運土石之重量未逾三公噸之非傾卸框式大貨車或半拖車者。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

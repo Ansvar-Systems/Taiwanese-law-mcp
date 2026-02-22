@@ -1,0 +1,32 @@
+{
+  "id": "tw-k0100007",
+  "type": "statute",
+  "title": "專用觀測站應經校驗之觀測儀器類別標準",
+  "title_en": "Standard on Categories of Observation Instruments of Exclusive Observation Stations Obligatory for Calibration",
+  "short_name": "Standard on Categories of Observation Instruments of Exclusive Observation Stati",
+  "status": "in_force",
+  "issued_date": "2004-03-12",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0100007",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞交通部＞氣象目. Articles extracted: 3.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依氣象法第二十條第五項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "專用觀測站應經校驗之觀測儀器類別如下：\n一、氣壓類。\n二、溫度類。\n三、溼度類。\n四、降水類。\n五、風向類。\n六、風速類。\n七、日照類。\n八、日射類。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

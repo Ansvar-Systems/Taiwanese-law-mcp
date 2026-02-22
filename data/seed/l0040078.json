@@ -1,0 +1,38 @@
+{
+  "id": "tw-l0040078",
+  "type": "statute",
+  "title": "動物產品中農藥殘留容許量標準",
+  "title_en": "Standards for Pesticide Residue Limits in Animal Products",
+  "short_name": "Standards for Pesticide Residue Limits in Animal Products",
+  "status": "in_force",
+  "issued_date": "2025-11-26",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0040078",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞衛生福利部＞食品藥物管理目. Articles extracted: 4.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依食品安全衛生管理法第十五條第二項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本標準殘留農藥之計算，包括農藥本身及其代謝產物，且均以市售型態之重量為計算基準。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "動物產品中之農藥殘留量應符合下列規定，本表中未列者，不得檢出："
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

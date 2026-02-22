@@ -449,7 +449,7 @@ function buildDatabase(): void {
     insertMeta.run('built_at', new Date().toISOString());
     insertMeta.run('builder', 'build-db.ts');
     insertMeta.run('jurisdiction', 'TW');
-    insertMeta.run('source', 'law.moj.gov.tw/api/ch/law/json');
+    insertMeta.run('source', 'law.moj.gov.tw/api/ch/law/json + law.moj.gov.tw/api/ch/order/json');
     insertMeta.run('licence', 'See sources.yml');
   });
   writeMeta();

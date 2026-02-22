@@ -1,0 +1,38 @@
+{
+  "id": "tw-l0030043",
+  "type": "statute",
+  "title": "藥品廣告審查費收費標準",
+  "title_en": "Fee-Charging Standards for the Review of Drug Advertisements",
+  "short_name": "Fee-Charging Standards for the Review of Drug Advertisements",
+  "status": "in_force",
+  "issued_date": "2024-05-17",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0030043",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞衛生福利部＞食品藥物管理目. Articles extracted: 4.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依規費法第七條及第十條規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "本標準適用依藥事法規定申請審查之藥品廣告。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "藥品廣告審查項目之收費標準如下：\n一、廣告新申請案之審查費，每件收取新臺幣六千元。\n二、展延申請案之審查費，每件收取新臺幣二千二百元。\n三、核定表遺失補發，每件收取新臺幣一千七百元。\n四、廣告法規函詢案，每件收取新臺幣二千八百元。\n五、衛教廣告函詢案，每件收取新臺幣六千元。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

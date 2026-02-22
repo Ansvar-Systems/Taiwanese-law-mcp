@@ -1,0 +1,50 @@
+{
+  "id": "tw-f0100020",
+  "type": "statute",
+  "title": "國軍支援交通部緊急疏運收費標準",
+  "title_en": "國軍支援交通部緊急疏運收費標準",
+  "short_name": "國軍支援交通部緊急疏運收費標準",
+  "status": "in_force",
+  "issued_date": "2025-11-11",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0100020",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞國防部＞交通通信目. Articles extracted: 6.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依規費法第十條第一項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "搭乘國軍支援交通部緊急疏運之軍用運輸機者（以下簡稱緊急疏運之軍機乘客），須具中華民國國籍，並出示下列證件之一：\n一、中華民國身分證。\n二、駕照。\n三、健保卡。\n四、戶籍謄本。未滿十四歲者，得以戶口名簿影本代替之。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "緊急疏運之軍機乘客應於搭乘前完成投保意外險，並填具搭機切結書。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "交通部應向緊急疏運之軍機乘客收取搭乘之費用每人新臺幣一千元，並於扣除保險費用後，撥入國防部指定之帳戶收繳國庫。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "各地區航空站負責緊急疏運之軍機乘客候機補位安排、搭乘費用收繳、代收費用收據之印製、辦理保險及相關事宜。"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "第 6 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}

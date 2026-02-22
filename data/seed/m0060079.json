@@ -1,0 +1,44 @@
+{
+  "id": "tw-m0060079",
+  "type": "statute",
+  "title": "農業部畜產試驗所種畜禽基因檢測服務收費標準",
+  "title_en": "農業部畜產試驗所種畜禽基因檢測服務收費標準",
+  "short_name": "農業部畜產試驗所種畜禽基因檢測服務收費標準",
+  "status": "in_force",
+  "issued_date": "2024-01-02",
+  "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0060079",
+  "description": "Official legislation text from Taiwan Laws & Regulations Database. Category: 行政＞農業部＞農業試驗改良目. Articles extracted: 5.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "第 1 條",
+      "content": "本標準依規費法第十條第一項規定訂定之。"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "第 2 條",
+      "content": "以聚合酶連鎖反應法（PCR）定性檢測種畜禽基因型，每樣品收費新臺幣一千元，並得檢測三個基因品項；超過者，為另一樣品，得再檢測三個基因品項，以此類推。\n前項基因品項，包含下列項目：\n一、豬：緊迫基因（PSS）、多產基因（ESR）及粒線體基因。\n二、牛：牛淋巴球黏力缺失症基因（BLAD）、牛單譜症基因（DUMPS）、牛瓜胺酸症基因（CITR）、牛脊椎畸形複合症基因（CVM）、牛性別基因。\n三、山羊：黏多醣症基因（G6S）。\n四、雞：熱休克蛋白基因（HSP70）、多產基因（ESR）、泌乳素基因（PRL）、泌乳素接受體基因（PRLR）。"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "第 3 條",
+      "content": "以微衛星型遺傳標記定性檢測者，每樣品收費新臺幣三千二百元，並得檢測十個遺傳標記品項；超過者，為另一樣品，得再檢測十個遺傳標記品項，以此類推。\n適用於前項遺傳標記品項之動物，包括豬、牛、水牛、山羊、水鹿、梅花鹿、雞、兔、鴨、鵝。"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "第 4 條",
+      "content": "本標準未明列之收費事項，由農業部畜產試驗所與委託人另行約定。"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "第 5 條",
+      "content": "本標準自發布日施行。"
+    }
+  ],
+  "definitions": []
+}
