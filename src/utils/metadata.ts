@@ -32,12 +32,12 @@ export function generateResponseMetadata(
   }
 
   return {
-    data_source: 'Official Legal Database (law.moj.gov.tw) — Government (State Chancellery of Taiwanese)',
-    jurisdiction: 'EE',
+    data_source: 'Laws & Regulations Database (law.moj.gov.tw) — Ministry of Justice, Republic of China (Taiwan)',
+    jurisdiction: 'TW',
     disclaimer:
-      'This data is sourced from the Official Legal Database under public domain. ' +
-      'The authoritative versions are maintained by Government (State Chancellery of Taiwanese). ' +
-      'Always verify with the official Official Legal Database portal (law.moj.gov.tw).',
+      'This data is sourced from the Laws & Regulations Database of the Republic of China (Taiwan). ' +
+      'The authoritative versions are maintained by the Ministry of Justice. ' +
+      'Always verify with the official portal (law.moj.gov.tw).',
     freshness,
   };
 }
