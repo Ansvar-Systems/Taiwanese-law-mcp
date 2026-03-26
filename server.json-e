@@ -24,7 +24,7 @@
       "version": "1.0.0",
       "transport": {
         "type": "streamable-http",
-        "url": "https://mcp.ansvar.eu/law-taiwanese-law-mcp/mcp"
+        "url": "https://taiwanese-law-mcp.vercel.app/mcp"
       }
     }
   ]
